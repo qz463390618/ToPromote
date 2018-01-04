@@ -1,0 +1,313 @@
+.bd_top {
+    border-top: 1px solid rgb(205, 205, 205);
+}
+.space40 {
+    clear: both;
+    height: 40px;
+    line-height: 0;
+    font-size: 0px;
+    width: 100%;
+}
+.main {
+    width: 960px;
+    margin: 0 auto;
+    overflow: hidden;
+    background: #fff;
+}
+#artical_topic {
+    letter-spacing: -1.5px;
+}
+#artical_sth {
+    padding-bottom: 5px;
+}
+#artical_sth p {
+    float: left;
+    width: 250px;
+    color: rgb(153, 153, 153);
+    line-height: 22px;
+    font-size: 10px;
+}
+.cmt em {
+    font-size: 16px;
+    font-weight: bold;
+}
+#artical_sth h5 span {
+    cursor: pointer;
+    height: 13px;
+    margin-right: 10px;
+}
+.cmt a span {
+    color: rgb(153, 153, 153);
+    font-weight: lighter;
+}
+.cmt a:link, .cmt a:hover, .cmt a:visited {
+    color: rgb(245, 67, 67);
+    font-weight: bold;
+}
+.active h1 {
+    font-size: 16px;
+}
+.box03 {
+    width: 230px;
+    float: right;
+    padding-right: 10px;
+}
+.line {
+    border-top: 1px solid rgb(221, 221, 221);
+    height: 9px;
+    overflow: hidden;
+    clear: both;
+    width: 100%;
+}
+.activeCenter {
+    font-size: 14px;
+    line-height: 24px;
+    text-align: left;
+    padding: 25px 0px 0px;
+    position: relative;
+}
+.activeCenter p {
+    text-indent: 28px;
+    font-size: 14px;
+    margin-bottom: 25px;
+    text-align: justify;
+    overflow-wrap: break-word;
+    word-break: normal;
+    /*text-align: center;*/
+}
+.activeCenter .weixin {
+    color: red;
+    font-weight: bold;
+    font-size: 20px;
+}
+.activeCenter .weixin strong {
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+    background:#ff0000
+}
+.activeCenter .img {
+    text-align: center;
+}
+.activeFooter {
+    float: left;
+    margin-bottom: 10px;
+}
+.activeFooter .left_dz {
+    border: 1px solid rgb(245, 67, 67);
+    padding: 6px 10px 6px 36px;
+    color: rgb(245, 67, 67);
+    float: left;
+    background-repeat: no-repeat;
+    background-position: 12px 6px;
+    height: 16px;
+    line-height: 16px;
+    cursor: pointer;
+    font-size: 14px;
+    margin-top: 30px;
+}
+.other {
+    margin-bottom: 8px;
+}
+.other .w-rightBox {
+    float: right;
+}
+.w-com a {
+    color: rgb(245, 67, 67);
+}
+.w-reply a {
+    color: rgb(245, 67, 67);
+}
+.other .w-tips {
+    font-size: 12px;
+    color: rgb(153, 153, 153);
+}
+.another .w-areaBox {
+    position: relative;
+    height: 110px;
+    width: 100%;
+}
+.another .w-commentArea {
+    height: 110px;
+    width: 97.8%;
+    padding: 10px 1%;
+    border: 1px solid rgb(220, 220, 220);
+    resize: none;
+    outline: 0px none;
+    font-size: 14px;
+    color: rgb(153, 153, 153);
+}
+.another a.w-submitBtn:hover {
+    background: rgb(239, 38, 38) none repeat scroll 0% 0%;
+    text-decoration: none;
+}
+.another .w-submitBar {
+    position: relative;
+    width: 100%;
+    height: 40px;
+    border-width: 0px 1px 1px;
+    border-style: none solid solid;
+    border-color: currentcolor rgb(220, 220, 220) rgb(220, 220, 220);
+    -moz-border-top-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    border-image: none;
+    background: rgb(247, 247, 247) none repeat scroll 0% 0%;
+}
+.another .w-submitBtn {
+    display: block;
+    float: right;
+    width: 120px;
+    height: 40px;
+    background: rgb(245, 67, 67) none repeat scroll 0% 0%;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font: 18px/40px "microsoft yahei";
+}
+.mod-commentNewTitle {
+    margin-top: 25px;
+    margin-bottom: 10px;
+    font: bold 20px/22px "microsoft yahei";
+    color: rgb(0, 0, 0);
+}
+/*zuihouhuifu*/
+.mod-commentNew {
+    font-size: 14px;
+}
+.mod-articleCommentBlock {
+    position: relative;
+    padding-top: 20px;
+    background: rgba(0, 0, 0, 0)  scroll left bottom;
+}
+.mod-articleCommentBlock .w-username {
+    margin-bottom: 17px;
+    font-size: 14px;
+}
+.mod-articleCommentBlock .w-username, .mod-articleCommentBlock .w-commentTime {
+    color: rgb(153, 153, 153);
+}
+/*.mod-articleCommentBlock .w-username, .mod-articleCommentBlock .w-contentTxt {
+    padding: 0px;
+}*/
+.w-mid {
+    padding-left: 40px;
+    margin-bottom: 20px;
+}
+.mod-articleReplyBlock {
+    position: relative;
+    margin-top: 0px;
+    padding-top: 18px;
+    background: rgb(251, 251, 251)  repeat-x scroll 0px top;
+}
+.mod-articleReplyBlock .w-order {
+    position: absolute;
+    top: 20px;
+    right: 10px;
+    font-size: 10px;
+}
+.mod-articleReplyBlock .w-username, .mod-articleReplyBlock .w-contentTxt, .mod-articleReplyBlockTowerFirst .w-username, .mod-articleReplyBlockTowerFirst .w-contentTxt {
+    padding-right: 42px;
+    padding-left: 12px;
+    word-break: break-all;
+}
+.mod-articleReplyBlockTowerFirst .w-bottomBar {
+    font-size: 12px;
+    padding-bottom: 17px;
+    padding-left: 12px;
+    padding-right: 0px;
+}
+.mod-articleCommentBlock .mod-articleCommentBlock .w-reply {
+    padding-right: 10px;
+}
+.mod-articleCommentBlock .w-rep-line {
+    display: inline-block;
+    padding: 0px 8px;
+    color: rgb(194, 194, 194);
+}
+address, caption, cite, code, dfn, em, strong, th, var {
+    font-style: normal;
+    font-weight: normal;
+}
+.mod-articleCommentBlock .w-rep-reply {
+    color: rgb(0, 0, 0);
+}
+.mod-articleCommentBlock .w-rep-line {
+    display: inline-block;
+    padding: 0px 8px;
+    color: rgb(194, 194, 194);
+}
+.mod-articleCommentBlock .w-username a {
+    font-size: 14px;
+}
+.w-username a {
+    color: rgb(0, 66, 118) !important;
+}
+.mod-articleCommentBlock .w-username {
+    margin-bottom: 17px;
+    font-size: 14px;
+}
+.w-mid {
+    padding-left: 40px;
+    margin-bottom: 20px;
+}
+.mod-articleCommentBlock .w-contentTxt {
+    margin-bottom: 15px;
+    line-height: 1.4em;
+    color: rgb(43, 43, 43);
+    font-size: 14px;
+    overflow-wrap: break-word;
+    word-break: break-all;
+}
+.mod-articleCommentBlock .w-bottomBar {
+    font-size: 12px;
+    padding-bottom: 17px;
+    padding-right: 10px;
+}
+.mod-articleCommentBlock .w-reply {
+    float: right;
+    line-height: 14px;
+}
+.mod-articleCommentBlock .w-rep-num {
+    padding-left: 8px;
+    font: 16px georgia;
+    color: rgb(245, 67, 67);
+}
+.mod-articleCommentBlock .w-rep-rec {
+    color: rgb(0, 0, 0);
+}
+.mod-articleCommentBlock .w-reply .w-report {
+    color: rgb(0, 0, 0);
+}
+/*zhibian*/
+.rightweixin {
+    width: 240px;
+    position: fixed;
+    top: 20%;
+    right: 0;
+    z-index: 2000;
+    background: #fff;
+    border: 1px solid #333;
+}
+.rightweixin .rightTop {
+    text-align: center;
+    font-size: 18px;
+    margin: 40px 0 20px;
+    width: 100%;
+}
+.rightweixin .rightBold {
+    font-family: 微软雅黑;
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+    background:#ff0000;
+}
+.rightweixin .rightImg {
+    display: block;
+    width: 90%;
+    height: auto;
+    margin: 0 auto 20px;
+}
+.footer {
+    text-align: center;
+    font-size: 12px;
+    color: #bdb9b9;
+}

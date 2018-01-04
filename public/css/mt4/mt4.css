@@ -1,0 +1,62 @@
+body,h1,h2,h3{font-weight: lighter;}
+*{line-height: 100%}
+.downloadPage.advantages li,.downloadPage.mobile ul li{display: inline-block;vertical-align: top;}
+.cover{width:1280px;margin:0 auto; box-shadow:0 0 30px -15px #000;overflow:hidden;}
+h1,h2{padding:0 10px;text-align: center;}
+h1{font-size: 70px;margin: 30px 0px 40px;}
+h2,h3{color:#fc873a;font-size:30px;line-height: 120%;margin:-20px 0 40px;}
+h3{font-size: 25px;margin: 30px 0px 15px;}
+.container{font-size:16px;}
+.container{max-width: 1180px;min-height: 30px;margin: 0 auto;position:relative;padding:10px;}
+.content{min-height:100px;}
+.content h3,.content p,.content ul{text-align: left;}
+.content ul li{display:block;list-style: none;margin: 0;padding:0 0 5px 24px;position:relative;}
+/*.content img{height:auto!important;max-width: 100%!important;}*/
+li,p,ul{font-size:16px;line-height: 160%;}
+p{margin-bottom: 12px;}
+.downloadPage.advantages{margin:10px -30px 20px; padding:0;list-style: none;text-align: center;}
+.content ul{display:inline-block;list-style: none;padding:0;}
+
+.downloadPage.advantages li.tradingPlatform{background:url('http://img.zengwf.com/images/mt4/mt4_icon01.png')no-repeat center top;}
+.downloadPage.advantages li.technicalAnalysis{background:url('http://img.zengwf.com/images/mt4/mt4_icon02.png')no-repeat center top;}
+.downloadPage.advantages li.automatedTrading{background:url('http://img.zengwf.com/images/mt4/mt4_icon03.png')no-repeat center top;}
+.downloadPage.advantages li.market{background:url('http://img.zengwf.com/images/mt4/mt4_icon04.png')no-repeat center top;}
+.downloadPage.advantages li.signals{background:url('http://img.zengwf.com/images/mt4/mt4_icon05.png')no-repeat center top;}
+.downloadPage.advantages li.alertsNews{background:url('http://img.zengwf.com/images/mt4/mt4_icon06.png')no-repeat center top;}
+
+.downloadPage.advantages li{list-style: none;text-align: center;padding:115px 0 0 ;max-width:100%;margin: 0px 25px 20px;width:350px;}
+a,a:link{color:#1784c0;}
+
+.downloadPage.mobile.ios{background:#fefefe;}
+.downloadPage.mobile{margin:50px -50px;padding:10px 0 20px;}
+.downloadPage.mobile.ios .fquote.wrapper{padding:0 50px 0 580px;}
+.fquote.wrapper.left{padding-left: 500px;padding-right:0;}
+.fquote.wrapper{margin:0 0 50px;border:0;position:relative;padding:0 500px 0 0 ;}
+.downloadPage.mobile .description p{font-size:22px;text-align: left;}
+.fquote.wrapper p{margin:10px 0;}
+.fquote.wrapper img{position:absolute;top:0;right:0;}
+.downloadPage.mobile.ios .fquote.wrapper img{margin:0;text-align: left;}
+.fquote.wrapper.left img{left:0;right:auto;}
+
+.downloadPage.mobile ul{margin:10px -35px 0 0 ;}
+.downloadPage.mobile ul li{margin: 0 45px 15px 0; width:210px;}
+.content ul li{display: block;list-style: none;margin:0;padding:0 0 5px 24px;position:relative;}
+.content .downloadPage.mobile ul li:before{background:url('http://img.zengwf.com/images/mt4/icons.png')no-repeat -206px -86px;content:'';height:16px;left:0;position:absolute;top:4px;width:16px;}
+
+.downloadPage.mobile.android{margin-bottom:0;padding-bottom:0;}
+.downloadPage.mobile{margin:50px 0px;padding:10px 0 20px;}
+.downloadPage.mobile.android .fquote.wrapper{padding:0 655px 0 50px;min-height: 580px;}
+.fquote{border:1px dashed #ccc;margin:12px;padding:12px;}
+.downloadPage.mobile.android .fquote.wrapper img{right:-160px;}
+.downloadPage.mobile.android ul li{width:180px;margin-right:40px;}
+.footer{
+    width:100%;
+    height:90px;background:#444242;}
+.footer h2{font-weight: 400;color:#fff;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-top: 0;}
+.footer p{color:#fff;
+    text-align: center;
+    font-size: 1.5rem; }

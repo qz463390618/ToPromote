@@ -1,0 +1,59 @@
+.head{
+    background:url('http://img.zengwf.com/images/calendar/bg1.png');
+
+}
+.head-content{
+    /*display:-webkit-box;-webkit-box-pack: center;-webkit-box-align: center;text-align:center;*/
+    /*text-align: center;*/
+}
+.head-content .title{
+    width:42rem;
+    margin-left: 9rem;
+}
+.head-content .air{
+    width:43rem;
+    margin-left: 9rem;
+}
+.head-content .h3h{
+    width: 49rem;
+    margin-top: -75px;
+    margin-left: 6rem;
+}
+
+.downs{
+    width: 80%;
+    /*margin: 0 auto;*/
+    margin-left: 10%;
+}
+.downs li{
+    float: left;
+}
+
+.downs li img{
+    width:24.5rem;
+}
+
+.footer{
+    background:url('http://img.zengwf.com/images/calendar/bg2.png');
+}
+
+.footer-content{
+    text-align: center;
+}
+
+
+
+
+
+.copyright{
+    width:100%;
+    height:120px;background:#444242;}
+.copyright h2{font-weight: 400;color:#fff;
+    display:-webkit-box;-webkit-box-pack: center;-webkit-box-align: center;text-align:center;
+    padding-top: 15px;font-size: 0.1rem;
+    padding-bottom: 15px;
+    margin-top: 0;}
+.copyright p{color:#fff;
+    display:-webkit-box;-webkit-box-pack: center;-webkit-box-align: center;text-align:center;
+    font-size: 1.8rem;
+}

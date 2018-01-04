@@ -1,0 +1,2 @@
+success;517
+http://120.78.138.165:9008 /servlet/UserServiceAPI?method=sendSMS&extenno=&isLongSms=0&username=zlyjjh&password=emx5MTIzNDU2&smstype=2&mobile=17317373828&content=%A1%BE%C9%CF%BA%A3%D6%AA%B3%D6%A1%BF%C4%FA%B5%C4%D1%E9%D6%A4%C2%EB%CA%C7%3A6945%2C5%B7%D6%D6%D3%BA%F3%B9%FD%C6%DA%A3%AC%C7%EB%C4%FA%BC%B0%CA%B1%D1%E9%D6%A4%21

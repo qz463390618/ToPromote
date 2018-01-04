@@ -1,0 +1,155 @@
+body {
+    background-color: #ededed;
+}
+.big-1 {
+    background-color: #fff;
+    height: 1200px;
+}
+.big-2 {
+    background-color: #fff;
+    height: 4850px;
+    margin-top: 3rem;
+}
+.big-3 {
+    background-color: #fff;
+    height: 530px;
+    padding-top: 1rem;
+    margin-top: 3rem;
+}
+.div-1 {
+    background: url(http://img.zengwf.com/images/dqxs/rw.jpg) no-repeat;
+    height: 450px;
+}
+div {
+    width: 100%;
+    margin: 0 auto;
+}
+div .p {
+    font-size: 37px;
+    color: #4d4d4d;
+    text-indent: 2em;
+    line-height: 4rem;
+    margin-top: 3%;
+    letter-spacing: 2px;
+}
+.div-2 img {
+    float: left;
+    margin-top: 4rem;
+    width: 3rem;
+}
+.div-6 img {
+    float: left;
+    margin-top: 2.1rem;
+    width: 3rem;
+}
+.div-3 h1 {
+    color: #f00;
+    text-align: center;
+    font-size: 50px;
+    margin-top: 8%;
+}
+.div-4 {
+    text-indent: 2em;
+}
+.div-4 p {
+    padding-top: 2rem;
+}
+.div-5 {
+    width: 30rem;
+    height: 250px;
+    margin-left: 19rem;
+    margin-top: 5rem;
+}
+.div-5 img {
+    /*border: 3px dotted #4d4d4d;*/
+    padding: 1rem;
+    border-radius: 5px;
+    width: 20rem;
+}
+.div-14 {
+    width: 0rem;
+    height: 250px;
+    margin-left: 18.5rem;
+    margin-top: 3rem;
+}
+.div-14 img {
+    /*border: 3px dotted #4d4d4d;*/
+    border-radius: 5px;
+    padding: 1rem;
+    width: 20rem;
+}
+.div-13 p:nth-child(1) {
+    text-indent: 0em;
+}
+.div-13 p:nth-child(2) {
+    color: #f00;
+    font-style: italic;
+    font-size: 45px;
+    font-weight: bold;
+    padding-left: 65%;
+}
+.div-7, .div-8, .div-9, .div-10, .div-11, .div-12, .div-13 {
+    padding-top: 3%;
+    width: 931px;
+}
+.div-7 {
+    padding-top: 6rem;
+}
+.div-7 img, .div-8 img, .div-9 img, .div-10 img, .div-11 img, .div-12 img {
+    float: left;
+    margin-top: 0.8rem;
+    margin-right: 1rem;
+    width: 1.5rem;
+}
+.div-7 h1, .div-8 h1, .div-9 h1, .div-10 h1, .div-11 h1, .div-12 h1 {
+    float: left;
+    font-size: 27px;
+    color: #063488;
+}
+div h2 {
+    font-size: 3rem;
+    color: #063488;
+    font-weight:normal;
+}
+div .span {
+    color: #f00;
+}
+.div-text1 {
+    font-size: 2.5rem;
+    margin-top: 8rem;
+    letter-spacing: 6px;
+    margin-left: 16rem;
+    color: #fff;
+    font-weight: bold;
+    border-radius: 50px;
+    background-color: #46759c;
+    padding: 1rem;
+    width: 26rem;
+    text-align: center;
+    text-indent: 0.2rem;
+}
+.text2 {
+    margin-left: 15.5rem;
+    text-indent: 0.5em;
+}
+.footer {
+    margin-top: 1rem;
+    border-top: 2px solid #ccc;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    color: #6b6a6a;
+    font-size: 25px;
+    padding-left: 1rem;
+}
+
+.copyright{
+    width:100%;
+    height:120px;background:#444242;}
+.copyright h2{font-weight: 400;color:#fff;
+    display:-webkit-box;-webkit-box-pack: center;-webkit-box-align: center;text-align:center;
+    padding-top: 15px;font-size: 0.1rem;
+    padding-bottom: 15px;
+    margin-top: 0;}
+.copyright p{color:#fff;
+    display:-webkit-box;-webkit-box-pack: center;-webkit-box-align: center;text-align:center;
+    font-size: 1.3rem;}

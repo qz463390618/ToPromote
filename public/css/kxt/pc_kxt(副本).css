@@ -1,0 +1,215 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    color:#000;
+}
+.clearfix::before,.clearfix::after{
+    content:'';
+    display: table;
+}
+.clearfix::after{
+    clear:both;
+}
+.floatl{
+    float: left;
+}
+.floatr{
+    float: right;
+}
+body {
+    width: 100%;
+}
+.one {
+	background: url(../../images/kxt/bj.png);
+	height: 726px;
+    margin:0 auto;
+    width: 1903px;
+}
+.one .o-l-pc {
+    padding-top: 7%;
+    margin-left: 6%;
+}
+.one .o-l-sj {
+    margin-left: -11%;
+}
+.one .o-l-sj img {
+    margin-top: -60%;
+}
+.one .one-left {
+    margin-left: 17%;
+    float: left;
+}
+.one .one-right {
+    margin-left: 11%;
+    width: 1292px;
+}
+.one .one-right .o-r-t {
+    padding-top: 8%;
+    margin-bottom: 2%;
+    margin-left: 5.5%;
+}
+.one .one-right .o-r-b {
+    width: 237px;
+    height: 63px;
+    background-color: #fff;
+    margin-left: 6%;
+    margin-top: 1%;
+    border-radius: 10px;
+    display: inline-block;
+    cursor: pointer;
+    /*float: left;*/
+}
+.one-right .o-r-b img {
+    margin-top: 6%;
+    margin-left: 9%;
+}
+.one-right .o-r-b p {
+    margin-top: -12%;
+    margin-left: 33%;
+    font-size: 21px;
+    color: #008feb;
+}
+.header {
+    margin:0 auto;
+    width: 1903px;
+	height: 80px;
+	background-color: #fff;
+    padding-top: 1%;
+}
+.header .h-1 {
+    margin-left: 22%;
+}
+.header .h-2 {
+    margin-left: 16%;
+}
+.header img:nth-child(3) {
+    margin-left: 1%;
+}
+.header img:nth-child(4) {
+    margin-left: 1%;
+}
+.two {
+    background: url(../../images/kxt/bj2.png);
+    height: 800px;
+    margin:0 auto;
+    width: 1903px;
+}
+.two-left {
+    margin-left: 19%;
+    padding-top: 8%;
+    position: relative;
+}
+.two-left img:nth-child(1) {
+    position: absolute;
+    display: block;
+} 
+.two-left img:nth-child(2) {
+    position: absolute;
+    display: block;
+    left: 58px;
+    top: 131%;
+} 
+.two-left img:nth-child(3) {
+    position: absolute;
+    display: block;
+    left: 5.5%;
+    top: 81%;
+}
+.two-left img:nth-child(4) {
+    position: absolute;
+    display: block;
+    top: 47%;
+    left: 9.2%;
+} 
+.two-left img:nth-child(5) {
+    position: absolute;
+    display: block;
+    left: 11%;
+    top: 28%;
+} 
+.two .two-right {
+    float: left;
+    margin-left: 56%;
+}
+.three {
+    height: 500px;
+    margin:0 auto;
+    width: 1903px;
+}
+.three .three-left {
+    margin-top: 11%;
+    margin-left: 16.7%;
+}
+.three .three-right {
+    margin-left: 56%;
+    float: left;
+    margin-top: -25%;
+}
+.three-right img:nth-child(2) {
+    margin-bottom: 14%;
+    margin-left: -37.5%;
+}
+.three-right img:nth-child(3) {
+    margin-left: -65%;
+    margin-bottom: 17%;
+}
+.three-right img:nth-child(4) {
+    margin-bottom: 18%;
+    margin-left: 1.7%;
+}
+.three-right img:nth-child(5) {
+    margin-bottom: 17%;
+    margin-left: 2%;
+}
+.four {
+    background: url(../../images/kxt/bj4.png);
+    height: 800px;
+    margin:0 auto;
+    width: 1903px;
+}
+.four .four-left {
+    margin-left: 24%;
+    padding-top: 6%;
+}
+.four .four-left img {
+    float: left;
+}
+.four .four-left img:nth-child(1) {
+    z-index: 2;
+    position: relative;
+}
+.four .four-left img:nth-child(2) {
+    margin-left: -22%;
+    margin-top: -4%;
+    z-index: 1;
+    position: relative;
+}
+.four .four-left img:nth-child(3) {
+    margin-left: -22%;
+    margin-top: -4%;
+}
+.four .four-right {
+    margin-top: 10%;
+}
+
+.copyright{
+    width:100%;
+    height:120px;background:#444242;}
+.copyright h2{font-weight: 400;color:#fff;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-top: 0;}
+.copyright p{color:#fff;
+    text-align: center; }
+
+.down{
+    cursor: pointer;
+}
+

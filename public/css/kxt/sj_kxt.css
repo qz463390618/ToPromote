@@ -1,0 +1,423 @@
+.nav_box .nav {
+    width: 100%;
+}
+.fl {
+    float: left;
+    margin-left: 2rem;
+}
+.down_logo a {
+    display: inline-block;
+    margin-top: 2rem;
+    margin-left: 6rem;
+}
+/*/////////////////*/
+.one {
+    background: url(http://img.zengwf.com/images/kxt/bj.png);
+    height: 726px;
+    margin:0 auto;
+    width: 100%;
+    position: relative;
+    top: -6rem;
+}
+.one .o-l-pc {
+    padding-top: 15rem;
+    margin-left: 5rem;
+}
+.one .o-l-pc img {
+    width: 30rem;
+}
+.one .o-l-sj {
+    margin-left: 1rem;
+}
+.one .o-l-sj img {
+    margin-top: -28rem;
+    width: 12rem;
+}
+.one .one-left {
+    margin-left: 2rem;
+    float: left;
+}
+.one .one-right {
+    margin-left: -10rem;
+    width: 70rem;
+    padding-top: 5rem;
+}
+.one .one-right .o-r-t {
+    padding-top: 13rem;
+    margin-left: 2rem;
+    width: 21rem;
+}
+.one .one-right .o-r-b {
+    margin-top: 1rem;
+    width: 15rem;
+    height: 58px;
+    background-color: #fff;
+    border-radius: 10px;
+    display: inline-block;
+    margin-left: 2rem;
+}
+.one-right .o-r-b img {
+    margin-top: 0.8rem;
+    margin-left: 1rem;
+    width: 1.9rem;
+}
+.one-right .o-r-b p {
+    margin-top: -2.2rem;
+    margin-left: 4rem;
+    font-size: 26px;
+    color: #008feb;
+}
+.header {
+    width: 100%;
+    margin: 0 auto;
+    height: 60px;
+    background-color: #fff;
+}
+.header .h-1 {
+    margin-left: 3rem;
+    width: 16rem;
+}
+.header .h-2 {
+    margin-left: 5rem;
+    width: 5rem;
+}
+.header img:nth-child(2) {
+    width: 11rem;
+}
+.header img:nth-child(3) {
+    margin-left: 1rem;
+    width: 11rem;
+}
+.header img:nth-child(4) {
+    margin-left: 1rem;
+    width: 11rem;
+}
+.two {
+    background: url(http://img.zengwf.com/images/kxt/bj2.png);
+    height: 600px;
+    margin:0 auto;
+    width: 100%;
+    padding-top: 2rem;
+}
+.two-left {
+    margin-left: 6rem;
+    padding-top: 9rem;
+    position: relative;
+}
+.two-left img:nth-child(1) {
+    position: absolute;
+    display: block;
+    width: 30rem;
+}
+.two-left img:nth-child(2) {
+    position: absolute;
+    display: block;
+    left: 2.2rem;
+    top: 10.7rem;
+    width: 25rem;
+}
+.two-left img:nth-child(3) {
+    position: absolute;
+    display: block;
+    left: 2.5rem;
+    top: 6.5rem;
+    width: 25rem;
+}
+.two-left img:nth-child(4) {
+    position: absolute;
+    display: block;
+    top: 3.2rem;
+    left: 4.5rem;
+    width: 23rem;
+}
+.two-left img:nth-child(5) {
+    position: absolute;
+    display: block;
+    left: 6rem;
+    top: 1.5rem;
+    width: 22rem;
+}
+.two .two-right {
+    float: left;
+    margin-left: 34rem;
+    margin-top: -6rem;
+}
+.two .two-right img {
+    width: 25rem;
+}
+.three {
+    height: 450px;
+    margin:0 auto;
+    width: 100%;
+}
+.three .three-left {
+    margin-top: 11rem;
+}
+.three .three-left img {
+    width: 25rem;
+}
+.three .three-right {
+    margin-left: 33rem;
+    float: left;
+    margin-top: -25rem;
+}
+.three .three-right img:nth-child(1) {
+    width: 15rem;
+}
+.three-right img:nth-child(2) {
+    margin-bottom: 6rem;
+    margin-left: -13.1rem;
+    width: 10rem;
+}
+.three-right img:nth-child(3) {
+    margin-left: -21.5rem;
+    margin-bottom: 7rem;
+    width: 9.5rem;
+}
+.three-right img:nth-child(4) {
+    margin-bottom: 7rem;
+    margin-left:1.5rem;
+    width: 9.5rem;
+}
+.three-right img:nth-child(5) {
+    margin-bottom: 7rem;
+    width: 9.5rem;
+    margin-left: 1rem;
+}
+.four {
+    background: url(http://img.zengwf.com/images/kxt/bj4.png);
+    height: 800px;
+    margin:0 auto;
+    width: 100%;
+}
+.four .four-left {
+    padding-top: 8rem;
+}
+.four .four-left img {
+    float: left;
+}
+.four .four-left img:nth-child(1) {
+    z-index: 2;
+    width: 24rem;
+    position: relative;
+    margin-left: 3rem;
+}
+.four .four-left img:nth-child(2) {
+    margin-left: -18rem;
+    margin-top: -3rem;
+    z-index: 1;
+    position: relative;
+    width: 24rem;
+}
+.four .four-left img:nth-child(3) {
+    margin-left: -18rem;
+    margin-top: -2rem;
+    width: 14rem;
+}
+.four .four-right {
+    margin-top: 10rem;
+}
+.four .four-right img {
+    width: 25rem;
+}
+.copyright{
+    width:100%;
+    height:120px;background:#444242;}
+.copyright h2{font-weight: 400;color:#fff;
+    display:-webkit-box;-webkit-box-pack: center;-webkit-box-align: center;text-align:center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-top: 0;
+    font-size: 0.1rem;}
+.copyright p{color:#fff;
+    display:-webkit-box;-webkit-box-pack: center;-webkit-box-align: center;text-align:center;
+    font-size: 1.4rem;
+}
+
+.down{
+    cursor: pointer;
+}
+
+.two .one-right{
+    width: 23%;
+    float: right;
+    margin-right: 9%;
+    margin-top: 2%;
+}
+.one-right .o-r-b{
+    width: 237px;
+    height: 63px;
+    background-color: #fff;
+    margin-left: 6%;
+    margin-top: 1%;
+    border-radius: 10px;
+    display: inline-block;
+    cursor: pointer;
+    /* float: left; */
+}
+.one-right .o-r-b:first-child{
+    margin-bottom: 7%;
+}
+/*////////////////////动画/////////////////////*/
+/*
+
+.two-left-3 {
+    animation: two-l-3 1s 1 linear 0s;
+    animation-fill-mode: forwards;
+    transform: rotate(-8deg);
+    transform-origin: 100% 100%;
+}
+.two-left-4 {
+    animation: two-l-4 1s 1 linear 0.1s;
+    animation-fill-mode: forwards;
+    transform: rotate(-15deg);
+    transform-origin: 100% 100%;
+}
+.two-left-5 {
+    animation: two-l-5 1s 1 linear 0.3s;
+    animation-fill-mode: forwards;
+    transform: rotate(-20deg);
+    transform-origin: 100% 100%;
+}
+.two-r {
+    animation: two-r 1s 1 linear 0s;
+    animation-fill-mode: forwards;
+}
+.three-l {
+    animation: three-l 1s 1 linear 0s;
+    animation-fill-mode: forwards;
+}
+.three-right-3 {
+    animation: three-r-3 1s 1 linear 0s;
+    animation-fill-mode: forwards;
+}
+.three-right-4 {
+    animation: three-r-4 1s 1 linear 0s;
+    animation-fill-mode: forwards;
+}
+.three-right-5 {
+    animation: three-r-4 1s 1 linear 0s;
+    animation-fill-mode: forwards;
+}
+.four-left-2 {
+    animation: four-l-2 1s 1 linear 0s;
+    animation-fill-mode: forwards;
+}
+.four-left-3 {
+    animation: four-l-3 1s 1 linear 0s;
+    animation-fill-mode: forwards;
+}
+.four-right {
+    animation: two-r 1s 1 linear 0s;
+    animation-fill-mode: forwards;
+}
+.one-right-1{
+    animation: but 1s 1 linear 0s;
+    animation-fill-mode: forwards;
+}
+.one-right-2{
+    animation: but 1.2s 1 linear 0s;
+    animation-fill-mode: forwards;
+}
+@keyframes two-l-3 {
+    from {
+        transform: rotate(-8deg);
+    }
+    to {
+        transform: rotate(0deg);
+    }
+}
+@keyframes two-l-4 {
+    from {
+        transform: rotate(-15deg);
+    }
+    to {
+        transform: rotate(0deg);
+    }
+}
+@keyframes two-l-5 {
+    from {
+        transform: rotate(-20deg);
+    }
+    to {
+        transform: rotate(0deg);
+    }
+}
+@keyframes two-r {
+    from {
+        transform: translate(1px,40px);
+        opacity: .3;
+    }
+    to {
+        transform: translate(0px,40px);
+        opacity:1;
+    }
+}
+@keyframes three-l {
+    from {
+        transform: translateX(-100px);
+        opacity: .3;
+    }
+    to {
+        transform: translateX(0px);
+        opacity:1;
+    }
+}
+@keyframes three-r-3 {
+    from {
+        transform: translateX(0px);
+    }
+    to {
+        transform: translateX(-68px);
+    }
+}
+@keyframes three-r-4 {
+    from {
+        transform: translateX(0px);
+    }
+    to {
+        transform: translateX(-70px);
+    }
+}
+@keyframes three-r-5 {
+    from {
+        transform: translateX(0px);
+    }
+    to {
+        transform: translateX(-80px);
+    }
+}
+@keyframes four-l-2 {
+    from {
+        transform: translateX(0px);
+    }
+    to {
+        transform: translateX(50px);
+    }
+}
+@keyframes four-l-3 {
+    from {
+        transform: translateX(0px);
+    }
+    to {
+        transform: translateX(100px);
+    }
+}
+@keyframes but {
+    from {
+        transform: translateX(1px);
+        opacity: .3;
+    }
+    to {
+        transform: translateX(0px);
+        opacity:1;
+    }
+}
+@keyframes dan {
+    from {
+        opacity: 1;
+    }
+    to {
+        opacity: 0;
+    }
+}*/

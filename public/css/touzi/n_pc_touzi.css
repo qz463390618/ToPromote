@@ -1,0 +1,137 @@
+.div-1 {
+    background: url(http://img.zengwf.com/images/ntouzi/banner.jpg) no-repeat;
+    width: 100%;
+    height: 650px;
+    margin: 0 auto;
+    padding-top:540px;
+}
+.div-1 .div-img {
+    margin: 0 auto;
+    width: 963px;
+    padding-top: 28%;
+}
+.div-2 .div-img {
+    margin: 0 auto;
+    width: 963px;
+    padding-top: 33%;
+}
+.div-3 .div-img {
+    margin: 0 auto;
+    width: 963px;
+    padding-top: 36%;
+}
+.div-1 .div-img img {
+    margin-left: 5%;
+}
+.div-2 .div-img img {
+    margin-left: 5%;
+}
+.div-3 .div-img img {
+    margin-left: 5%;
+}
+.div-2 {
+    background: url(http://img.zengwf.com/images/ntouzi/pic01.jpg) no-repeat;
+    width: 100%;
+    height: 756px;
+    margin: 0 auto;
+    padding-top: 638px;
+}
+.div-3 {
+    background: url(http://img.zengwf.com/images/ntouzi/pic02.jpg) no-repeat;
+    width: 100%;
+    height: 779px;
+    margin: 0 auto;
+    padding-top: 680px;
+}
+.div-4 {
+    margin: 0 auto;
+    width: 100%;
+    padding-bottom:129px;
+}
+.div-4 p {
+    height: 64px;
+    line-height: 64px;
+    font-size: 1px;
+    color: #fff;
+    text-align: center;
+    background: #959595;
+}
+.div-5 {
+    background: url(http://img.zengwf.com/images/ntouzi/bg02.png);
+    height: 139px;
+    width: 100%;
+    /*padding-left: 20%;*/
+    margin: 0 auto;
+}
+.div-5 h3 {
+    display: inline-block;
+    line-height: 47px;
+    color: #fff;
+    font-size: 30px;
+    font-weight: normal;
+    margin-left: 24%;
+}
+.div-5 .input {
+    padding-left: 100px;
+    /*display: inline-block;*/
+    margin-left: 18.8%;
+}
+.div-5 .input span {
+    font-size: 12px;
+    color: #fff;
+    margin-right: 10px;
+}
+.div-5 .in {
+    width: 140px;
+    height: 36px;
+    line-height: 36px;
+    padding: 0 10px;
+    font-family: "微软雅黑";
+    font-size: 12px;
+    color: #333;
+    margin-right: 10px;
+    border: none;
+    background: #fff;
+}
+.div-5 .btn1 {
+    width: 131px;
+    height: 36px;
+    background: url(http://img.zengwf.com/images/ntouzi/btn02.png) 0 0 no-repeat;
+    font-family: "微软雅黑";
+    font-size: 16px;
+    color: #333;
+    margin-right: 10px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+.div-5 .btn2 {
+    width: 132px;
+    height: 36px;
+    background: url(http://img.zengwf.com/images/ntouzi/btn01.png) 0 0 no-repeat;
+    border: none;
+    font-family: "微软雅黑";
+    font-size: 16px;
+    color: #333;
+    outline: none;
+    cursor: pointer;
+}
+.downs{
+    width:895px;
+    margin:0 auto;
+}
+.downs li{
+    float: left;
+    margin-right: 42px;
+}
+
+.copyright{
+    width:100%;
+    height:88px;background:#959595;padding-bottom:230px;}
+.copyright h2{font-weight: 400;color:#fff;
+    text-align: center;
+    padding-top: 15px;font-size: 1px;
+    padding-bottom: 15px;
+    margin-top: 0;}
+.copyright p{color:#fff;
+    text-align: center; }

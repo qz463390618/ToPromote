@@ -1,0 +1,368 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+.center {
+    width: 100%;
+    margin: 0 auto;
+}
+.warp {
+    background: url(http://img.zengwf.com/images/nmetal/bg1.jpg) no-repeat                                                 ;
+    height: 850px;
+    width: 100%;
+    position: relative;
+    margin: 0 auto;
+}
+.warp .pc {
+    width: 250px;
+    height: 66px;
+    border-radius: 10px;
+    background-color: #1e52c0;
+    margin-left: 55%;
+    position: absolute;
+    top: 62%;
+    cursor: pointer;
+}
+.warp .app {
+    width: 250px;
+    height: 66px;
+    border-radius: 10px;
+    background-color: #292929;
+    margin-left: 55%;
+    position: absolute;
+    top: 73%;
+    cursor: pointer;
+}
+.warp .and {
+    width: 250px;
+    height: 66px;
+    border-radius: 10px;
+    background-color: #32b80a;
+    margin-left: 55%;
+    position: absolute;
+    top: 84%;
+    cursor: pointer;
+}
+.warp .pc img {
+    margin-left: 11%;
+    margin-top: 6%;
+}
+.warp .app  img {
+    margin-left: 11%;
+    margin-top: 6%;
+}
+.warp .and img {
+    margin-left: 11%;
+    margin-top: 6%;
+}
+/*dier*/
+.cantain {
+    background:url(http://img.zengwf.com/images/nmetal/p34_03.jpg) no-repeat;
+    height: 920px;
+    width: 100%;
+    font-size: 14px;
+}
+.cantain .one {
+    display: inline-block;
+    width: 216px;
+    padding-top: 472px;
+    margin-left: 459px;
+}
+.cantain .two {
+    display: inline-block;
+    width: 216px;
+    margin-left: 175px;
+}
+.cantain .three {
+    display: inline-block;
+    width: 216px;
+    margin-left: 153px;
+}
+.cantain  .pc {
+    width: 270px;
+    height: 80px;
+    border-radius: 5px;
+    background-color: #1e52c0;
+    margin-left: 29%;
+    margin-top: 500px;
+    cursor: pointer;
+}
+.cantain  .app {
+    width: 270px;
+    height: 80px;
+    border-radius: 5px;
+    background-color: #292929;
+    margin-left: 45%;
+    margin-top: -80px;
+    cursor: pointer;
+}
+.cantain  .and {
+    width: 270px;
+    height: 80px;
+    border-radius: 5px;
+    background-color: #32b80a;
+    margin-left: 61%;
+    margin-top: -80px;
+    cursor: pointer;
+}
+.cantain .pc img {
+    margin-left: 10%;
+    margin-top: 8%;
+}
+.cantain .app  img {
+    margin-left: 10%;
+    margin-top: 8%;
+}
+.cantain .and img {
+    margin-left: 10%;
+    margin-top: 8%;
+}
+.base {
+    background:  #e7ecf0 url(http://img.zengwf.com/images/nmetal/p34_05.jpg) center bottom no-repeat;;
+    width: 100%;
+    height: 1160px;
+    color: #014a7c;
+    line-height: 1.8em;
+}
+.base .b-img {
+    width: 1027px;
+    height: 444px;
+    margin: 0 auto;
+}
+.base ul {
+    margin-left: 17%;
+}
+.base ul li {
+    float: left;
+    margin-left: 7%;
+    margin-top: 2%;
+}
+.base h4 {
+    font-size: 30px;
+    line-height: 1em;
+    padding-bottom: 30px;
+}
+
+.base  .pc {
+    width: 270px;
+    height: 80px;
+    border-radius: 5px;
+    background-color: #1e52c0;
+    margin-left: 29%;
+    margin-top: 430px;
+    cursor: pointer;
+}
+.base  .app {
+    width: 270px;
+    height: 80px;
+    border-radius: 5px;
+    background-color: #292929;
+    margin-left: 45%;
+    margin-top: -80px;
+    cursor: pointer;
+}
+.base  .and {
+    width: 270px;
+    height: 80px;
+    border-radius: 5px;
+    background-color: #32b80a;
+    margin-left: 61%;
+    margin-top: -80px;
+    cursor: pointer;
+}
+.base .pc img {
+    margin-left: 10%;
+    margin-top: 8%;
+}
+.base .app  img {
+    margin-left: 10%;
+    margin-top: 8%;
+}
+.base .and img {
+    margin-left: 10%;
+    margin-top: 8%;
+}
+.inner {
+    background:  #e7ecf0 url(http://img.zengwf.com/images/nmetal/p34_04.jpg) center bottom no-repeat;;
+    width: 100%;
+    height: 1086px;
+    line-height: 1.8em;
+    color: #fff;
+    text-align: center;
+    font-size: 18px;
+}
+.inner .i-img {
+    width: 1027px;
+    height: 444px;
+    margin: 0 auto;
+}
+.inner h4 {
+    font-size: 30px;
+    line-height: 1em;
+    padding-bottom: 20px;
+}
+.inner .c_fed {
+    color: #fed758;
+}
+.inner ul {
+    list-style: none;
+    margin-left: 21%;
+}
+.inner ul li {
+    width: 18%;
+    float: left;
+    margin-left: 1%;
+}
+
+.inner  .pc {
+    width: 270px;
+    height: 80px;
+    border-radius: 5px;
+    background-color: #1e52c0;
+    margin-left: 29%;
+    margin-top: 640px;
+    cursor: pointer;
+}
+.inner  .app {
+    width: 270px;
+    height: 80px;
+    border-radius: 5px;
+    background-color: #292929;
+    margin-left: 45%;
+    margin-top: -80px;
+    cursor: pointer;
+}
+.inner  .and {
+    width: 270px;
+    height: 80px;
+    border-radius: 5px;
+    background-color: #32b80a;
+    margin-left: 61%;
+    margin-top: -80px;
+    cursor: pointer;
+}
+.inner .pc img {
+    margin-left: 1%;
+    margin-top: 8%;
+}
+.inner .app  img {
+    margin-left: 1%;
+    margin-top: 8%;
+}
+.inner .and img {
+    margin-left: 1%;
+    margin-top: 8%;
+}
+.core .c-img1 img {
+    width: 1903px;
+}
+.core .c-img2 img {
+    width: 1903px;
+}
+.core .c-img3 img {
+    width: 1903px;
+}
+.core .c-img1 {
+    height: 394px;
+    width: 100%;
+}
+.core .c-img2 {
+    height: 485px;
+    width: 100%;
+}
+.btn {
+    width: 100%;
+    height: 433px;
+    margin-top: -19%;
+}
+.core  .pc {
+    width: 270px;
+    height: 80px;
+    border-radius: 5px;
+    background-color: #1e52c0;
+    margin-left: 29%;
+    margin-top: 19px;
+    cursor: pointer;
+    position: absolute;
+}
+.core  .app {
+    width: 270px;
+    height: 80px;
+    border-radius: 5px;
+    background-color: #292929;
+    margin-left: 45%;
+    margin-top: 1%;
+    cursor: pointer;
+    position: absolute;
+}
+.core  .and {
+    width: 270px;
+    height: 80px;
+    border-radius: 5px;
+    background-color: #32b80a;
+    margin-left: 61%;
+    margin-top: 1%;
+    cursor: pointer;
+    position: absolute;
+}
+.core .pc img {
+    margin-left: 11%;
+    margin-top: 8%;
+}
+.core .app  img {
+    margin-left: 11%;
+    margin-top: 8%;
+}
+.core .and img {
+    margin-left: 11%;
+    margin-top: 8%;
+}
+.margin {
+    width: 100%;
+    height: 725px;
+    background: #fff url(http://img.zengwf.com/images/nmetal/p34_07_bg.png) center bottom no-repeat;
+}
+.margin .m-img {
+    width: 1086px;
+    height: 444px;
+    margin: 0 auto;
+}
+.margin .btn {
+    display: inline-block;
+    border-radius: 5px;
+    color: #fff;
+    font-size: 25px;
+    text-align: center;
+    margin-top: 100px;
+    height: 300px;
+}
+.margin .pc {
+    display: inline-block;
+    background-color: #1e52c0;
+    width: 263px;
+    height: 55px;
+    border-radius: 5px;
+    padding-top: 20px;
+    cursor: pointer;
+}
+.margin .ic {
+    display: inline-block;
+    width: 33px;
+    height: 32px;
+    background: url(http://img.zengwf.com/images/nmetal/p34_btn01.png) 0 0 no-repeat;
+    vertical-align: middle;
+    margin-right: 50px;
+    margin-left: 25px;
+    color: #fff;
+}
+
+.copyright{
+    width:100%;
+    height:88px;background:#444242;}
+.copyright h2{font-weight: 400;color:#fff;
+    text-align: center;
+    padding-top: 15px;font-size: 12px;
+    padding-bottom: 15px;
+    margin-top: 0;}
+.copyright p{color:#fff;
+    text-align: center; }

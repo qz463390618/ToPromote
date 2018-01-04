@@ -1,0 +1,63 @@
+.head{
+    width:75rem;
+    background:url('http://img.zengwf.com/images/golden/bg_02.png');
+    position:relative;
+    text-align: center;
+}
+
+.head .title{
+    width: 50rem;
+}
+
+.head .air{
+    width:39rem;
+}
+
+.downs{
+    margin-top: 0%;
+}
+.downs li{
+    float: left;
+    cursor: pointer;
+}
+.downs li img{
+    width:37rem;
+}
+
+.column_wrap{
+
+    background:url('http://img.zengwf.com/images/golden/bg_01.png');
+    overflow: hidden;
+    width:75rem;
+
+}
+
+.column_wrap .big5{
+    width: 45rem;
+    margin-top: 2rem;
+    margin-left: 15rem;
+}
+.column_wrap .yuan5{
+    width: 76rem;
+}
+
+.copyright{
+    width:75rem;
+    height:185px;background:#444242;}
+.copyright h2{font-weight: 400;color:#fff;
+    display:-webkit-box;
+    -webkit-box-pack: center;
+    -webkit-box-align: center;
+    text-align:center;
+    /*text-align: center;*/
+    padding-top: 15px;font-size: 0.1rem;
+    padding-bottom: 15px;
+    margin-top: 0;}
+.copyright p{color:#fff;
+    font-size: 2.5rem;
+    display:-webkit-box;
+    -webkit-box-pack: center;
+    -webkit-box-align: center;
+    text-align:center;
+    /*text-align: center;
+    margin:0 auto;*/}

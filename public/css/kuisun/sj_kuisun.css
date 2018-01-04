@@ -1,0 +1,375 @@
+body {
+    margin: 0 auto;
+    background: #f3f3f3;
+    color: #333;
+}
+.blue_kit_top {
+    border-bottom: 1px solid #1e2133;
+    left: 0;
+    width: 100%;
+}
+.blue_kit_left {
+    position: relative;
+    float: left;
+}
+.blue_kit_top {
+    padding-right: 0;
+    z-index: 100;
+    -webkit-tap-highlight-color: transparent;
+}
+.blue_kit, .blue_kit a {
+    color: #cfd8e5;
+}
+.blue_kit_btn_back {
+    padding-left: 18px;
+}
+.blue_kit {
+    background: #262b42;
+    height: 100px;
+    line-height: 44px;
+    text-align: center;
+    position: relative;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+.forum_intro .forum_info_wrapper {
+    padding: 0 0 0 60px;
+    height: 175px;
+    line-height: 60px;
+}
+.forum_info_wrapper {
+    display: block;
+    padding: 8px 66px 8px 78px;
+}
+.forum_intro {
+    background: #fafbfc;
+    border-top: 1px solid #e5e7ea;
+}
+.forum_item {
+    border-bottom: 1px solid #f0f1f2;
+    position: relative;
+    line-height: 20px;
+}
+.forum_intro .forum_name {
+    color: #333;
+    margin-right: .5em;
+    margin-left: 8rem;
+    line-height: 10rem;
+    font-size: 2.5rem;
+}
+.forum_intro .forum_name, .forum_intro .forum_info {
+    display: inline;
+}
+.forum_name {
+    margin: 0;
+    line-height: 22px;
+    color: #333;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+}
+.forum_info_menber_num:before {
+    content: '关注 ';
+}
+.forum_info {
+    color: #f15a23;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    font-size: 2rem;
+}
+.t_f {
+    width: 100%;
+}
+#scbar {
+    border-color: #FCC;
+    height: 44px;
+    border: solid #E5EDF2;
+    border-width: 0 1px 1px;
+    line-height: 44px;
+    overflow: hidden;
+}
+.forum_info_menber_num:before, .forum_info_post_num:before {
+    color: #262626;
+}
+.forum_intro .forum_portrait {
+    width: 141px;
+    height: 141px;
+    left: 14px;
+    background: url(http://img.zengwf.com/images/lttg/timg.jpg) no-repeat;
+}
+.forum_portrait {
+    position: absolute;
+    top: 25%;
+    left: 10px;
+    height: 60px;
+    width: 60px;
+    border-radius: 3px;
+    margin-top: -30px;
+    -webkit-box-shadow: inset 0 0 1px 0 rgba(0,0,0,.5);
+    box-shadow: inset 0 0 1px 0 rgba(0,0,0,.5);
+    background-size: 100% 100%;
+}
+.main {
+    width: 100%;
+    margin: 0 auto;
+    overflow: hidden;
+    background: #fff;
+}
+#header {
+    text-align: center;
+    background: #f1f1f1;
+    line-height: 10rem;
+    background: #f1f1f1;
+    height: 120px;
+    font-size: 2.5rem;
+}
+.line {
+    border-top: 1px solid rgb(221, 221, 221);
+    height: 9px;
+    overflow: hidden;
+    clear: both;
+    width: 100%;
+}
+.activeCenter {
+
+    line-height: 3rem;
+    text-align: left;
+    padding: 25px 0px 0px;
+    position: relative;
+}
+.activeCenter p {
+    margin: 0 auto;
+    padding: 1rem 1rem 1rem 1rem;
+    box-sizing: border-box;
+    line-height: 3rem;
+    text-indent: 2em;
+    font-size: 0.8rem;
+}
+.activeCenter .weixin {
+    color: #fff;
+    font-weight: bold;
+    font-size: 2rem;
+    background: red;
+}
+.activeCenter .weixin strong {
+    color: rgb(255, 255, 255);
+    background:#ff0000
+}
+.activeCenter .img {
+    text-align: center;
+}
+/*zuihouhuifu*/
+address, caption, cite, code, dfn, em, strong, th, var {
+    font-style: normal;
+    font-weight: normal;
+}
+
+.post_item_link, .list_item_link, .list_item_wrapper {
+    display: block;
+    border-top: 1px solid #fff;
+    border-bottom: 1px solid #505152;
+    margin: 0 10px;
+    padding: 4px 0;
+}
+.list_item_top {
+
+    line-height: 15px;
+    color: #a9aeb3;
+    position: relative;
+    margin: 1rem 0;
+}
+.list_item_top_avatar {
+    float: left;
+    margin-right: 10px;
+    line-height: 0;
+}
+a {
+    color: #3361a7;
+    text-decoration: none;
+}
+.list_item_top_name {
+    display: block;
+    line-height: 4.5rem;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+    margin-right: 50px;
+    font-size: 2.1rem;
+    height: 128px;
+}
+.list_item_more_operation {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 100%;
+    height: 0;
+}
+.clearfix:after {
+    content: '';
+    display: table;
+    clear: both;
+}
+.content {
+
+    margin: 1rem 0;
+    color: #313233;
+    line-height: 4rem;
+    word-break: break-word;
+    padding-left: 8rem;
+}
+.fonter {
+
+}
+#left_btn {
+    left: 0;
+    text-align: center;
+}
+#right_btn {
+    right: 1rem;
+}
+.btn_erwei {
+    width: 4rem;
+    background-color: #f9415a;
+    color: #fff;
+    border-radius: 1rem;
+    position: fixed;
+    top: 30rem;
+    font-size: 2.5rem;
+    text-align: center;
+}
+#erweima {
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    display: none;
+    background-color: #fff;
+    z-index: 1000;
+    /* overflow: hidden; */
+}
+#close_erwei {
+    width: 100px;
+    height: 50px;
+    display: block;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    /* background-color: blue; */
+    color: #333;
+    line-height: 50px;
+    text-align: center;
+}
+.top_font {
+    height: 100px;
+    width: 100%;
+    /* background-color: red; */
+    text-align: center;
+    line-height: 8rem;
+    margin-top: 50px;
+}
+.erwei_font {
+    width: 80%;
+    height: 200px;
+    text-align: center;
+    margin: 0 auto;
+}
+.erwei_font p {
+    width: 80%;
+    margin: 20px 0 20px 20%;
+    text-align: left;
+}
+.f-btm  {
+    width:100%;
+    margin-left:auto;
+    margin-right:auto;position:fixed;
+    background:#FFF;
+    bottom:0;
+}
+.list_main img {
+    width: 130px;
+    height: 130px;
+}
+.global_icon, .global_icon_before:before, .global_icon_after:after, .level {
+    background-image: url(http://img.zengwf.com/images/lttg/TB2JLq6kStkpuFjy0FhXXXQzFXa_!!276530134.png);
+    background-repeat: no-repeat;
+    -webkit-background-size: 70px auto;
+    /*background-size: 70px auto;*/
+}
+.level {
+    width: 3.3rem;
+    height: 58px;
+    display: inline-block;
+    line-height: 2rem;
+    text-align: center;
+    color: #fff;
+    vertical-align: middle;
+}
+.list_item_top_name .level {
+    margin: 0 1rem;
+}
+.level_4, .level_5, .level_6, .level_7, .level_8, .level_9 {
+    background-position: 0 -93px;
+}
+.level_10, .level_11, .level_12, .level_13, .level_14, .level_15 {
+    background-position: 0 -172px;
+}
+.user_name.red_name .user_name {
+    color: #e53917;
+}
+.level_1, .level_2, .level_3 {
+    background-position: 0 -16px;
+}
+/*other*/
+#erweima {
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    display: none;
+    background-color: #fff;
+    z-index: 1000;
+    /* overflow: hidden; */
+}
+.erwei_font {
+    width: 80%;
+    height: 200px;
+    text-align: center;
+    /* font-size: 13px; */
+    margin: 0 auto;
+}
+.erwei_font p {
+    width: 80%;
+    margin: 20px 0 20px 20%;
+    text-align: left;
+    font-size: 2rem;
+}
+.top_font {
+    height: 100px;
+    width: 100%;
+    font-size: 2.5rem;
+    text-align: center;
+    line-height: 8rem;
+    margin-top: 50px;
+}
+#close_erwei {
+    width: 6rem;
+    height: 50px;
+    display: block;
+    position: absolute;
+    top: 1rem;
+    right: 2rem;
+    font-size: 1.5rem;
+    color: #333;
+    line-height: 4rem;
+    text-align: center;
+}
+.footer {
+    font-size: .5rem;
+    text-align: center;
+    color: #bdb9b9;
+    padding-top: 8rem;
+}

@@ -1,0 +1,106 @@
+.head{
+    background:url('http://img.zengwf.com/images/futures/topbg.png') no-repeat center top;
+    width:100%;
+}
+.head_title{width:30rem;margin:0 auto;
+    padding-top:1rem;}
+.head_title img{width:30rem;}
+.head_con{
+    width:67%;
+    margin: 0 auto;
+    margin-top:2%;
+}
+
+.head_l img{
+    width:17rem;
+}
+.head_r img{
+    width:18rem;
+}
+
+.downs{
+    margin-left:13rem;
+    margin-top:1.5rem;
+    padding-bottom: 1.5rem;
+}
+.downs li{
+    float: left;
+    height:4rem;
+    width:13rem;
+    margin-right:2rem;
+}
+.downs li a{
+    display: block;
+    font-size:2rem;color:#fff;
+    text-align: center;
+    line-height: 4rem;
+}
+.pc_down{
+    background:#33cbcc;
+}
+.sj_down{
+    background:#f1b636
+}
+
+.content{
+    width:93%;
+    margin-left:4rem;
+}
+
+.content font{
+    display: block;
+    color:#666;
+    font-size: 3rem;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 2rem;
+}
+
+.content_i img{
+    width:21.3rem;}
+
+.content_i .content_i_1{
+    margin-top: 3%;
+}
+.content_i .content_i_2{
+    margin-top:3%;
+}
+.content_i .content_i_1 li{
+    float: left;
+    margin-right:29px;
+    margin-left: 5%;
+}
+.content_i .content_i_2 li{
+    float: left;
+    margin-right:29px;
+    margin-left: 5%;
+}
+
+.footer{
+    background: #ccc;
+    width: 100%;
+    height: 121px;
+    line-height: 121px;
+}
+
+.footer span{
+    font-size: 1.8rem;
+    margin-left: 2rem;
+}
+.btn3{
+    position: relative;
+    top: 13%;
+    right: -10%;
+}
+
+.copyright{
+    width:100%;
+    height:100px;background:#444242;}
+.copyright h2{font-weight: 400;color:#fff;
+    display:-webkit-box;-webkit-box-pack: center;-webkit-box-align: center;text-align:center;
+    padding-top: 15px;font-size: 0.1rem;
+    padding-bottom: 15px;
+    margin-top: 0;}
+.copyright p{color:#fff;
+    display:-webkit-box;-webkit-box-pack: center;-webkit-box-align: center;text-align:center;
+    font-size:1.4rem;}

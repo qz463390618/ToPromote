@@ -1,0 +1,315 @@
+i {
+    font-style: normal;
+    font-weight: bold;
+}
+.warp {
+    width: 100%;
+    background: url(http://img.zengwf.com/images/xcy/banner.jpg) center no-repeat;
+    height: 682px;
+}
+.open-btn  {
+    position: absolute;
+    text-align: center;
+    top: 548px;
+    margin: 0 auto;
+    width: 100%;
+}
+.open-btn a {
+    width: 206px;
+    display: inline-block;
+    height: 50px;
+    border: 1px solid #f0ab83;
+    border-radius: 8px;
+    line-height: 50px;
+    text-align: center;
+    font-size: 20px;
+    vertical-align: top;
+    font-weight: bold;
+    cursor: pointer;
+    animation: out 0.3s 1;
+}
+.open-btn a:hover {
+    padding-top: 0 5px;
+    animation: shake 0.3s 1;
+    width: 225px;
+}
+.step-btn a:hover {
+    padding-top: 0 5px;
+    animation: shake 0.3s 1;
+    width: 225px;
+}
+.o-btn a:hover {
+    width: 225px;
+}
+@keyframes shake {
+    from {
+        width: 206px;
+    }
+    to {
+        width: 225px;
+    }
+}
+@keyframes out {
+    from {
+        width: 225px;
+    }
+    to {
+        width: 206px;
+    }
+}
+.open-btn .gold {
+    background-color: #e96b2e;
+    color: #fff;
+}
+.open-btn .normal {
+    color: #ee6d25;
+    margin-left: 26px;
+}
+/*中间*/
+.main {
+    width: 100%;
+    margin: 0 auto;
+}
+.title {
+    width: 480px;
+    height: 40px;
+    line-height: 40px;
+    font-size: 36px;
+    color: #b85723;
+    font-weight: bold;
+    text-align: center;
+    margin: 56px auto 27px;
+    position: relative;
+}
+.title2 {
+    font-size: 18px;
+    color: #4b4b4b;
+    text-align: center;
+    margin-bottom: 32px;
+}
+.title:after, .title:before {
+    position: absolute;
+    content: '';
+    width: 65px;
+    height: 19px;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    background: url(http://img.zengwf.com/images/xcy/left-right.png) no-repeat 0 0;
+    background-size: 64px 38px;
+}
+.title:after, .title:after {
+    right: 0;
+    background-position: 0 -19px;
+}
+.title:before,.title:before {
+    left: 0;
+}
+/*ul */
+.step {
+    height: 800px;
+    width: 100%;
+    margin: 0 auto;
+}
+.step .list {
+    height: 412px;
+    margin-left: 21.7%;
+    margin-top: 2%;
+}
+.step ul {
+    overflow: hidden;
+}
+.step .list li {
+    float: left;
+    margin-right: 85px;
+    width: 301px;
+    height: 100%;
+    background: url(http://img.zengwf.com/images/xcy/step.png) no-repeat 0 0;
+}
+.step .list li.line2 {
+    background-position: -316px 0;
+    position: relative;
+}
+.step .list li.line3 {
+    background-position: -632px 0;
+    position: relative;
+}
+.step .list li.line3:after, .step .list li.line2:after {
+    position: absolute;
+    content: '>';
+    font-size: 35px;
+    color: #fddbd1;
+    width: 19px;
+    height: 33px;
+    left: -54px;
+    font-weight: bold;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+}
+.ex {
+    text-align: center;
+    line-height: 27px;
+    font-size: 18px;
+    color: #4b4b4b;
+    margin-bottom: 40px;
+    margin-top: 2%;
+}
+.orange {
+    color: #e96b2e;
+}
+.step-btn {
+    text-align: center;
+}
+.step-btn a {
+    width: 206px;
+    display: inline-block;
+    height: 50px;
+    border: 1px solid #f0ab83;
+    border-radius: 8px;
+    line-height: 50px;
+    text-align: center;
+    font-size: 20px;
+    vertical-align: top;
+    font-weight: bold;
+    cursor: pointer;
+    animation: out 0.3s 1;
+}
+.o-btn {
+    text-align: center;
+}
+.o-btn a {
+    width: 206px;
+    display: inline-block;
+    height: 50px;
+    border: 1px solid #f0ab83;
+    border-radius: 8px;
+    line-height: 50px;
+    text-align: center;
+    font-size: 20px;
+    vertical-align: top;
+    font-weight: bold;
+    cursor: pointer;
+    animation: out 0.3s 1;
+    transition:width 0.3s;
+}
+.o-btn .gold {
+    background-color: #e96b2e;
+    color: #fff;
+}
+.step-btn .gold {
+    background-color: #e96b2e;
+    color: #fff;
+}
+.step-btn .normal {
+    color: #ee6d25;
+    margin-left: 26px;
+}
+.advantage {
+    padding-top: 100px;
+    width: 100%;
+    height: 654px;
+    margin: 0 auto;
+    background: url(http://img.zengwf.com/images/xcy/advantage.jpg) center no-repeat;
+}
+.advantage ul {
+    width: 1081px;
+    height: 86px;
+    margin: 0 auto;
+}
+.advantage ul li {
+    float: left;
+    height: 86px;
+    line-height: 86px;
+}
+.advantage ul li.line1 {
+    width: 213px;
+    text-align: center;
+    font-size: 18px;
+    color: #c37b3b;
+}
+.advantage ul li.line2 {
+    width: 238px;
+    text-align: center;
+    font-size: 18px;
+    color: #ff6b3b;
+}
+.advantage ul li.line3 {
+    width: 230px;
+    text-align: center;
+    font-size: 18px;
+    color: #c37b3b;
+}
+.advantage ul li.line4 {
+    width: 143px;
+    text-align: center;
+    font-size: 18px;
+    color: #c37b3b;
+}
+.advantage ul li.line5 {
+    padding-left: 92px;
+    color: #fff77b;
+    font-size: 18px;
+}
+.advantage ul.ul-4 li.line2, .advantage ul.ul-4 li.line3 {
+    line-height: 24px;
+    padding-top: 20px;
+}
+.intentional {
+    height: 579px;
+    width: 100%;
+    margin: 0 auto;
+}
+.intentional .list {
+    width: 100%;
+    height: 378px;
+    margin: 0 auto;
+    background: url(http://img.zengwf.com/images/xcy/foot.jpg) no-repeat center 21px;
+    position: relative;
+}
+.intentional  .list li {
+    position: absolute;
+    text-align: right;
+    line-height: 13px;
+    color: #6b6a68;
+    line-height: 19px;
+}
+.intentional .list .li-1 {
+    left: 17%;
+    bottom: 23px;
+}
+.intentional .list .li-2 {
+    left: 18%;
+    bottom: 186px;
+}
+.intentional .list .li-3 {
+    left: 20%;
+    bottom: 299px;
+}
+.intentional .list .li-4 {
+    text-align: left;
+    right: 20%;
+    top: 10px;
+}
+.intentional .list .li-5 {
+    text-align: left;
+    right: 18%;
+    top: 123px;
+}
+.intentional .list .li-6 {
+    text-align: left;
+    right: 20%;
+    top: 269px;
+}
+.intentional .list li .title3 {
+    font-size: 18px;
+    font-weight: bold;
+    color: #e96b2e;
+    margin-bottom: 12px;
+}
+.footer {
+    text-align: center;
+    font-size: 14px;
+    height: 80px;
+    line-height: 20px;
+}

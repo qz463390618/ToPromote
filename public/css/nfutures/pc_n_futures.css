@@ -1,0 +1,59 @@
+.section {
+    text-align: center;
+    font: 50px "Microsoft Yahei";
+    color: #fff;
+}
+.fp-tableCell {
+    display: inline-block;
+}
+.footer {
+    background-color: #000;
+    opacity: 0.5;
+    height: 84px;
+    padding: 23px 0 0 28px;
+    float: left;
+    z-index: 6;
+    position: relative;
+    top: -11%;
+    width: 1903px;
+    color: #fff;
+    font-size: 14px;
+    line-height: 31px;
+}
+.section img {
+    height: 974px;
+    position: relative;
+    left: -6%;
+}
+
+.bt1 {
+    left: 22%;
+    margin-top: -4%;
+}
+.bt2 {
+    left: 34%;
+    margin-top: -4%;
+}
+
+.section .btn1 {
+    background: url(http://img.zengwf.com/images/nfutures/qht_sprite_beta10.png) no-repeat;
+    width: 198px;
+    height: 56px;
+    position: absolute;
+    top: 63%;
+    right: 40%;
+    cursor: pointer;
+    float: left;
+    background-position: 0 -91px;
+}
+.section .btn2 {
+    background: url(http://img.zengwf.com/images/nfutures/qht_sprite_beta10.png) no-repeat;
+    width: 198px;
+    height: 56px;
+    position: absolute;
+    top: 63%;
+    right: 28%;
+    cursor: pointer;
+    float: left;
+    background-position: -204px -91px;
+}

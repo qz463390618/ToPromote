@@ -1,0 +1,575 @@
+ul {
+    margin: 0;
+    padding: 0; }
+ul li {
+    list-style: none; }
+
+.am-container {
+    width: 1006px;
+    padding: 0; }
+
+.header {
+    height: 68px;
+    line-height: 68px;
+    background: #095495; }
+.header .am-container {
+    text-align: center; }
+.header .am-container ul {
+    display: inline-block; }
+.header .am-container ul li {
+    float: left; }
+.header .am-container ul li:first-child {
+    margin-right: 100px; }
+.header .am-container ul li:last-child {
+    margin-left: 100px; }
+
+.main .ptcx {
+    background: #172641; }
+.main .ptcx .am-container .title-small {
+    margin-top: 34px;
+    text-align: center; }
+.main .ptcx .am-container .title {
+    margin-top: 44px;
+    text-align: center; }
+.main .ptcx .am-container .clsnav {
+    margin-top: 48px; }
+.main .ptcx .am-container .clsnav ul {
+    margin-left: 20px; }
+.main .ptcx .am-container .clsnav ul li {
+    float: left;
+    margin-left: 42px; }
+.main .ptcx .am-container .clsnav ul li:first-child {
+    margin-left: 16px; }
+.main .ptcx .am-container .clsnav ul li a {
+    font-size: 28px; }
+.main .ptcx .am-container .clsnav ul .active a {
+    color: #fff; }
+.main .ptcx .am-container .myform {
+    margin-top: 10px;
+    margin-left: 35px; }
+.main .ptcx .am-container .myform .am-form .am-form-group input[type='text'] {
+    width: 723px;
+    height: 56px;
+    background: url("http://img.zengwf.com/images/platform/icon-dun.png") no-repeat #fff 9px 9px;
+    padding-left: 50px; }
+.main .ptcx .am-container .myform .am-form .am-form-group button {
+    width: 236px;
+    height: 56px;
+    background: url("http://img.zengwf.com/images/platform/icon-search.png") no-repeat #1576c9 25px 9px;
+    border: 0;
+    color: #fff;
+    font-size: 34px;
+    padding-left: 50px; }
+.main .ptcx .am-container .checkbox label {
+    float: left;
+    margin-top: 0;
+    font-size: 18px;
+    line-height: 18px;
+    color: #66bdd2;
+    margin-left: 37px;
+    cursor: pointer; }
+.main .ptcx .am-container .checkbox label:first-child {
+    margin-left: 3px; }
+.main .ptcx .am-container .checkbox label .am-ucheck-checkbox:checked + .am-ucheck-icons, .main .ptcx .am-container .checkbox label .am-icon-unchecked {
+    color: #66bdd2; }
+.main .ptcx .am-container .count {
+    text-align: center;
+    font-size: 26px;
+    color: #fff; }
+.main .ptcx .am-container .count span {
+    font-size: 34px;
+    color: #ffb400; }
+.main .ptcx .am-container .jgcx {
+    margin-top: 50px;
+    text-align: center; }
+.main .ptcx .am-container .jgcx button {
+    border-radius: 4px;
+    width: 540px;
+    height: 54px;
+    border: 0;
+    background: url("http://img.zengwf.com/images/platform/btn-bg-jglb.png");
+    font-size: 30px;
+    color: #fff;
+}
+.main .ptcx .am-container .ic-group {
+    margin-top: 46px;
+    padding: 0 95px; }
+.main .ptcx .am-container .ic-group ul li {
+    width: 146px;
+    text-align: center;
+    float: left;
+    margin-left: 75px; }
+.main .ptcx .am-container .ic-group ul li:first-child {
+    margin-left: 0; }
+.main .ptcx .am-container .ic-group ul li h3 {
+    color: #1576c9;
+    font-size: 24px;
+    margin-top: 15px;
+    margin-bottom: 10px; }
+.main .ptcx .am-container .ic-group ul li p {
+    margin: 0;
+    font-size: 16px;
+    color: #fff; }
+.main .ptcx .am-container .dtcx {
+    margin-top: 36px;
+    margin-bottom: 46px;
+    background: #fff; }
+.main .ptcx .am-container .dtcx .title {
+    height: 69px;
+    font-size: 30px;
+    line-height: 69px;
+    font-weight: bold;
+    color: #095495;
+    border-bottom: 1px solid #e6e6e6; }
+.main .ptcx .am-container .dtcx .cont {
+    padding: 24px 65px;
+    height: 286px;
+    overflow: hidden; }
+.main .ptcx .am-container .dtcx .cont ul {
+    height: 286px; }
+.main .ptcx .am-container .dtcx .cont ul li {
+    margin-top: 25px;
+    font-size: 18px; }
+.main .ptcx .am-container .dtcx .cont ul li:first-child {
+    margin-top: 0; }
+.main .ptcx .am-container .dtcx .cont ul li span {
+    margin-left: 38px; }
+.main .zbhpt {
+    background: #9bc8dd; }
+.main .zbhpt .am-container .title {
+    margin-top: 80px;
+    font-size: 60px;
+    color: #172641;
+    font-weight: bold;
+    text-align: center; }
+.main .zbhpt .am-container .count-img {
+    margin-top: 40px; }
+.main .zbhpt .am-container .ptys {
+    margin-top: 10px; }
+.main .zbhpt .am-container .ptys ul li {
+    padding: 15px 14px;
+    float: left;
+    width: 303px;
+    height: 170px;
+    text-align: center;
+    border-radius: 4px;
+    background: #2a85d3;
+    margin-left: 45px;
+    margin-top: 55px; }
+.main .zbhpt .am-container .ptys ul li:nth-child(3n+1) {
+    margin-left: 0; }
+.main .zbhpt .am-container .ptys ul li .ptys-title {
+    display: inline-block; }
+.main .zbhpt .am-container .ptys ul li .ptys-title .txt {
+    color: #172641;
+    font-size: 30px;
+    line-height: 43px;
+    font-weight: bold;
+    margin-left: 10px; }
+.main .zbhpt .am-container .ptys ul li .ptys-cont {
+    margin-top: 15px;
+    color: #fff;
+    text-align: left;
+    font-size: 16px; }
+.main .zbhpt .am-container .line {
+    height: 1px;
+    border: none;
+    border-top: 1px solid #7badc4;
+    margin-top: 78px; }
+.main .zbhpt .am-container .pt-tijiao .wfpt {
+    width: 454px; }
+.main .zbhpt .am-container .pt-tijiao .wfpt .wfpt-title {
+    text-align: center;
+    font-size: 45px;
+    color: #172641;
+    font-weight: bold; }
+.main .zbhpt .am-container .pt-tijiao .wfpt .wfpt-cont {
+    margin-top: 54px; }
+.main .zbhpt .am-container .pt-tijiao .wfpt .wfpt-cont label {
+    font-weight: normal; }
+.main .zbhpt .am-container .pt-tijiao .wfpt .wfpt-cont textarea {
+    height: 92px; }
+.main .zbhpt .am-container .pt-tijiao .wfpt .wfpt-cont .btn-tjbg {
+    margin-top: 60px;
+    width: 372px;
+    height: 66px;
+    border: 0;
+    border-radius: 4px;
+    color: #fff;
+    font-size: 35px;
+    background: url("http://img.zengwf.com/images/platform/btn-ljbg.png"); }
+.main .zbhpt .am-container .pt-tijiao .dwcx {
+    width: 455px; }
+.main .zbhpt .am-container .pt-tijiao .dwcx .dwcx-title {
+    text-align: center;
+    font-size: 45px;
+    color: #172641;
+    font-weight: bold; }
+.main .zbhpt .am-container .pt-tijiao .dwcx .dwcx-cont {
+    margin-top: 54px; }
+.main .zbhpt .am-container .pt-tijiao .dwcx .dwcx-cont label {
+    font-weight: normal; }
+.main .zbhpt .am-container .pt-tijiao .dwcx .dwcx-cont .btn-tjcx {
+    margin-top: 60px;
+    width: 372px;
+    height: 66px;
+    border: 0;
+    border-radius: 4px;
+    color: #fff;
+    font-size: 35px;
+    background: url("http://img.zengwf.com/images/platform/btn-ljcx.png"); }
+.main .zbhpt .am-container .ptbz {
+    background: #fff;
+    margin-top: 50px; }
+.main .zbhpt .am-container .ptbz .ptbz-title {
+    font-size: 34px;
+    color: #095495;
+    height: 105px;
+    line-height: 105px;
+    text-align: center;
+    border-bottom: 1px solid #e6e6e6; }
+.main .zbhpt .am-container .ptbz .ptbz-cont {
+    padding: 40px;
+    height: 500px;
+    overflow: hidden; }
+.main .zbhpt .am-container .ptbz .ptbz-cont ul .items {
+    margin-top: 40px;
+    font-size: 18px; }
+.main .zbhpt .am-container .ptbz .ptbz-cont ul .items:first-child {
+    margin-top: 0; }
+.main .zbhpt .am-container .ptbz .ptbz-cont ul .items .items-title {
+    color: #095495; }
+.main .zbhpt .am-container .qw {
+    text-align: center;
+    margin-top: 46px;
+    margin-bottom: 35px; }
+.main .zbhpt .am-container .qw span {
+    font-size: 22px;
+    color: #00427b;
+    margin-right: 20px; }
+.main .zbhpt .am-container .qw img {
+    margin-left: 30px; }
+
+.footer {
+    background: #095495;
+    text-align: center;
+    padding: 30px 0; }
+.footer .am-container .by span {
+    font-size: 32px;
+    color: #fff; }
+.footer .am-container .by img {
+    margin: 0 30px; }
+.footer .am-container .copyright {
+    margin-top: 24px; }
+.footer .am-container .copyright p {
+    margin: 0;
+    font-size: 18px;
+    color: #fff; }
+
+#mack {
+    display: none;
+    position: fixed;
+    background: #000;
+    opacity: 0.8;
+    height: 100%;
+    width: 100%;
+    z-index: 99;
+    top: 0;
+    left: 0; }
+
+#am-yz {
+    display: none;
+    background: #fffdf3;
+    width: 40%;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: -10%;
+    margin-left: -20%;
+    z-index: 100; }
+.am-yz .title {
+    position: relative;
+    background: #1063B0;
+    color: #fff;
+    padding: 1rem 0;
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.8rem; }
+.am-yz .title p {
+    margin: 0;
+    padding: 0; }
+.am-yz .title a {
+    position: absolute;
+    right: 0;
+    top: 0.5rem;
+    color: #fff;
+    z-index: 100; }
+.am-yz .cont {
+    position: relative;
+    padding: 0 1rem; }
+.am-yz .cont .arr {
+    position: absolute;
+    bottom: 3.6rem;
+    left: 40%;
+    color: #ce3702; }
+.am-yz .cont .am-form {
+    margin-top: 2rem; }
+.am-yz .cont .am-form .am-form-group label {
+    color: #1063B0;
+    font-size: 1.4rem;
+    text-align: right; }
+.am-yz .cont .am-form .am-form-group .am-code a {
+    background: #1063B0; }
+.am-yz .cont .am-form .center {
+    text-align: center; }
+.am-yz .cont .am-form .center button {
+    width: 60%; }
+.am-yz .cont > p {
+    margin-top: 3rem;
+    font-size: 14px; }
+
+.am-ys {
+    display: none;
+    background: #fffdf3;
+    width: 40%;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: -10%;
+    margin-left: -20%;
+    z-index: 100; }
+.am-ys .title {
+    position: relative;
+    background: #1063B0;
+    color: #fff;
+    padding: 1rem 0;
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.8rem; }
+.am-ys .title p {
+    margin: 0;
+    padding: 0; }
+.am-ys .title a {
+    position: absolute;
+    right: 0;
+    top: 0.5rem;
+    color: #fff;
+    z-index: 100; }
+.am-ys .cont {
+    position: relative;
+    padding: 0 1rem; }
+.am-ys .cont .arr {
+    position: absolute;
+    bottom: 3.6rem;
+    left: 40%;
+    color: #ce3702; }
+.am-ys .cont .am-form {
+    margin-top: 2rem; }
+.am-ys .cont .am-form .am-form-group label {
+    color: #1063B0;
+    font-size: 1.4rem;
+    text-align: right; }
+.am-ys .cont .am-form .am-form-group .am-code a {
+    background: #1063B0; }
+.am-ys .cont .am-form .center {
+    text-align: center; }
+.am-ys .cont .am-form .center a {
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    width: 60%; }
+.am-ys .cont .am-form .center a img {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    width: 100%; }
+.am-ys .cont > p {
+    margin-top: 3rem;
+    font-size: 14px; }
+
+.am-qr {
+    display: none;
+    background: #fffdf3;
+    width: 30%;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: -5%;
+    margin-left: -15%;
+    z-index: 100; }
+.am-qr .title {
+    height: 5rem;
+    background: #1063B0;
+    color: #fff;
+    line-height: 5rem;
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.8rem;
+    position: relative; }
+.am-qr .title a {
+    position: absolute;
+    right: 0;
+    color: #fff; }
+.am-qr .cont {
+    padding: 0 1rem;
+    text-align: center; }
+.am-qr .cont .am-status {
+    margin: 2rem 0; }
+.am-qr .cont .am-status .iconfont {
+    color: #1063B0;
+    font-size: 5rem; }
+.am-qr .cont p {
+    font-size: 1.3rem; }
+.am-qr .cont p:nth-child(3) {
+    text-align: left; }
+
+.tips {
+    z-index: 1000;
+    display: none;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    width: 20%;
+    height: 40px;
+    line-height: 40px;
+    border-radius: 0.5rem;
+    margin-left: -10%;
+    background: #000;
+    filter: alpha(opacity=80);
+    -moz-opacity: 0.8;
+    -khtml-opacity: 0.8;
+    opacity: 0.8;
+    color: #fff;
+    text-align: center; }
+
+.yzm-input{
+    margin-left: 18px;
+}
+
+.lt{float: left;}
+/*# sourceMappingURL=app_p_search.css.map */
+.main .form-affirm{
+    position: absolute;
+    left: 0;
+    top: 2px;
+    display: inline-block;
+    width:17px;
+    height: 17px;
+    background:url('http://img.zengwf.com/images/platform/icon4.png')no-repeat -4px -8px;
+}
+.main .form-affirm.form-affirm-active{background:url('http://img.zengwf.com/images/platform/icon2.png')no-repeat -4px -8px;width:22px;}
+
+
+@media screen and (max-width:992px){
+    .am-container{
+        width:100%;
+    }
+    .am-container img{
+        width:100%;
+    }
+    .li_logo{
+        width:50%;
+    }
+    .title-small img{
+        width: 80%;
+    }
+    .title img{
+        width: 98%;
+    }
+    .header .am-container ul li:first-child,.header .am-container ul li:last-child{
+        margin-left: 0;
+        margin-right: 0;
+    }
+    .main .ptcx .am-container .clsnav,.main .ptcx .am-container .title{
+        margin-top: 20px;
+    }
+    .main .ptcx .am-container .clsnav ul li a{
+        font-size: 1.1em;
+    }
+    .main .ptcx .am-container .clsnav ul li{
+        margin-left: 6.5%;
+    }
+    .main .ptcx .am-container .clsnav ul{
+        margin-left:0;
+    }
+    .main .ptcx .am-container .myform{
+        margin-left: 16px;
+    }
+    .main .ptcx .am-container .myform .am-form .am-form-group input[type="text"]{
+        width: 95%;
+    }
+    .main .ptcx .am-container .myform .am-form .am-form-group button{
+        width:60%;
+        height: 40px;
+        font-size:1.4em;
+        margin: 10px 17.5%;
+        background: url("http://img.zengwf.com/images/platform/icon-search.png") no-repeat #1576c9 20px 10px;
+        background-size:1em;
+    }
+    .main .ptcx .am-container .checkbox label{
+        font-size: 1em;
+        margin-left:1%;
+    }
+    .main .ptcx .am-container .jgcx button{
+        width: 90%;
+        font-size: 1.2em;
+    }
+    .main .ptcx .am-container .ic-group{
+        padding: 0;
+    }
+    .main .ptcx .am-container .ic-group ul li:first-child,.main .ptcx .am-container .ic-group ul li{
+        width: 46%;
+        margin:2%;
+    }
+    .footer .am-container .by span,.footer .am-container .copyright p{
+        font-size: 1em;
+    }
+    .footer .am-container .copyright{
+        margin-top: 2px;
+    }
+    .footer{
+        padding:12px 0;
+    }
+    .by img{
+        width:48px;
+        height: 59px;
+    }
+    .am-fr{
+        display: none;
+    }
+    #am-yz{
+        width: 100%;
+        left: 0;
+        margin-left: 0;
+        top:10%;
+    }
+}
+
+.laydat-reply{
+    position: fixed;
+    top: 40%;
+    left: 4%;
+    width: 29rem;
+    height: 15rem;
+    background: #fff;
+    z-index: 99999;
+}
+.laydat-reply h3{
+    color: #6c9618;
+    font-size: 2rem;
+    text-align: center;
+    margin-top: 7%;
+    font-weight: 400;
+}
+.laydat-reply button{
+    border: 0;
+    background: #0d5ed8;
+    color: #fff;
+    width: 9rem;
+    height: 4rem;
+    border-radius: 13px;
+    margin-left: 34%;
+    margin-top: 1%;
+    font-size: 2.4rem;
+}

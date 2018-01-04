@@ -1,0 +1,117 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    color:#000;
+}
+.clearfix::before,.clearfix::after{
+    content:'';
+    display: table;
+}
+.clearfix::after{
+    clear:both;
+}
+
+
+.bg{
+    background-position:center;
+    background-repeat: no-repeat;
+}
+.topbg{
+    background-image:url('http://img.zengwf.com/images/metal/bg_04.jpg');
+    height:568px;
+    position: relative;
+}
+
+.topbg .top-content{
+    margin-top: 1%;
+    width: 950px;
+    margin-left: 24%;
+}
+
+.downs{
+    position: absolute;
+    left: 21%;
+    bottom: 9%;
+}
+.downs li{
+    float: left;
+    margin-left: 31px;}
+.downs li img{
+    width: 80%;
+}
+
+.middle_bg{
+    background-image:url('http://img.zengwf.com/images/metal/bg_03.jpg');
+}
+.wrapper{
+    width:1003px;
+    height:auto;
+    margin:0 auto;
+}
+.dv_left,.dv_middle,.dv_right{
+    width: 109px;
+    height: 550px;
+    float: left;
+    margin-top: 80px;
+}
+.dv_left{
+    margin-top: 207px;
+}
+.dv_middle{
+    width: 690px;
+    height: 451px;
+}
+.dv_right{
+    width: 92px;
+    height: 451px;
+    margin-top: 207px;
+}
+.dv_left .icon1{background:url('http://img.zengwf.com/images/metal/icon_03.png')}
+.dv_left .icon2{background:url('http://img.zengwf.com/images/metal/icon_09.png')}
+.dv_left .icon3{background:url('http://img.zengwf.com/images/metal/icon_13.png')}
+.dv_right .icon4{background:url('http://img.zengwf.com/images/metal/icon_05.png')}
+.dv_right .icon5{background:url('http://img.zengwf.com/images/metal/icon_10.png')}
+
+.dv_left .ico1,.dv_right .ico2{display:block;height:118px;background-repeat: no-repeat;margin-bottom:46px;}
+.dv_left .ico1:hover,.div_left .cur{background-position:-109px center;}
+.dv_right .ico2:hover,.div_right .cur{background-position:-95px center;}
+
+.footer_bg{
+    background:url('http://img.zengwf.com/images/metal/hjfooter.png');
+    height:134px;
+    position: relative;
+}
+.footer_bg img{
+    position: absolute;
+    width: 10%;
+    right: 25%;
+    top: 31%;
+}
+
+.btn3{
+    position: relative;
+    top: 32px;
+    left: 530px;
+    width: 239px;
+    height: 70px;
+    display: block;
+    background-image:url('http://img.zengwf.com/images/metal/b3.gif');
+    background-repeat: no-repeat;
+}
+
+.copyright{
+    width:100%;
+    height:88px;background:#444242;}
+.copyright h2{font-weight: 400;color:#fff;
+    text-align: center;
+    padding-top: 15px;font-size: 12px;
+    padding-bottom: 15px;
+    margin-top: 0;}
+.copyright p{color:#fff;
+    text-align: center; }

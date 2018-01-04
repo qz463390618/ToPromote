@@ -1,0 +1,64 @@
+.clearfix:before,.clearfix:after{display: table;
+    line-height: 0;content:"";}
+.clearfix:after{clear:both;}
+.head{background:url('http://img.zengwf.com/images/boyi/banner_bg.jpg')no-repeat center top;width:100%;height:700px;}
+.w1010{width:1010px;margin:0 auto;}
+.head_content>img{margin-top:85px;width:470px;height:405px;}
+.fl{float:left;}
+.fr{float:right;}
+li{list-style:none;}
+.head_content ul li.wenzi{margin-top:95px;}
+.head_content ul li.quan{margin-top:40px;}
+.head_content ul li p{
+    display: block;
+    font-size: 28px;
+    text-align: center;color:#fff;
+    line-height: 46px;
+    margin-top: 40px;
+    }
+.head_content ol{margin-left:41%;margin-top:52px;}
+.head_content ol li{
+    float: left;
+    margin-left:30px;
+    }
+
+.content{width:1200px;margin:0 auto;min-height:500px;}
+.top_img{
+    margin-top: 51px;
+    width: 1008px;
+    height: 240px;}
+
+.main_content{width:1000px;margin:0 auto;margin-top:50px;padding-bottom:30px;}
+.main_content h1{background:url('http://img.zengwf.com/images/boyi/blue.png')no-repeat scroll 0 0 ;color:#fff;
+    font-size: 30px;
+    height: 80px;
+    line-height: 93px;
+    padding-left: 20px;}
+
+.main{overflow: hidden;padding-bottom:20px;}
+.abou_txt,.abou_txt2,.abou_txt3,.abou_txt4{float:left;height:142px;margin-top:10px;padding:40px 0 0 40px;width:616px;}
+.abou_txt{background:url('http://img.zengwf.com/images/boyi/01.jpg')no-repeat scroll 0 0;}
+.main strong{
+    font-size: 34px;
+}
+.main span{color:#1a8dd1;}
+.main p{color:#999;font-size:30px;padding-top:10px;}
+.abou_img{
+    float: left;}
+
+.abou_txt2{background:url('http://img.zengwf.com/images/boyi/02.jpg')no-repeat scroll 0 0;}
+.abou_txt3{background:url('http://img.zengwf.com/images/boyi/03.jpg')no-repeat scroll 0 0;}
+.abou_txt4{background:url('http://img.zengwf.com/images/boyi/04.jpg')no-repeat scroll 0 0;}
+.abou_txt4 .xg{font-size:24px;}
+.abou_txt4 .dkd{color:#f00;}
+
+.footer{
+    width:100%;
+height:88px;background:#444242;}
+.footer h2{font-weight: 400;color:#fff;
+    text-align: center;
+    padding-top: 15px;
+    font-size: 12px;
+    padding-bottom: 15px;}
+.footer p{color:#fff;
+    text-align: center; }

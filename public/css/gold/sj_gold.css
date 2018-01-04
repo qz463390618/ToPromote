@@ -1,0 +1,103 @@
+.bg{
+    background-position:center;
+    background-repeat: no-repeat;
+}
+
+.topbg{
+    background-image:url('http://img.zengwf.com/images/gold/topbg.png');
+    position: relative;
+}
+
+.topbg .top-content{
+    margin-top: 1rem;
+    width: 55rem;
+    margin-left:3rem;
+}
+
+.downs{
+    position: absolute;
+    right: 14rem;
+    bottom: 1rem;
+}
+.downs li{
+    float: left;
+    margin-left: 10px;}
+.downs li img{
+    width: 12rem;
+}
+
+.middle_bg{
+    background-image:url('http://img.zengwf.com/images/gold/bg03.png');
+}
+.wrapper{
+    width:87%;
+    height:auto;
+    margin:0 auto;
+}
+.dv_left,.dv_middle,.dv_right{
+    width: 109px;
+    height: 550px;
+    float: left;
+    margin-top: 2rem;
+}
+.dv_left{
+    margin-top: 4rem;
+    margin-left: 3rem;
+}
+.dv_middle{
+    width: 32rem;
+    height: 451px;
+}
+.dv_right{
+    width: 92px;
+    height: 451px;
+    margin-top: 4rem;
+    margin-left: 2rem;
+}
+.dv_left .icon1{background:url('http://img.zengwf.com/images/gold/icon_03.png')}
+.dv_left .icon2{background:url('http://img.zengwf.com/images/gold/icon_09.png')}
+.dv_left .icon3{background:url('http://img.zengwf.com/images/gold/icon_13.png')}
+.dv_right .icon4{background:url('http://img.zengwf.com/images/gold/icon_05.png')}
+.dv_right .icon5{background:url('http://img.zengwf.com/images/gold/icon_10.png')}
+
+.dv_left .ico1,.dv_right .ico2{display:block;height:118px;background-repeat: no-repeat;margin-bottom:46px;}
+
+.dv_left  .cur{background-position:-109px center;}
+.dv_right  .cur{background-position:-95px center;}
+/*.dv_left .ico1:hover,.div_left .cur{background-position:-109px center;}
+.dv_right .ico2:hover,.div_right .cur{background-position:-95px center;}*/
+
+
+.footer_bg{
+    background:#650004;
+    height:115px;
+    position: relative;
+}
+
+.footer_bg span{
+    margin-left: 4rem;
+    color: #fff;
+    font-size: 1.7rem;
+    display: inline-block;
+    margin-top: 2rem;
+}
+.footer_bg img{
+    position: absolute;
+    width: 10rem;
+    right: 6rem;
+    top: 1.8rem;
+}
+
+
+
+.copyright{
+    width:100%;
+    height:90px;background:#444242;}
+.copyright h2{font-weight: 400;color:#fff;
+    display:-webkit-box;-webkit-box-pack: center;-webkit-box-align: center;text-align:center;
+    padding-top: 15px;font-size: 0.1rem;
+    padding-bottom: 15px;
+    margin-top: 0;}
+.copyright p{color:#fff;
+    display:-webkit-box;-webkit-box-pack: center;-webkit-box-align: center;text-align:center;
+    font-size:1.3rem; }

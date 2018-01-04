@@ -1,0 +1,63 @@
+.head{
+    width:100%;
+    background:url('http://img.zengwf.com/images/nonfarm/bg1.png');
+}
+.head-content{
+    width:65%;
+    margin:0 auto;
+    text-align: center;
+}
+.head-content .title{
+    width:65%;
+}
+
+.top-content{
+    width: 88%;
+}
+
+.content{
+    margin-left: 5%;
+}
+.content .air{
+    margin-top: 16px;
+    width: 50%;
+    float: left;
+}
+.content .h3h{
+    width: 31%;
+    float: left;
+    margin-top: -1%;
+    margin-left: 7%;
+}
+
+.downs{
+    margin-left: 12%;
+}
+.downs li{
+    float: left;
+}
+
+.downs li img{
+    width:85%;
+}
+
+.footer{
+    width:100%;
+    background:url('http://img.zengwf.com/images/nonfarm/bg2.png');
+}
+.footer-content{
+    width:65%;
+    margin:0 auto;
+    text-align: center;
+}
+
+.copyright{
+    width:100%;
+    height:88px;background:#444242;}
+.copyright h2{font-weight: 400;color:#fff;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;font-size: 12px;
+    margin-top: 0;}
+.copyright p{color:#fff;
+    text-align: center; }

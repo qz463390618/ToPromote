@@ -1,0 +1,74 @@
+.head{height:80px;width:100%;}
+.headmain{margin:0 auto;width:1200px;height:80px;}
+.headlogo{height:80px;}
+a{text-decoration: none;color:#333;}
+a:hover{text-decoration: none;}
+img{border:none;}
+.clear{clear:both;}
+.headlogo img{clear:both;display:block;margin:0 auto;}
+.neibanner4{width:100%;height:250px;background:url('http://img.zengwf.com/images/xgj/banner3.jpg')center 0 no-repeat;}
+
+.neimainbox{margin:0 auto;width:1200px;height:auto;margin-bottom:100px;}
+.neimainleft{margin-top:26px;float:left;width:220px;height:400px;}
+li{list-style:none;}
+a{text-decoration: none;color:#333;}
+.neimainleft li{height:53px;line-height:53px;width:220px;text-align: center;margin-bottom: 4px;background:#f3f3f3;border-radius: 3px;font-size: 18px;}
+.neimainleft li a{display: block;height:53px;line-height:53px;width: 220px;text-align: center;background:#f3f3f3;color:#777;font-size: 18px;border-radius:3px;}
+#neimainleftbianse{background:#20477f;}
+#neimainleftbianse a{background:#20477f; color:#fff;}
+.neimainright{float:right;margin-top:26px;margin-bottom:50px;}
+.neimainposition{height:25px;line-height: 25px;border-bottom:1px solid #ddd;color:#777;border-radius:3px;}
+.protypename{float:left;margin-left:10px;font-size:14px;}
+.neimainposition span{float:right;margin-right:10px;font-size:14px;}
+.neimainposition span a{color:#777;font-size:14px;}
+.neimainmapcon{margin-top:20px;}
+.neimainmapcon li{height:30px;line-height: 30px;}
+
+.neimaindownbox_dow{height:auto;margin-top:30px;}
+.down_ul .down_li{border-bottom:1px dashed #ccc;min-height:130px;margin-bottom:10px;padding-bottom:20px;}
+.liimg1{float:left;width:115px;}
+.liimg1 img{vertical-align: middle;}
+.licon1{float:right;width:980px;}
+.licon1 li{height:35px;width:96px;text-align: center;line-height: 35px;background:#f3f3f3;float: left;margin-right: 5px;margin-bottom: 5px;}
+.licon1 li:hover{background:#20477f;}
+.licon1 li:hover a{color:#fff;}
+.licon1 li a{color:#666;display:block;}
+
+.footer{height:100px;width:100%;background:#f8931f;}
+.footertop{margin:0 auto; width:1200px;height:60px;}
+.footer1{float:left;}
+.footer1 img{margin-top:6px;margin-left:48px;}
+.footer2{float:left;height:35px;width:156px;font-size:12px;}
+.footer3{margin-left:53px;}
+.footer2 ul{margin-top:0px;}
+.footer2 li{height:28px;color:#fff;}
+.footer2 li:first-of-type{font-size:14px;font-weight: bold;height:40px;}
+.footer2 li a{color:#fff;}
+.footer4{width:250px;}
+
+.footerbottom{height:40px;background:#fff;width:100%;line-height: 40px;text-align: center;color:#636363;}
+
+
+
+.Occlusion{position:fixed;top:0;left:0;height:100%;width:100%;background:#adadad;z-index:777;opacity:0.4;display:none;}
+.pop{width:30%;height:40%;border:1px solid #e0e0e0;position:fixed;left:35%;top:30%;z-index:888;background:#fff;display:none;color:#272727;font-size: 16px;border-radius:10px;}
+.poptop{width:100%;height:15%;font-size: 22px;font-weight: bold;margin-top: 3%;}
+.pop_title{height:100%;width:90%;float:left;text-align: center;}
+.pop_close{height:100%;width:10%;float:right;cursor: pointer;font-weight: 100;}
+.pop_close:hover{font-weight: bold;}
+.pop_body{height:80%;width: 100%;overflow-y:auto;text-align: center;}
+.pop_ipt{height:21%;width:100%;}
+.pop_input{height:60%;width:80%;font-size:16px;}
+.pop_input_vcode{height:60%;width:49%;}
+.getVcode{height:66%;width:30%;background:#ccc;border-radius:5px;color:#fff;border:none;font-size:16px;}
+
+.pop_submit{width:79%;font-size: 17px;height:66%;background: #ea0000;border-radius: 5px;color:#fff;border:none;}
+
+.prompt{text-align: left; margin-left:10%;}
+
+
+
+
+
+
+

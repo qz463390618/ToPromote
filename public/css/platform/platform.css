@@ -1,0 +1,158 @@
+.main .ptcx .am-container .checkbox label .am-ucheck-checkbox:checked + .am-ucheck-icons, .main .ptcx .am-container .checkbox label .am-icon-unchecked{color:#66bdd2;}
+ul{margin:0;padding:0;}
+.header{
+    background:#095495;
+    height: 68px;
+    line-height: 68px;
+}
+.header .am-container{
+    text-align: center;
+    /*margin:0 auto*/
+}
+.am-container{
+    width:1006px;
+    padding:0;
+}
+img{
+    box-sizing: border-box;
+    vertical-align: middle;
+}
+.header .am-container ul{
+    display: inline-block;
+}
+.header .am-container ul li{
+    float: left;
+}
+.header .am-container ul li:first-child{
+    margin-right: 100px;
+}
+.header .am-container ul li:last-child{
+    margin-left: 100px;
+}
+
+.main .ptcx{
+    background:#172641;
+}
+.main .ptcx .am-container .title-small{
+    margin-top: 34px;
+    text-align: center;
+}
+.main .ptcx .am-container .title{
+    margin-top: 44px;
+    text-align: center;
+}
+.main .ptcx .am-container .clsnav{
+    margin-top: 48px;}
+.main .ptcx .am-container .clsnav ul{
+    margin-left: 20px;}
+
+.main .ptcx .am-container .clsnav ul li:first-child{
+    margin-left: 16px;}
+.main .ptcx .am-container .clsnav ul li{
+    float:left;
+    margin-left: 42px;}
+.main .ptcx .am-container .clsnav ul .active a{color:#fff;}
+.main .ptcx .am-container .clsnav ul li a{
+    font-size: 28px;}
+.main .ptcx .am-container .myform{margin-top:10px;margin-left: 35px;}
+.am-form-group{margin-bottom: 1.5rem;}
+.main .ptcx .am-container .myform .am-form .am-form-group input[type='text']{
+    width: 723px;
+    height: 56px;
+    background:url('http://img.zengwf.com/images/platform/icon-dun.png')no-repeat #fff 9px 9px;
+    padding-left: 50px;
+}
+.main .ptcx .am-container .myform .am-form .am-form-group button{
+    width: 236px;
+    height: 56px;background:url('http://img.zengwf.com/images/platform/icon3.png')no-repeat #1576c9 25px 9px;
+    border:0;color:#fff;
+    font-size: 34px;
+    padding-left: 50px;
+}
+
+.main .ptcx .am-container .checkbox label:first-child{margin-left:3px}
+.main .ptcx .am-container .checkbox label{float:left;margin-top:0;font-size:18px;
+    line-height:18px;color:#66bdd2;margin-left:37px;cursor: pointer;}
+
+.main .form-affirm{
+    position: absolute;
+    left: 0;
+    top: 2px;
+    display: inline-block;
+    width:17px;
+    height: 17px;
+background:url('http://img.zengwf.com/images/platform/icon4.png')no-repeat -4px -8px;
+}
+.main .form-affirm.form-affirm-active{background:url('http://img.zengwf.com/images/platform/icon2.png')no-repeat -4px -8px;width:22px;}
+
+.main .ptcx .am-container .count{text-align:center;font-size:26px;color:#fff;}
+.main .ptcx .am-container .count span{font-size:34px;color:#ffb400}
+.main .ptcx .am-container .jgcx{margin-top:50px;text-align:center;}
+.main .ptcx .am-container .jgcx button{border-radius:4px;width:540px;height:54px;border:0;background:url('http://img.zengwf.com/images/platform/btn-bg-jglb.png');font-size:30px;color:#fff;}
+
+.main .ptcx .am-container .ic-group{margin-top:46px;padding:0 95px;}
+.main .ptcx .am-container .ic-group ul li{width:146px;text-align:center;float:left;margin-left:75px;}
+.main .ptcx .am-container .ic-group ul li:first-child{margin-left: 0;}
+.main .ptcx .am-container .ic-group ul li h3{color:#1576c9;font-size:24px;margin-top:15px;margin-bottom:10px;}
+.main .ptcx .am-container .ic-group ul li p{margin:0;font-size:16px;color:#fff;}
+
+.main .ptcx .am-container .dtcx{margin-top:36px;margin-bottom:46px;background:#fff;}
+.main .ptcx .am-container .dtcx .title{
+    height: 69px;
+    font-size: 30px;
+    line-height: 69px;
+    font-weight: bold;
+    color: #095495;
+    border-bottom: 1px solid #e6e6e6;
+}
+.main .ptcx .am-container .title{
+    margin-top: 44px;
+    text-align: center;
+}
+.main .ptcx .am-container .dtcx .cont{padding:24px 65px;height:286px;overflow: hidden}
+.main .ptcx .am-container .dtcx .cont ul{height:286px;}
+.main .ptcx .am-container .dtcx .cont ul li{margin-top: 25px;font-size:18px;}
+.main .ptcx .am-container .dtcx .cont ul li:first-child{margin-top: 0;}
+.main .ptcx .am-container .dtcx .cont ul li span{margin-left: 38px;}
+.footer{
+    background: #095495;
+    text-align: center;
+    padding: 30px 0;
+}
+.am-container{width:1006px;padding:0;}
+.footer .am-container .by span{
+    font-size: 32px;color:#fff;}
+.footer .am-container .by img{margin:0 30px;}
+.footer .am-container .copyright{
+    margin-top: 24px;}
+.footer .am-container .copyright p{
+    margin: 0;
+    font-size: 18px;
+    color: #ffffff;}
+
+
+.laydat-reply{
+    position:fixed;
+    top: 37%;
+    left:31%;
+    width:35%;
+    height:185px;
+    background:#fff;
+    z-index: 99999;
+}
+.laydat-reply h3{
+    color: #6c9618;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 7%;
+}
+.laydat-reply button{
+    border: 0;
+    background: #0d5ed8;
+    color: #fff;
+    width: 20%;
+    height: 20%;
+    border-radius: 13px;
+    margin-left: 36%;
+    margin-top: 1%;
+}

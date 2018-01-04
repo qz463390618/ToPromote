@@ -1,0 +1,137 @@
+*{border:none;
+    margin: 0;
+    padding:0;
+    font-family: "Microsoft YaHei", sans-serif !important;}
+.layui-layer,.layui-layer-shade,.layui_down{position:fixed;pointer-events: auto;}
+.layui-layer-shade{top:0;left:0;width:100%;height:100%;z-index:7777;background-color:#000;opacity: 0.7;}
+
+.layui-layer{box-shadow: 1px 1px 50px rgba(0,0,0,.3);margin:0;padding:0;animation-duration: .3s;animation-fill-mode: both;border-radius: 2px;}
+.layui-anim{animation-name: layer-bounceIn;}
+.layui-form{background:#fff;}
+.layui-layer{left:2rem;top:3rem;width:600px;z-index:8888;}
+
+.layui-layer-page .layui-layer-content{position:relative;overflow: hidden;}
+
+.modal-form{display: block;background:#fff;}
+
+.layer-form .form-content{padding:40px 93px 10px 30px;}
+
+.form-group{
+    margin-bottom: 15px;
+    overflow: hidden;}
+.form-label{
+    width: 20%;
+    float: left;
+    color:#41a5dd;
+    line-height: 35px;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: right;}
+.form-input{
+    width: 75%;
+    float: right;text-align: left;}
+
+.form-input input{
+    width: 96%;
+    font-size: 16px;
+    padding: 0 5px;
+    line-height: 33px;
+    height: 33px;background:#fff;border:1px solid #ccc;}
+.form-input .input-vcode{width:57%;}
+.clear{clear:both;}
+
+.dz_yzm{
+    float: right;
+    color: #666666;
+    cursor: pointer;
+    display: block;
+    font-family: "宋体";
+    font-size: 12px;
+    height: 35px;
+    margin: 0;
+    padding: 0;
+    width: 130px;  }
+
+.form-group{
+    margin-bottom: 15px;
+    overflow: hidden;  }
+.form-group_button{
+    width: 75%;
+    margin-left: 25%;
+    height: 80%;background:#41a5dd;color:#fff;
+    font-size: 24px;border:1px solid #41a5dd;display:inline-block;
+    text-align: center;
+    line-height: 52px;border-radius:23px;cursor: pointer;}
+.layui-layer-setwin{
+    position: absolute;
+    right: 15px;
+    top: 15px;
+    font-size: 0;
+    line-height:initial;}
+.layer-form .layui-layer-close{display:inline-block;}
+.layui-layer-setwin .layui-layer-close2{
+    position: absolute;
+    right: -28px;
+    top: -28px;
+    width: 30px;
+    height: 30px;
+    margin-left: 0;background-position: -149px -31px;}
+.layui-layer-setwin a{
+    position: relative;
+    width: 16px;
+    height: 16px;
+    margin-left: 10px;
+    font-size: 12px;}
+.layui-layer-setwin a{display: inline-block;vertical-align: top;}
+.layui-layer-ico{background:url('http://img.zengwf.com/images/form/icon.png') no-repeat}
+.layui-layer-resize{
+    position: absolute;
+    width: 15px;
+    height: 15px;
+    right: 0;
+    bottom: 0;
+    cursor: se-resize;}
+.layui_down{left:660px;top:255.5px;width:600px;z-index:8888;display: block;background:#fff;padding:25px 35px 25px 34px;}
+.layui_down h2{
+    font-weight: normal;
+    text-align: center;
+    font-size: 22px;}
+
+
+.form-footer-text{
+    padding-left: 60px;
+}
+
+.form-footer-text p{
+    font-size: 16px;
+    color: red;
+}
+
+
+.weixin{background:#fff;position:fixed;left: 16rem;top: 29rem;width:600px;height:31rem;z-index:8888;
+}
+.weixin .wxewm {
+    display:-webkit-box;-webkit-box-pack: center;-webkit-box-align: center;text-align:center;
+}
+.weixin .wxewm img {
+    margin-left: 0;
+    width: 18rem;
+}
+/*.weixin .wxewm{
+    !*display: flex; justify-content: center;*!
+}
+.weixin .wxewm img{
+    !*width: 18rem;*!
+    !*margin-left: 20%;*!
+    display:block;width:300px;margin:0 auto;
+}*/
+.weixin .tishi{
+    font-size:2rem;
+    display:-webkit-box;-webkit-box-pack: center;-webkit-box-align: center;text-align:center;
+}
+.weixin .weix_colse{
+    display:-webkit-box;-webkit-box-pack: center;-webkit-box-align: center;text-align:center;
+}
+.weixin .wx_colse{
+    display: block;width: 12rem; height: 4rem;line-height: 4rem;border-radius: 15px;background:red;color:#fff;
+}

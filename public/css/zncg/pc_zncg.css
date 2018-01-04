@@ -1,0 +1,221 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: "微软雅黑";
+}
+body{
+    width: 100%;
+}
+.warp {
+    background: #041330;
+    height: 656px;
+    width: 1920px;
+    box-shadow: 1px -1px 30px;
+    margin: 0 auto;
+    background: url(http://img.zengwf.com/images/zncg/bg.jpg);
+}
+.warp .w-font {
+    display: inline-block;
+    margin-left: 42%;
+    margin-top: 25%;
+    cursor: pointer;
+    padding-top: 1%;
+}
+.warp .w-img {
+    margin-top: -36%;
+    margin-left: 72%;
+}
+/*内容*/
+.container {
+    width: 1920px;
+    margin: 0 auto;
+}
+.container .c-one .o-img{
+    padding-top: 2%;
+    height: 400px;
+    background: #f8f8f8;
+}
+.grab {
+    height: 562px;
+    margin-top: -10%;
+}
+.grab ul {
+    list-style: none;
+    margin-left: 26%;
+}
+.grab ul li {
+    display: inline-block;
+    width: 33%;
+    float: left;
+    margin-left: 1%;
+}
+.e-left {
+    padding-top: 1%;
+    height: 129px;
+    margin-left: 2%;
+}
+.grab h3 {
+    margin-top: -25%;
+    font-size: 30px;
+    margin-left: 5%
+}
+.g-centent {
+    background: #dddddd;
+    height: 542px;
+    color: #3e3d3b;
+}
+.g-centent p {
+    margin-left: 3%;
+    padding-bottom: 1%;
+}
+.g-centent .g-b {
+    font-weight: bold;
+    margin-top: 7%;
+    font-size: 16px;
+    cursor: pointer;
+}
+.g-centent .g-img1 {
+    margin-top: 7%;
+    margin-left: 2%;
+}
+.g-centent .g-img2 {
+    margin-top: 2%;
+    margin-left: 1%;
+}
+.topspeed {
+    font-size: 23px;
+    margin-left: 38%;
+}
+.t-q {
+    width: 270px;
+    height: 100px;
+    background: url(http://img.zengwf.com/images/zncg/btn_4.png);
+    color: #fff;
+    font-size: 42px;
+    margin-left: 44%;
+    margin-top: 1%;
+    text-align: center;
+    line-height: 65px;
+    cursor: pointer;
+}
+/*第二部分*/
+.c-two {
+    background: #efefef;
+    height: 1550px;
+}
+.storm ul li {
+    list-style: none;
+    width: 53%;
+    height: 400px;
+    margin: 0 auto;
+}
+.storm .s-one p {
+    font-size: 20px;
+    margin-left: 5%
+}
+.storm .s-one .o-b {
+    margin-top: 2%;
+    padding-top: 13%;
+}
+.storm .s-one span {
+    margin-left: 5%;
+    color: #acacac;
+}
+.s-one {
+    width: 100%;
+    height: 344px;
+    background: url(http://img.zengwf.com/images/zncg/img_08.png) no-repeat;
+
+}
+/*two*/
+.s-two {
+    width: 100%;
+    height: 344px;
+    background: url(http://img.zengwf.com/images/zncg/img_14.png) no-repeat;
+
+}
+.storm .s-two p {
+    font-size: 20px;
+    margin-left: 65%
+}
+.storm .s-two .o-b {
+    margin-top: 2%;
+    padding-top: 13%;
+}
+.storm .s-two span {
+    margin-left: 65%;
+    color: #acacac;
+}
+/*three*/
+.storm .s-three p {
+    font-size: 20px;
+    margin-left: 5%
+}
+.storm .s-three .o-b {
+    margin-top: 2%;
+    padding-top: 16%;
+}
+.storm .s-three span {
+    margin-left: 5%;
+    color: #acacac;
+}
+.s-three {
+    width: 100%;
+    height: 422px;
+    background: url(http://img.zengwf.com/images/zncg/img_16.png) no-repeat;
+}
+/*第三部分*/
+.c-three {
+    margin: 0 auto;
+    width: 100%;
+    height: 482px;
+    background: url(http://img.zengwf.com/images/zncg/img_18.jpg) no-repeat;
+}
+.c-three ul {
+    margin-left: 24%;
+    padding-top: 14%;
+}
+.c-three ul li {
+    list-style: none;
+    float: left;
+    margin-left: 4%;
+    width: 18%;
+}
+.c-three .t-b {
+    font-weight: bold;
+    padding-bottom: 5%;
+}
+/*尾部*/
+.last {
+    background: url(http://img.zengwf.com/images/zncg/img_25.jpg);
+    height: 123px;
+}
+.last .l-q {
+    display: inline-block;
+    width: 207px;
+    height: 62px;
+    background: url(http://img.zengwf.com/images/zncg/btn_3.png);
+    color: #fff;
+    font-size: 33px;
+    text-align: center;
+    line-height:55px;
+    margin-left: 63%;
+    margin-top: 1%;
+    cursor: pointer;
+
+}
+
+.copyright{
+    width:100%;
+    height:120px;background:#444242;}
+.copyright h2{font-weight: 400;color:#fff;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-top: 0;}
+.copyright p{color:#fff;
+    text-align: center; }
+
+.down{
+    cursor: pointer;
+}

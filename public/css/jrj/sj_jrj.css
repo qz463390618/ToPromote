@@ -1,0 +1,182 @@
+.div-1 {
+    background: url(http://img.zengwf.com/images/jrj/banner-bg.jpg) 52% 200% no-repeat;
+    height: 600px;
+    width: 100%;
+    margin: 0 auto;
+}
+.div-1 .img1 {
+    width: 23rem;
+    float: left;
+    margin-top: 2rem;
+    margin-left: 2rem;
+}
+.div-1 .img2 {
+    width: 23rem;
+    float: left;
+    margin-top: 2rem;
+    margin-left: -3rem;
+}
+.div-1 h1 {
+    display: inline-block;
+    font-size: 6rem;
+    color: #fff;
+    padding-top: 4rem;
+    padding-left: 22.5rem;
+}
+.div-1 h2 {
+    display: inline-block;
+    font-size: 3rem;
+    font-weight: normal;
+    color: #fff;
+    padding-left: 19rem;
+    margin-top: 1rem;
+}
+.div-1 img {
+    padding-left: 5.5rem;
+    width: 50rem;
+    margin-top: 3rem;
+}
+.div-9 img:nth-child(1) {
+    float: left;
+    margin-left: 6rem;
+    margin-top: 5rem;
+}
+.div-9 img:nth-child(2) {
+    float: left;
+    margin-left: 5rem;
+    margin-top: 5rem;
+}
+/**/
+.div-2 {
+    background: url(http://img.zengwf.com/images/jrj/section-2-bg.png) no-repeat;
+    width: 100%;
+    height: 574px;
+    margin: 0 auto;
+    border-bottom: 1px solid #3aa6ff;
+}
+.div-4 {
+    background: url(http://img.zengwf.com/images/jrj/section-2-bg.png) no-repeat;
+}
+.div-3 {
+    height: 690.5px;
+}
+.div-4, .div-5{
+    height: 689px;
+}
+.div-6 {
+    background: url(http://img.zengwf.com/images/jrj/section-2-bg.png) no-repeat;
+    height: 637px;
+    padding-top: 5%;
+}
+.div-6 .right-l {
+    margin-top: 7rem;
+    margin-left: -11rem;
+}
+.div-6 .left-l {
+    margin-top: 3rem;
+}
+.div-4 .right-l {
+    margin-top: -35rem;
+    margin-left: 57%;
+}
+.div-7 .left-r {
+    margin-left: 6rem;
+    margin-top: 11rem;
+}
+.div-7 .right-r {
+    margin-top: 6rem;
+    margin-left: -24rem;
+}
+.div-7 {
+    height: 690px;
+}
+.div-8 {
+    background: url(http://img.zengwf.com/images/jrj/section-2-bg.png) no-repeat;
+    height: 687px;
+}
+.div-8 .left-l {
+    margin-top: 6rem;
+}
+.div-8 .right-l {
+    margin-top: -34rem;
+    margin-left: 30rem;
+}
+.div-4 div {
+    margin-top: 6rem;
+}
+.div-3, .div-4, .div-5, .div-6, .div-7, .div-8 {
+    width: 100%;
+    margin: 0 auto;
+    border-bottom: 0.1px solid #3aa6ff;
+}
+.div-9 {
+    background: url(http://img.zengwf.com/images/jrj/section-4-bg.jpg) 50% 50% no-repeat;
+    height: 300px;
+    width: 100%;
+    margin: 0 auto;
+}
+/**/
+.left-l {
+    padding-left: 7rem;
+    margin-top: -1rem;
+    float: left;
+}
+.right-l {
+    float: left;
+    margin-left: -9rem;
+    margin-top: 2rem;
+}
+.right-l h1, .left-r h1 {
+    font-size: 55px;
+    line-height: 48px;
+    color: #3e3e3e;
+    font-weight: normal;
+}
+.right-l ul {
+    margin-top: 2rem;
+    font-size: 2rem;
+    color: #999ea1;
+}
+/*.right-l ul li {
+    line-height: 40px;
+    padding-left: 3px;
+}*/
+.right-r {
+    margin-top: 6rem;
+    margin-left: -14rem;
+    float: left;
+}
+.left-r {
+    float: left;
+    margin-left: 6rem;
+    margin-top: 9rem;
+}
+.left-r h1 {
+    font-size: 55px;
+    line-height: 48px;
+    color: #3e3e3e;
+    font-weight: normal;
+}
+.left-r ul {
+    margin-top: 2rem;
+    font-size: 2rem;
+    color: #999ea1;
+}
+.left-r ul li {
+    line-height: 40px;
+}
+
+.copyright{
+    width:100%;
+    height:120px;background:#444242;}
+.copyright h2{font-weight: 400;color:#fff;
+    display:-webkit-box;-webkit-box-pack: center;-webkit-box-align: center;text-align:center;
+    padding-top: 15px;font-size: 0.1rem;
+    padding-bottom: 15px;
+    margin-top: 0;}
+.copyright p{color:#fff;
+    display:-webkit-box;-webkit-box-pack: center;-webkit-box-align: center;text-align:center;
+    font-size: 1.4rem;}
+
+.div-1 img{cursor: pointer;}
+.div-9 img{cursor: pointer}

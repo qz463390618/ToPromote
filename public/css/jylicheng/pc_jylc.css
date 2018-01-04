@@ -1,0 +1,315 @@
+.jt {
+    background: #262b42;
+    height: 45px;
+    line-height: 44px;
+    font-size: 18px;
+    text-align: center;
+    position: relative;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+body {
+    max-width: 920px;
+    margin: 0 auto;
+    background-color: #f3f3f3;
+    font: 16px "Microsoft YaHei";
+    color: #333;
+}
+body {
+    line-height: 130%;
+    font-size: 14px;
+    font-family: arial;
+    word-wrap: break-word;
+    background: #fafbfc;
+    position: relative;
+}
+html {
+    background-color: #fff;
+    -webkit-text-size-adjust: none;
+}
+.jt:before {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 10px;
+    border: 2px solid #a3b4cc;
+    border-width: 2px 0 0 2px;
+    width: 8px;
+    height: 8px;
+    margin: -5px 0 0 0;
+    -webkit-transform: scale(1) rotate(-50deg) skew(-10deg) translateZ(0);
+    transform: scale(1) rotate(-50deg) skew(-10deg) translateZ(0);
+}
+.jt:before {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 10px;
+    border: 2px solid #a3b4cc;
+    border-width: 2px 0 0 2px;
+    width: 8px;
+    height: 8px;
+    margin: -5px 0 0 0;
+    -webkit-transform: scale(1) rotate(-50deg) skew(-10deg) translateZ(0);
+    transform: scale(1) rotate(-50deg) skew(-10deg) translateZ(0);
+}
+.head {
+    width: 100%;
+    margin: 0 auto;
+}
+.head img {
+    width: 4.5%;
+    position: absolute;
+    margin: -4.5% 0 0 3%;
+    z-index: 1;
+}
+.title {
+    width: 100%;
+    height: 68px;
+    margin: 0 auto;
+    background: #fafbfc;
+    border-top: 1px solid #e5e7ea;
+}
+.title div {
+    width: 36px;
+    height: 36px;
+    margin-top: 15px;
+    margin-left: 14px;
+    border: 1px solid #ccc;
+    border-radius: 2px;
+    float: left;
+    background: url("http://img.zengwf.com/images/lttg/TB2hrDykR8kpuFjSspeXXc7IpXa_!!276530134.jpg") no-repeat;
+    background-size: 100%;
+}
+.title h3 {
+    float: left;
+    display: inline-block;
+    line-height: 32px;
+    margin-left: 3%;
+}
+.title span {
+    float: left;
+    line-height: 65px;
+
+}
+.title span:nth-child(3) {
+    margin-left: 13px;
+}
+.title span:nth-child(4) {
+    margin-left: 5px;
+    color: #f15a23;
+}
+.title-2 {
+    color: rgb(241, 43, 67);
+    text-align: center;
+    height: 40px;
+    line-height: 40px;
+    font-size: initial;
+    width: 100%;
+    margin: 0 auto;
+}
+.content {
+    background-color: #fff;
+    border: 1px solid rgb(224, 224, 224);
+    border-radius: 4px;
+    display: inline-block;
+    text-align: left;
+    vertical-align: top;
+    width: 100%;
+    margin: 0 auto;
+}
+.bold ,.red{
+    font-weight: bold;
+}
+.red {
+    font-family: 微软雅黑;
+    color: rgb(255, 0, 0);
+    font-size: 18px;
+    background: rgb(255, 255, 0);
+}
+.content p , .content div {
+    margin: 0 auto;
+    padding: 10px 6px 10px 10px;
+    max-width: 860px;
+    box-sizing: border-box;
+    line-height: 26px;
+    font-size: 14.5px;
+    text-indent: 2em;
+}
+.content div {
+    text-align: center;
+}
+.content .p-7 {
+    text-align: center;
+    padding-top: 40px;
+    font-size: 18px;
+    color: #333;
+}
+.pl {
+    background-color: #f3f3f3;
+    width: 100%;
+    margin: 0 auto;
+}
+.pl img {
+    height: 36px;
+    width: 36px;
+    border-radius: 2px;
+    border: 1px solid #eee;
+}
+.pl div {
+    display: block;
+    border-top: 1px solid #fff;
+    border-bottom: 1px solid #eaebec;
+    margin: 0 10px;
+    padding: 4px 0;
+}
+.pl div span:nth-child(1) {
+    position: relative;
+}
+.pl div span:nth-child(2) {
+    font-size: 14px;
+    color: #3361a7;
+    position: absolute;
+    left: 6%;
+}
+.pl .pl-6 span:nth-child(2) {
+    left: 9%;
+    color: #e53917;
+}
+.pl div span:nth-child(3) {
+    margin: 0 3px;
+    background-position: 0 -155px;
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    line-height: 16px;
+    text-align: center;
+    font-size: 10px;
+    color: #fff;
+    vertical-align: middle;
+    margin-top: -5.5%;
+    background: url(http://img.zengwf.com/images/lttg/TB2JLq6kStkpuFjy0FhXXXQzFXa_!!276530134.png);
+    background-size: 107%;
+}
+.pl div span:nth-child(4) {
+    margin-left: -10%;
+    margin-right: 8px;
+    color: #c5c9cd;
+    font-size: 12px;
+    position: absolute;
+    left: 147px;
+    margin-top: 23px;
+}
+.pl div span:nth-child(5) {
+    color: #c5c9cd;
+    font-size: 12px;
+    position: absolute;
+    left: 82px;
+    margin-top: 22.5px;
+}
+.pl .pl-1 span:nth-child(3) {
+    background-position: 16% 34%;
+    margin-left: 7.5%;
+}
+.pl .pl-2 span:nth-child(3) {
+    background-position: 33% 0%;
+    margin-left: 10.5%;
+}
+.pl .pl-3 span:nth-child(3) {
+    background-position: 33% 34%;
+    margin-left: 9%;
+}
+.pl .pl-4 span:nth-child(3) {
+    background-position: 33% 34%;
+    margin-left: 7.5%;
+}
+.pl .pl-5 span:nth-child(3) {
+    background-position: 50% 34%;
+    margin-left: 13.5%;
+}
+.pl .pl-6 span:nth-child(3) {
+    background-position: 33% 67.5%;
+    margin-left: 10.5%;
+}
+.pl .pl-7 span:nth-child(3) {
+    background-position: 33% 34%;
+    margin-left: 9%;
+}
+.pl .pl-8 span:nth-child(3) {
+    background-position: 33% 0%;
+    margin-left: 7.5%;
+}
+.pl .pl-9 span:nth-child(3) {
+    background-position: -13% 34%;
+    margin-left: 9%;
+}
+.pl .pl-10 span:nth-child(3) {
+    background-position: 33% 0%;
+    margin-left: 7.5%;
+}
+.pl div p {
+    font-size: 16px;
+    margin: 8px 0;
+    color: #313233;
+    line-height: 150%;
+    padding-left: 48px;
+}
+.fx {
+    color: #333;
+    text-align: center;
+    background-color: #f3f3f3;
+    font: 16px "Microsoft YaHei";
+    height: 20px;
+    padding-top: 29px;
+    margin: 0 auto;
+    width: 100%;
+}
+.foot {
+    width: 100%;
+    max-width: 920px;
+    margin-left: auto;
+    margin-right: auto;
+    position: fixed;
+    bottom: 0;
+    margin: 0 auto;
+}
+.foot p:nth-child(1) {
+    text-align: center;
+    background-color: #f9415a;
+    color: #fff;
+    font-weight: bold;
+    padding: 10px 0;
+    border-radius: 4px;
+    margin-bottom: 2px;
+    font-size: 20px;
+}
+.foot p:nth-child(1) span {
+    margin-left: 15px;
+    background: #e7e7e7;
+    border: 1px solid #a1a1a1;
+    padding: 3px 8px;
+    margin-right: 5px;
+    font-size: 18px;
+    color: #3361a7;
+}
+.foot p:nth-child(2) {
+    color: red;
+    font-size: 16px;
+    text-align: center;
+    margin: 0;
+    height: 25px;
+    line-height: 27px;
+    background-color: #fff;
+}
+.fix1 {
+    position: fixed;
+    top: 40%;
+    left: 1%;
+}
+.fix2 {
+    position: fixed;
+    top: 40%;
+    right:1%;
+}

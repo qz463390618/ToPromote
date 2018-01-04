@@ -1,0 +1,158 @@
+.div-1 {
+    width: 100%;
+    height: 508px;
+    margin: 0 auto;
+    background: url(http://img.zengwf.com/images/ntouzi/banner.jpg) 61% no-repeat;
+    background-size: 114rem 43rem;
+}
+.div-1 .div-img {
+    padding-top: 35rem;
+    padding-left: 3rem;
+}
+.div-2 .div-img {
+    margin: 0 auto;
+    width: 963px;
+    padding-top: 1rem;
+}
+.div-3 .div-img {
+    margin: 0 auto;
+    width: 963px;
+    padding-top: 34.8rem;
+}
+.div-1 .div-img img {
+    width: 25rem;
+}
+.div-2 .div-img img {
+    margin-left: 0.4rem;
+    width: 26rem;
+}
+.div-3 .div-img img {
+    margin-left: 0.8rem;
+    width: 19rem;
+    margin-left: 0.4rem;
+    width: 26rem;
+}
+.div-2 {
+    background-color: #fff;
+    width: 100%;
+    height: 1123px;
+    margin: 0 auto;
+}
+.div-2-0 {
+    margin-left: 5rem;
+    margin-top: 1rem;
+    width: 72rem;
+}
+.d-2-p div {
+    width: 22rem;
+    margin-left: 11rem;
+    display: inline-block;
+}
+.d-2-p div:nth-child(4) {
+    margin-bottom:9rem;
+}
+.d-2-p span {
+    color: #0e41b3;
+    font-size: 37px;
+    width: 118%;
+    float: left;
+    text-align: center;
+}
+.d-2-p p {
+    display: inline-block;
+    float: left;
+    width: 27rem;
+    font-size: 33px;
+    text-align: center;
+}
+.d-2-p img {
+    width: 20rem;
+    float: left;
+    margin-left: 18%;
+}
+.div-3 {
+    background: url(http://img.zengwf.com/images/ntouzi/sj02.jpg) 51% no-repeat;
+    background-size: 144rem 125rem;
+    width: 100%;
+    height: 123rem;
+    margin: 0 auto;
+}
+.d-3-p {
+    float: left;
+    margin-top:23rem;
+}
+.d-3-p p {
+    margin-left: 0%;
+    text-align: inherit;
+    float: none;
+}
+.d-3-p li {
+    font-size: 3.5rem;
+}
+.d-3-p span {
+    width: 24rem;
+    color: #06295d;
+    font-size: 4rem;
+}
+.d-3-p div {
+    margin-left: 8rem;
+    width: 40%;
+}
+.d-3-p div:nth-child(2) {
+    position: relative;
+    top: -4rem;
+}
+.d-3-p div:nth-child(3) {
+    margin-top: 3rem;
+}
+.d-3-p div:nth-child(4) {
+    position: relative;
+    top: -4rem;
+}
+.d-3-p img {
+    margin-left: 1rem;
+    margin-bottom: 2rem;
+}
+.div-3 .div-img {
+    float: left;
+    margin-top: -43rem;
+    margin-left: 1rem;
+}
+.div-4 {
+    margin: 0 auto;
+    width: 100%;
+}
+.div-4 p {
+    height: 64px;
+    line-height: 64px;
+    font-size: 16px;
+    color: #fff;
+    text-align: center;
+    background: #959595;
+}
+p {
+    margin: 0;
+}
+
+.downs{
+    width:67rem;
+    margin:0 auto;
+}
+.downs li{
+    float: left;
+    margin-right: 1rem;
+}
+.downs li:last-child{
+    margin-right:0;}
+
+.copyright{
+    width:100%;
+    height:88px;background:#959595;}
+.copyright h2{font-weight: 400;color:#fff;
+    text-align: center;
+    padding-top: 15px;font-size: 1px;
+    padding-bottom: 15px;
+    margin-top: 0;}
+.copyright p{color:#fff;
+    text-align: center;
+    font-size: 2.2rem;}

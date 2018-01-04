@@ -1,0 +1,122 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+.head .h-img1{
+	margin: 0 auto;
+	height: 440px;
+	background: #07031a;
+}
+.head ul {
+	list-style: none;
+	width:36rem;
+	margin: 0 auto;
+}
+.head ul li {
+	display: inline-block;
+	margin-top: -5rem;
+	width: 17rem;
+}
+.add {
+	padding-top: 6rem;
+	background-color: #fff;
+	height: 600px;
+	width: 100%;
+}
+.add h1 {
+	display:-webkit-box;-webkit-box-pack: center;-webkit-box-align: center;text-align:center;
+	color: #757575;
+}
+.add .img {
+	padding-top: 2rem;
+	margin: 0 auto;
+	width: 80%;
+}
+.more {
+	background-color: #f5f5f5;
+	width: 100%;
+	height: 600px;
+	margin: 0 auto;
+	margin-top: 2rem;
+}
+.more .m-img {
+	padding-top: 3rem;
+	height: 589px;
+	margin-left: 8rem;
+}
+.more .m-img2	{
+	margin-top: -26rem;
+}
+.more .m-img3	{
+	margin-top: -13rem;
+	margin-left: 25rem;
+}
+.more h2{
+	display:-webkit-box;-webkit-box-pack: center;-webkit-box-align: center;text-align:center;
+	color: #757575;
+	font-size:1.8rem;
+	
+}
+.price h1{
+	margin-top: 50px;
+    color: #757575;
+	display:-webkit-box;-webkit-box-pack: center;-webkit-box-align: center;text-align:center;
+}
+.price .p-img {
+	margin: 0 auto;
+	width: 80%;
+}
+.price {
+	background-color: #fff;
+	height: 600px;
+	width: 100%;
+	margin-top: 6rem;
+}
+.use {
+	width: 60.2rem;
+	margin:0 auto;
+}
+.use h2{
+	display:-webkit-box;-webkit-box-pack: center;-webkit-box-align: center;text-align:center;
+	margin-top: 2rem;
+	color: #757575;
+	font-size:2rem;
+}
+.line {
+	width: 60.2rem;
+	height: 665px;
+	margin-top: 3rem;
+}
+.line .l-img {
+	margin: 0 auto;
+	width: 100%;
+}
+.line .l-img2	{
+	margin-top: -32rem;
+    margin-left: 11rem;
+}
+.line h2{
+	margin-top: -1rem;
+	display:-webkit-box;-webkit-box-pack: center;-webkit-box-align: center;text-align:center;
+	color: #757575;
+	font-size:1.3rem;
+	padding: .1rem 1.9rem;
+}
+
+.copyright{
+	width:100%;
+	height:120px;background:#444242;
+	margin-top: 7rem;}
+.copyright h2{font-weight: 400;color:#fff;
+	display:-webkit-box;-webkit-box-pack: center;-webkit-box-align: center;text-align:center;
+	padding-top: 15px;font-size: 0.1rem;
+	padding-bottom: 15px;
+	margin-top: 0;}
+.copyright p{color:#fff;
+	display:-webkit-box;-webkit-box-pack: center;-webkit-box-align: center;text-align:center;
+	font-size:1.6rem;}
+
+
+.h-img1 img,.p-img img{width:100%;}
+.l-img1{
+	margin-left:3rem;}

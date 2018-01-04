@@ -1,0 +1,593 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+.r_wx {
+    width: 271px;
+    height: 400px;
+    position: fixed;
+    z-index: 99999;
+    right: 5px;
+    background: url(http://img.zengwf.com/images/wxtg/erweima_bg.png) no-repeat;
+    background-size: 100% 100%;
+}
+.r_wx img {
+    width: 130px;
+    height: 130px;
+    margin: 45px 0 0 70px;
+}
+.r_wx ul {
+    width: 150px;
+    height: 70px;
+    margin: auto;
+}
+.r_wx ul .wx_s {
+    color: rgb(146, 146, 146);
+    font-size: 16px;
+}
+.r_wx ul li {
+    width: 150px;
+    height: 20px;
+    line-height: 20px;
+    font-size: 16px;
+    color: rgb(255, 80, 80);
+    font-weight: bold;
+    display:-webkit-box;-webkit-box-pack: center;-webkit-box-align: center;text-align:center;
+}
+.r_wx p {
+    width: 17rem;
+    height: 55px;
+    line-height: 24px;
+    font-size: 1rem;
+    margin-top: 4rem;
+    display: -webkit-box;
+    -webkit-box-pack: center;
+    -webkit-box-align: center;
+    text-align: center;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+}
+.r_wx  p span {
+    display: block;
+    width: 7rem;
+    height: 30px;
+    line-height: 2rem;
+    font-size: 1rem;
+    color: rgb(255, 247, 0);
+    display:-webkit-box;-webkit-box-pack: center;-webkit-box-align: center;text-align:center;
+    margin-left: 2rem;
+}
+#banner {
+    width: 100%;
+    height: 630px;
+    margin: auto;
+    background: url(http://img.zengwf.com/images/wxtg/banner_bg.jpg) no-repeat center;
+}
+#banner .banner {
+    position: relative;
+    width: 100%;
+    height: 630px;
+    margin: auto;
+}
+#banner .banner .b_con {
+    position: absolute;
+    width: 774px;
+    height: 630px;
+    background: url(http://img.zengwf.com/images/wxtg/banner.png) no-repeat;
+}
+.banner .b_con .aa ul {
+    width: 260px;
+    height: 48px;
+    margin: 382px 0 0 211px;
+}
+.banner .b_con .bb ul {
+    width: 454px;
+    height: 40px;
+    margin: 11px 0 0 201px;
+}
+#banner .banner .hb {
+    position: absolute;
+    width: 321px;
+    height: 431px;
+    top: 124px;
+    right: 0px;
+    background: url(http://img.zengwf.com/images/wxtg/hb.png) no-repeat center;
+}
+#banner .banner .hb ul {
+    width: 321px;
+    height: 60px;
+    margin: auto;
+    margin-top: 20px;
+}
+#banner .banner .hb i {
+    display: block;
+    width: 20rem;
+    font-style: initial;
+    font-size: 1.5rem;
+    color: rgb(6, 9, 30);
+    display:-webkit-box;-webkit-box-pack: center;-webkit-box-align: center;text-align:center;
+    margin-top: 1rem;
+}
+#banner .banner .hb img {
+    width: 11rem;
+    height: 175px;
+    margin: 2rem 0 0 4rem;
+    border: 1px solid #dedede;
+}
+#banner .banner .hb p {
+    width: 16rem;
+    height: 40px;
+    background: rgb(255, 240, 7);
+    border-radius: 8px;
+    border: solid 3px rgb(210, 21, 21);
+    font-size: 1.2rem;
+    color: rgb(0, 0, 0);
+    display:-webkit-box;-webkit-box-pack: center;-webkit-box-align: center;text-align:center;
+    line-height: 2rem;
+    margin: auto;
+}
+#banner .banner .hb ul .scan {
+    font-size: 1.5rem;
+    color: #929292;
+}
+#banner .banner .hb ul li {
+    font-size: 1.4rem;
+    font-weight: bold;
+    color: rgb(255, 80, 80);
+    display:-webkit-box;-webkit-box-pack: center;-webkit-box-align: center;text-align:center;
+    line-height: 2rem;
+}
+.content_wx {
+    width: 100%;
+    height: 345px;
+    margin: auto;
+    background: url(http://img.zengwf.com/images/wxtg/content_bg.jpg) no-repeat center;
+}
+.content_wx h2 {
+    width: 100%;
+    height: 135px;
+    font-weight: bold;
+    display:-webkit-box;-webkit-box-pack: center;-webkit-box-align: center;text-align:center;
+    line-height: 7rem;
+    font-size: 3rem;
+    color: rgb(255, 255, 255);
+}
+.content_wx .nav, .content_wx .nav ul {
+    width: 100%;
+    height: 166px;
+    margin: auto;
+    overflow: hidden;
+}
+.content_wx ul li {
+    width: 19rem;
+    height: 139px;
+    float: left;
+    margin-left: 1rem;
+    background: url(http://img.zengwf.com/images/wxtg/recived.b5882e31.png) no-repeat;
+}
+.content_wx ul li p {
+    width: 173px;
+    height: 139px;
+    float: left;
+    font-weight: bold;
+    line-height: 139px;
+    display:-webkit-box;-webkit-box-pack: center;-webkit-box-align: center;text-align:center;
+    font-size: 22px;
+    color: rgb(255, 255, 255);
+    text-shadow: -4px 4px 5px rgba(0, 0, 0, .35);
+}
+.content_wx ul li a {
+    display: block;
+    width: 6rem;
+    height: 100%;
+    float: left;
+    font-size: 26px;
+    line-height: 30px;
+    display:-webkit-box;-webkit-box-pack: center;-webkit-box-align: center;text-align:center;
+    font-weight: bold;
+    color: rgb(75, 11, 11);
+}
+.content_wx ul li a span {
+    display: block;
+    margin-top: 1rem;
+}
+.content_wx ul li .special {
+    line-height: 2rem;
+}
+.content_wx ul li p {
+    width: 11rem;
+    height: 139px;
+    float: left;
+    font-weight: bold;
+    line-height: 9rem;
+    display:-webkit-box;-webkit-box-pack: center;-webkit-box-align: center;text-align:center;
+    font-size: 1.5rem;
+    color: rgb(255, 255, 255);
+    text-shadow: -4px 4px 5px rgba(0, 0, 0, .35);
+}
+
+.jump {
+    animation: egg_one .6s linear infinite alternate;
+    -ms-animation: egg_one .6s linear infinite alternate;
+    -moz-animation: egg_one .6s linear infinite alternate;
+    -webkit-animation: egg_one .6s linear infinite alternate;
+    -o-animation: egg_one .6s linear infinite alternate
+}
+
+@keyframes egg_one {
+    0% {
+        -webkit-transform: scale(1.1, 1.1);
+        transform: scale(1.1, 1.1)
+    }
+    to {
+        -webkit-transform: scale(.8, .8);
+        transform: scale(.8, .8)
+    }
+}
+
+@-webkit-keyframes egg_one {
+    0% {
+        -webkit-transform: scale(1.1, 1.1);
+        transform: scale(1.1, 1.1)
+    }
+    to {
+        -webkit-transform: scale(.8, .8);
+        transform: scale(.8, .8)
+    }
+}
+.jumptwo {
+    animation: egg_two .7s linear infinite alternate;
+    -ms-animation: egg_two .6s linear infinite alternate;
+    -moz-animation: egg_two .6s linear infinite alternate;
+    -webkit-animation: egg_two .6s linear infinite alternate;
+    -o-animation: egg_two .6s linear infinite alternate
+}
+
+@keyframes egg_two {
+    0% {
+        -webkit-transform: scale(1, 1);
+        transform: scale(1, 1)
+    }
+    to {
+        -webkit-transform: scale(.8, .8);
+        transform: scale(.8, .8)
+    }
+}
+
+@-webkit-keyframes egg_two {
+    0% {
+        -webkit-transform: scale(1, 1);
+        transform: scale(1, 1)
+    }
+    to {
+        -webkit-transform: scale(.8, .8);
+        transform: scale(.8, .8)
+    }
+}
+
+.simulation {
+    width: 100%;
+    height: 590px;
+    margin: auto;
+}
+.simulation h2 {
+    width: 100%;
+    height: 110px;
+    margin: auto;
+    padding-top: 1rem;
+    line-height: 6rem;
+    color: rgb(255, 80, 80);
+    font-size: 3rem;
+    font-weight: bold;
+    display:-webkit-box;-webkit-box-pack: center;-webkit-box-align: center;text-align:center;
+}
+.simulation .s_content {
+    width: 30rem;
+    height: 68px;
+    margin: auto;
+}
+.simulation h2 span {
+    color: rgb(95, 95, 95);
+}
+.s_img {
+    width: 100%;
+    height: 335px;
+    margin: auto;
+    margin-top: 1rem;
+    background: url(http://img.zengwf.com/images/wxtg/contert.jpg) no-repeat center;
+}
+.s_img ul {
+    width: 100%;
+    height: 330px;
+    margin: auto;
+    overflow: hidden;
+}
+.s_img ul li {
+    width: 10rem;
+    height: 90px;
+    float: left;
+    line-height: 1.5rem;
+    color: rgb(152, 152, 152);
+    font-size: 1rem;
+    font-weight: bold;
+    /*padding-right: 3.3rem;*/
+    margin-top: 14.5rem;
+    margin-left: 2rem;
+}
+.s_img ul li span {
+    color: red;
+}
+.layout {
+    width: 100%;
+    height: 1235px;
+    margin: auto;
+    background: rgb(242, 242, 242);
+}
+.layout h2 {
+    width: 100%;
+    height: 228px;
+    margin: auto;
+    background: url(http://img.zengwf.com/images/wxtg/bt_bg.jpg) no-repeat;
+}
+.layout .layout_img, .layout .layout_img1, .layout .layout_img2 {
+    width: 84%;
+    height: 390px;
+    margin-top: 1rem;
+}
+.layout .layout_img1 img, .layout .layout_img2 img {
+    box-shadow: -4px 4px 5px rgba(0, 0, 0, .35);
+}
+.Record {
+    width: 100%;
+    height: 154px;
+    margin: auto;
+}
+.Record h2 {
+    width: 100%;
+    height: 112px;
+    margin: auto;
+    line-height: 112px;
+    line-height: 7rem;
+    color: rgb(255, 80, 80);
+    font-size: 3rem;
+    font-weight: bold;
+    display:-webkit-box;-webkit-box-pack: center;-webkit-box-align: center;text-align:center;
+    border-bottom: 5px solid #ffba13;
+}
+.Record .Record_bt, .Record .Record_bt ul {
+    width: 1100px;
+    height: 35px;
+    margin: auto;
+    margin-top: 2px;
+    background: #ffba13;
+    border-bottom: 1px solid rgb(206, 206, 206);
+}
+.Record .Record_bt, .Record .Record_bt ul {
+    width: 100%;
+    height: 35px;
+    margin: auto;
+    margin-top: .1rem;
+    background: #ffba13;
+    border-bottom: 1px solid rgb(206, 206, 206);
+    overflow: hidden;
+}
+.Record .Record_bt ul .open_t {
+    width: 214px;
+    border-left: #ffd879 1px solid;
+}
+.Record .Record_bt ul .bt_s {
+    width: 72px;
+}
+.Record .Record_bt ul li {
+    width: 122px;
+    height: 35px;
+    line-height: 35px;
+    display:-webkit-box;-webkit-box-pack: center;-webkit-box-align: center;text-align:center;
+    float: left;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    font-size: 18px;
+    border-right: #ffd879 1px solid;
+}
+.buttons {
+    width: 20rem;
+    height: 75px;
+    margin: auto;
+}
+.buttons p {
+    width: 307px;
+    height: 60px;
+    margin: auto;
+    line-height: 60px;
+    font-size: 18px;
+    color: #999;
+    display:-webkit-box;-webkit-box-pack: center;-webkit-box-align: center;text-align:center;
+}
+/*弹窗*/
+.tankuang {
+    top: 26rem;
+    left: 50%;
+    margin-left: -12rem;
+    width: 30rem;
+    height: 600px;
+    background: url(http://img.zengwf.com/images/wxtg/layer-box.bbbaa43b.png) no-repeat;
+    background-size: 100% 100%;
+    background-color: rgb(0, 0, 0) 0.8;
+    font-size: 6rem;
+    color: #fff;
+    overflow: hidden;
+    position: relative;
+}
+.tankuang img {
+    width: 16rem;
+}
+.shadow, .tankuang {
+    position: fixed;
+    z-index: 999;
+}
+.hide {
+    display: none;
+}
+.close {
+    width: 50px;
+    height: 50px;
+    float: right;
+}
+.tk_img {
+    width: 26rem;
+    height: 16.5rem;
+    top: 12.5rem;
+    position: absolute;
+    display:-webkit-box;-webkit-box-pack: center;-webkit-box-align: center;text-align:center;
+}
+.tk_font {
+    line-height: 2.5rem;
+}
+.tankuang .txt_one {
+    display: -webkit-box;
+    -webkit-box-pack: center;
+    -webkit-box-align: center;
+    text-align: center;
+    margin-top: 4rem;
+    margin-left: -5rem;
+    font-size: 2rem;
+    color: rgb(255, 255, 255);
+}
+.tankuang .txt_one1 {
+    font-size: 2rem;
+    color: rgb(126, 11, 11);
+    margin-left: 4rem;
+    margin-top: 1.2rem;
+}
+.tankuang .txt_two {
+    display:-webkit-box;-webkit-box-pack: center;-webkit-box-align: center;text-align:center;
+    font-size: 2rem;
+    color: rgb(255, 255, 255);
+    margin-left: -4rem;
+    margin-top: 19rem;
+}
+.tankuang .txt_three {
+    color: rgb(255, 215, 0);
+    width: 26rem;
+    font-size: 2rem;
+    font-weight: bold;
+    display:-webkit-box;-webkit-box-pack: center;-webkit-box-align: center;text-align:center;
+}
+
+.box {
+    display: none;
+    width: 100%;
+    height: 100%;
+    top: 0px;
+    left: 0px;
+    background: #000;
+    position: fixed;
+    opacity: 0.8;
+    z-index: 90;
+}
+.t_num1 {
+    display: inline-block;
+    line-height: 13px;
+    margin: 2px 4px 0 4px;
+}
+.t_num1 i {
+    width: 51px;
+    height: 40px;
+    display: inline-block;
+    background: url(http://img.zengwf.com/images/wxtg/number.png) no-repeat;
+    background-position: 0 0;
+    text-indent: -999em
+}
+
+.t_num2 {
+    display: inline-block;
+    line-height: 13px;
+    margin: 2px 4px 0 4px;
+}
+
+.t_num2 i {
+    width: 46.4px;
+    height: 40px;
+    display: inline-block;
+    background: url(http://img.zengwf.com/images/wxtg/number.png) no-repeat;
+    background-position: 0 0;
+    text-indent: -999em
+}
+#demo {
+    width: 100%;
+    height: 300px;
+    margin: auto;
+    overflow: hidden;
+    margin-bottom: 1rem;
+}
+#demo ul {
+    width: 100%;
+    height: 35px;
+    margin: auto;
+}
+#demo ul .open_t {
+    width: 5rem;
+    border-left: rgb(206, 206, 206) 1px solid;
+}
+#demo ul li {
+    width: 122px;
+    height: 30px;
+    line-height: 30px;
+    display:-webkit-box;-webkit-box-pack: center;-webkit-box-align: center;text-align:center;
+    float: left;
+    color: rgb(0, 0, 0);
+    font-size: 16px;
+    background: rgb(255, 255, 255);
+    border-right: rgb(206, 206, 206) 1px solid;
+    border-bottom: rgb(206, 206, 206) 1px solid;
+}
+#demo ul .bt_s, #demo ul .bt_z, #demo ul .bt_y, #demo ul .bt_l {
+    width: 4rem;
+}
+.Record h2 span {
+    color: rgb(95, 95, 95);
+}
+#demo ul .bt_s, #demo ul .bt_z, #demo ul .bt_y, #demo ul .bt_l {
+    width: 72px;
+}
+#demo ul .bt_z {
+    color: green;
+    font-weight: bold;
+}
+#demo ul .bt_y {
+    color: red;
+    font-weight: bold;
+}
+.r_wx a {
+    color: #fff;
+    font-size: 1rem;
+    width: 271px;
+    display:-webkit-box;-webkit-box-pack: center;-webkit-box-align: center;text-align:center;
+}
+.banner a {
+    color: #fff;
+    font-size: 1.5rem;
+    width: 321px;
+    display:-webkit-box;-webkit-box-pack: center;-webkit-box-align: center;text-align:center;
+}
+.tankuang a {
+    color: #fff;
+    font-size: 1.5rem;
+    width: 26rem;
+    line-height: 28px;
+    display: -webkit-box;
+    -webkit-box-pack: center;
+    -webkit-box-align: center;
+    text-align: center;
+}
+.copyright{
+    width:100%;
+    height:88px;background:#959595;}
+.copyright h2{font-weight: 400;color:#fff;
+    display:-webkit-box;-webkit-box-pack: center;-webkit-box-align: center;text-align:center;
+    padding-top: 15px;font-size: 1px;
+    padding-bottom: 15px;
+    margin-top: 0;}
+.copyright p{color:#fff;
+    display:-webkit-box;-webkit-box-pack: center;-webkit-box-align: center;text-align:center;
+    font-size: 1.4rem; }

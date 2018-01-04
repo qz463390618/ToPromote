@@ -1,0 +1,331 @@
+.jt {
+    background: #262b42;
+    height: 7rem;
+    font-size: 42rem;
+    position: sticky;
+    top: 0;
+}
+body {
+    margin: 0 auto;
+    background-color: #f3f3f3;
+    font: 16px "Microsoft YaHei";
+    color: #333;
+}
+body {
+    line-height: 130%;
+    font-size: 1rem;
+    font-family: arial;
+    word-wrap: break-word;
+    background: #fafbfc;
+    position: relative;
+}
+html {
+    background-color: #fff;
+    -webkit-text-size-adjust: none;
+}
+.jt:before {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 10px;
+    border: 2px solid #a3b4cc;
+    border-width: 2px 0 0 2px;
+    width: 8px;
+    height: 8px;
+    margin: -5px 0 0 0;
+    -webkit-transform: scale(1) rotate(-50deg) skew(-10deg) translateZ(0);
+    transform: scale(1) rotate(-50deg) skew(-10deg) translateZ(0);
+}
+.jt:before {
+    content: '';
+    position: absolute;
+    top: 4.3rem;
+    left: 2.5rem;
+    border: 1rem solid #a3b4cc;
+    border-width: 0.5rem 0 0 0.5rem;
+    width: 1rem;
+    height: 1rem;
+    margin: -1.5rem 0 0 0;
+    -webkit-transform: scale(1) rotate(-50deg) skew(-10deg) translateZ(0);
+    transform: scale(1) rotate(-50deg) skew(-10deg) translateZ(0);
+}
+.head {
+    width: 100%;
+    margin: 0 auto;
+}
+.head img {
+    width: 5rem;
+    position: absolute;
+    margin: -5.8rem 0 0 6rem;
+    z-index: 1;
+}
+.title {
+    width: 100%;
+    height: 10rem;
+    font-size: 2rem;
+    margin: 0 auto;
+    background: #fafbfc;
+    border-top: 1px solid #e5e7ea;
+}
+.title div {
+    width: 5rem;
+    height: 5rem;
+    margin-top: 2rem;
+    margin-left: 2rem;
+    border: 0.2rem solid #ccc;
+    border-radius: 0.5rem;
+    float: left;
+    background: url(http://img.zengwf.com/images/lttg/timg.jpg) no-repeat;
+    background-size: 100%;
+}
+.title h3 {
+    float: left;
+    display: inline-block;
+    line-height: 5rem;
+    margin-left: 2rem;
+}
+.title span {
+    float: left;
+    line-height: 10rem;
+
+}
+.title span:nth-child(3) {
+    margin-left: 2rem;
+}
+.title span:nth-child(4) {
+    margin-left: 1rem;
+    color: #f15a23;
+}
+.title-2 {
+    color: rgb(241, 43, 67);
+    text-align: center;
+    height: 3rem;
+    line-height: 3rem;
+    font-size: 2.1rem;
+    width: 100%;
+    margin: 0 auto;
+}
+.content {
+    background-color: #fff;
+    border: 1px solid rgb(224, 224, 224);
+    border-radius: 4px;
+    display: inline-block;
+    text-align: left;
+    vertical-align: top;
+    width: 100%;
+    margin: 0 auto;
+}
+.bold ,.red{
+    font-weight: bold;
+}
+.red {
+    font-family: 微软雅黑;
+    color: rgb(255, 0, 0);
+    font-size: 2.5rem;
+    background: rgb(255, 255, 0);
+}
+.content .img2 img {
+    width: 49rem;
+}
+.content .img1 img {
+    width: 49rem;
+}
+.content .img3 img {
+    width: 54rem;
+}
+.content p , .content div {
+    margin: 0 auto;
+    padding: 2rem 1rem 0rem 1rem;
+    max-width: 60rem;
+    box-sizing: border-box;
+    line-height: 5rem;
+    font-size: 14.5px;
+    text-indent: 2em;
+    font-size: 2.5rem;
+}
+.content .p-7 {
+    text-align: center;
+    padding-top: 2rem;
+    font-size: 3rem;
+    color: #333;
+    text-indent:0em;
+}
+.content .ewm {
+    text-align: center;
+    text-indent: 0em;
+}
+.content .ewm img {
+    width: 23rem;
+}
+.pl {
+    background-color: #f3f3f3;
+    width: 100%;
+    margin: 0 auto;
+    height: 190rem;
+}
+.pl img {
+    height: 7rem;
+    width: 7rem;
+    border-radius: 0.5rem;
+    border: 1px solid #eee;
+}
+.pl div {
+    display: block;
+    border-top: 1px solid #fff;
+    border-bottom: 1px solid #eaebec;
+    margin: 0 10px;
+    padding: 4px 0;
+}
+.pl div span:nth-child(1) {
+    position: relative;
+}
+.pl div span:nth-child(2) {
+    font-size: 2rem;
+    color: #3361a7;
+    position: absolute;
+    left: 9rem;
+    margin-top: 1rem;
+}
+.pl .pl-6 span:nth-child(2) {
+    left: 13rem;
+    color: #e53917;
+}
+.pl div span:nth-child(3) {
+    background-position: 0 -155px;
+    width: 3rem;
+    height: 3rem;
+    display: inline-block;
+    line-height: 2rem;
+    text-align: center;
+    font-size: 2rem;
+    color: #fff;
+    vertical-align: middle;
+    margin-top: -10.5rem;
+    background: url(http://img.zengwf.com/images/jylicheng/bj.png);
+    background-size: 3rem;
+}
+.pl div span:nth-child(4) {
+    color: #c5c9cd;
+    font-size: 2rem;
+    position: absolute;
+    left: 9rem;
+    margin-top: 5rem;
+}
+.pl div span:nth-child(5) {
+    color: #c5c9cd;
+    font-size: 2rem;
+    position: absolute;
+    left: 13rem;
+    margin-top: 5rem;
+}
+.pl .pl-1 span:nth-child(3) {
+    background-position: 16% 34%;
+    margin-left: 10rem;
+}
+.pl .pl-2 span:nth-child(3) {
+    background-position: 3rem 0rem;
+    margin-left: 14rem;
+}
+.pl .pl-3 span:nth-child(3) {
+    background-position: 3rem 11rem;
+    margin-left: 12rem;
+}
+.pl .pl-4 span:nth-child(3) {
+    background-position: 3rem 11rem;
+    margin-left: 10.5rem;
+}
+.pl .pl-5 span:nth-child(3) {
+    background-position: 3rem 11rem;
+    margin-left: 18.5rem;
+
+}
+.pl .pl-6 span:nth-child(3) {
+    background-position: 3.1rem 7.1rem;
+    margin-left: 14.5rem;
+}
+.pl .pl-7 span:nth-child(3) {
+    background-position: 3rem 11rem;
+    margin-left: 12.5rem;
+}
+.pl .pl-8 span:nth-child(3) {
+    margin-left: 10.5rem;
+}
+.pl .pl-9 span:nth-child(3) {
+    background-position: 3rem -4.5rem;
+    margin-left: 12rem;
+}
+.pl .pl-10 span:nth-child(3) {
+    background-position: 3rem 0rem;
+    margin-left: 17.5%;
+}
+.pl div p {
+    font-size: 2.5rem;
+    margin: 2rem 0;
+    color: #313233;
+    line-height: 4rem;
+    padding-left: 8.5rem;
+}
+.fix1 {
+    position: fixed;
+    top: 40%;
+    left: 1%;
+}
+.fix2 {
+    position: fixed;
+    top: 40%;
+    right:1%;
+}
+.foot {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    position: fixed;
+    bottom: 0;
+    margin: 0 auto;
+    height: 12rem;
+}
+.foot p:nth-child(1) {
+    text-align: center;
+    background-color: #f9415a;
+    color: #fff;
+    font-weight: bold;
+    padding: 2rem 0;
+    border-radius: 0.5rem;
+    margin-bottom: 1rem;
+    font-size: 3rem;
+    line-height: 2rem;
+}
+.foot p:nth-child(1) span {
+    margin-left: 2rem;
+    background: #e7e7e7;
+    border: 0.1rem solid #a1a1a1;
+    padding: 1rem 2.5rem;
+    margin-right: 1rem;
+    font-size: 2rem;
+    color: #3361a7;
+}
+.foot p:nth-child(2) {
+    color: red;
+    font-size: 2rem;
+    text-align: center;
+    margin-top: -1rem;
+    height: 3rem;
+    line-height: 3rem;
+    background-color: #fff;
+}
+.fix1 {
+    position: fixed;
+    top: 40%;
+    left: 1%;
+}
+.fix2 {
+    position: fixed;
+    top: 40%;
+    right:1%;
+}
+.fix1 img {
+    width: 16rem;
+}
+.fix2 img {
+    width: 16rem;
+}

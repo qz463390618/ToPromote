@@ -1,0 +1,90 @@
+.head{
+    width: 100%;}
+.headlogo{
+    text-align: center;
+}
+.neibanner4{width:100%;height:250px;background:url('http://img.zengwf.com/images/xgj/banner3.jpg')center 0 no-repeat;}
+
+
+.neimainbox{
+    margin:0 auto;
+    width: 100%;height:auto;margin-bottom: 50px;
+}
+
+.neimainright{
+    margin: 0 auto;
+    width: 90%;
+    margin-top: 70px;
+    margin-bottom: 50px;
+}
+.neimainposition{
+    height: 50px;
+    line-height: 25px;
+    border-bottom: 1px solid #dddddd;
+    color: #777777;
+    border-radius: 3px;
+    font-size: 2rem;
+}
+.protypename{
+    float: left;
+    margin-left: 10px;
+}
+
+.neimainposition span{
+    float: right;
+    margin-right: 10px;
+}
+.neimainposition span a{
+    color:#777;
+}
+
+.neimaindownbox_dow{
+    width: 95%;
+    height: auto;
+    margin:0 auto;
+    margin-top: 30px;
+}
+.down_ul .down_li{
+    border-bottom: 4px dashed #ccc;
+    min-height: 130px;
+    margin-bottom: 10px;
+    padding-bottom: 20px;
+}
+.tc{
+    text-align: center;
+}
+.licon1{
+    margin-top: 40px;
+}
+.liimg1 img{
+    vertical-align: middle;
+    height: 172px;
+    width: 182px;
+}
+.licon1 li{
+    height: 70px;
+    width: 260px;
+    text-align: center;
+    line-height: 70px;
+    background: #f3f3f3;
+    float: left;
+    margin-right: 15px;
+    margin-bottom: 15px;
+}
+.licon1 li a{
+    color:#666;
+    font-size: 1.5rem;
+}
+
+.copyright{
+    width:100%;
+    height:75px;background:#444242;}
+.copyright h2{font-weight: 400;color:#fff;
+    display:-webkit-box;-webkit-box-pack: center;-webkit-box-align: center;text-align:center;
+    padding-top: 1rem;font-size: 0.1rem;
+    padding-bottom: 0.5rem;
+    margin-top: 0;}
+.copyright p{
+    color:#fff;
+    display:-webkit-box;-webkit-box-pack: center;-webkit-box-align: center;text-align:center;
+}

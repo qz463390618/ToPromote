@@ -1,0 +1,27 @@
+.cover{width:1280px;margin:0 auto; box-shadow:0 0 30px -15px #000;overflow:hidden;}
+h1,h2{padding:0 10px;text-align: center;}
+h2,h3{color:#1a6cc6;font-weight: 400;}
+h1{font-size: 70px;margin:20px auto 40px;max-width:1180px;line-height:120%;}
+body,h1{font-weight: lighter;}
+.helpContainer h1,h2{max-width: 1180px;font-size:27px;line-height: 130%;margin:-20px auto 40px;}
+.helpContainer h1,h2,h3{color:#1a6cc6;font-weight: 400}
+
+.container{font-size:16px;}
+.container{max-width: 1180px;min-height: 30px;margin: 0 auto;position:relative;padding:10px;}
+.content{min-height:100px;}
+.content h3,.content p,.content ul{text-align: left;}
+li,li div,p,ul{font-size:16px;line-height: 160%;}
+p{margin-bottom: 12px;}
+a,a:link{color:#1784c0;}
+a.buttonLink{background-color:#17a21d;border-radius:5px;box-shadow:0 5px 20px -15px #000; color:#fff;display:inline-block;font-size: 19px;font-weight: 700;margin:0;padding:15px 30px;text-decoration:none;line-height: 130%;}
+.content ul{display:inline-block;list-style: none;padding:0;}
+.content ul li{display: block;list-style: none;margin:0;padding:0 0 5px 24px;position:relative;}
+.content ul li:before{background:url('http://img.zengwf.com/images/mt5/icons2.png')no-repeat -488px -123px;content:'';height:16px;left:0;position:absolute;top:4px;width:16px;}
+.fquote.wrapper.w650{padding-right:650px;}
+.fquote.wrapper.left{padding-left: 500px;padding-right:0;}
+.fquote.wrapper{margin:0 0 50px;border:0;position:relative;padding:0 500px 0 0 ;}
+.fquote.wrapper.w600{padding-left:600px;}
+.fquote.wrapper img{position:absolute;top:0;right:0;}
+.fquote.wrapper.left img{left:0;right:auto;}
+
+.fquote.wrapper.left.w650{padding-left:650px;}

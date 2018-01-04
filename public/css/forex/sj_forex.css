@@ -1,0 +1,62 @@
+.box{
+    width:100%;
+}
+.index1{background:url('http://img.zengwf.com/images/forex/bg1.png');}
+.index2{background:url('http://img.zengwf.com/images/forex/bg2.png');}
+.index3{background:url('http://img.zengwf.com/images/forex/bg3.png');}
+.index4{background:url('http://img.zengwf.com/images/forex/bg4.png');}
+.index5{background:url('http://img.zengwf.com/images/forex/bg5.png');}
+.index6{background:url('http://img.zengwf.com/images/forex/bg6.png');}
+.footer{background:url('http://img.zengwf.com/images/forex/bg7.png');}
+
+.content{
+    width:80%;
+    margin:0 auto;
+}
+
+.conl img{width:16rem;}
+.downs li a img{
+    width:14rem;
+}
+.conr img{width:23.2rem;}
+
+.footer_con{
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+}
+.footer_con h1{
+    color: #fff;
+    font-size: 2rem;
+    font-weight: 500;
+}
+.footer_con .downs{
+    margin-left:25%;
+}
+
+.footer_con .downs li{
+    float: left;}
+.footer_con .downs  li a img{
+    width:8rem;
+}
+
+.footer .footer_con > img{margin-left:-4rem;width:14rem}
+.copyright{
+    width:100%;
+    height:120px;background:#444242;}
+.copyright h2{font-weight: 400;color:#fff;
+    display:-webkit-box;-webkit-box-pack: center;-webkit-box-align: center;text-align:center;
+    padding-top: 15px;font-size: 0.1rem;
+    padding-bottom: 15px;
+    margin-top: 0;}
+.copyright p{color:#fff;
+    display:-webkit-box;-webkit-box-pack: center;-webkit-box-align: center;text-align:center;
+    font-size: 1.6rem;
+}
+
+
+.index1 .downs,.index3 .downs,.index5 .downs,.index6 .downs{margin-left:-3rem;}
+.index1 .conl>img,.index3 .conl>img,.index5 .conl>img{
+    width:25rem;}
+.index6 .conl>img{
+    width:20rem;}

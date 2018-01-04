@@ -1,0 +1,69 @@
+.box{
+    width:100%;
+}
+.banner{
+    background:url('http://img.zengwf.com/images/forex/bg1.png');
+}
+.new1{
+    background:url('http://img.zengwf.com/images/forex/bg2.png');
+}
+
+.index1{
+    background:url('http://img.zengwf.com/images/forex/bg3.png');
+}
+.index2{
+    background:url('http://img.zengwf.com/images/forex/bg4.png');
+}
+.index3{
+    background:url('http://img.zengwf.com/images/forex/bg5.png');
+}
+.index4{
+    background:url('http://img.zengwf.com/images/forex/bg6.png');
+}
+
+.footer{
+    background:url('http://img.zengwf.com/images/forex/bg7.png');
+}
+.ban_con,.new_con{
+
+    width:80%;
+    margin:0 auto;
+}
+
+.ban_con>div,.new_con>div{
+    float: left;}
+
+.banr,.newl{
+    width:55%;
+}
+.banr img,.newr img{
+    width:97%;
+}
+
+.footer_con{
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+}
+.footer_con h1{
+    color: #fff;
+    font-size: 75px;
+    font-weight: 500;
+}
+.footer_con .downs{
+    margin-left:25%;
+}
+
+.footer_con .downs li{
+    float: left;}
+
+.copyright{
+    width:100%;
+    height:88px;background:#444242;}
+.copyright h2{font-weight: 400;color:#fff;
+    text-align: center;
+    padding-top: 15px;font-size: 12px;
+    padding-bottom: 15px;
+    margin-top: 0;}
+.copyright p{color:#fff;
+    text-align: center; }
