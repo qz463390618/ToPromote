@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>东方财富手机版</title>
+    <title>智能投资软件</title>
     <link rel="stylesheet" href="{{url('css/share.css')}}">
     <link rel="stylesheet" href="{{url('css/dfcf/pc_dfcf.css')}}">
     <link rel="stylesheet" href="{{url('css/form.css')}}">
@@ -12,7 +12,8 @@
 <div class="div-1">
     <div class="top_con clearfix">
         <div class="left-1">
-            <img src="http://img.zengwf.com/images/dfcf/title.png" alt="" />
+            <!-- <img src="http://img.zengwf.com/images/dfcf/title.png" alt="" /> -->
+            <img src="http://p09rldi4k.bkt.clouddn.com//images/dfcf/tit.png" alt=""/>
             <ul class="downs">
                 <li class="sjAPP">
                     <div class="fl img_03"></div>
@@ -242,7 +243,7 @@
 </div>
 <div class="copyright">
     <h2 style="margin-bottom: 0;">投资有风险,入市需谨慎</h2>
-    <p>&copy; 版权所有：金创互动科技（深圳）有限公司   ICP备案号：粤ICP备16102940号-1</p>
+    <p>&copy; 版权所有：义乌聚鼎网络科技有限公司</p>
 </div>
 {{--写跳转过来的页面--}}
 <input type="hidden" name="referr" value="<?= isset($_SERVER['HTTP_REFERER']) ? $_SERVER['HTTP_REFERER'] :'' ?>">
@@ -259,7 +260,7 @@
                 <input type="hidden" name="_token" value="{{csrf_token()}}" id="_token">
                 <div class="form-content">
                     <div class="form-group">
-                        <label for="txtName1" class="form-label">姓&nbsp;&nbsp;&nbsp;&nbsp;名</label>
+                        <label for="txtName1" class="form-label">姓&nbsp;&nbsp;名</label>
                         <div class="form-input">
                             <input type="text" name="txtName1" id="txtName1" aria-required="true">
                         </div>

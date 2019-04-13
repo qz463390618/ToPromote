@@ -9,7 +9,7 @@
         <h1>推广客户</h1>
     </div>
     <div id="breadcrumb">
-        <a href="#" title="返回后台首页" class="tip-bottom"><i class="icon-home"></i> 推广管理</a>
+        <a href="#" title="返回后台首页" class="tip-bottom"><i class="icon-home"></i>推广管理</a>
         <a href="#" class="current">所有客户</a>
     </div>
     <div class="container-fluid">
@@ -33,12 +33,14 @@
                         显示多少条数据
                     </label>
                 </div>
+                
                 <div class="control-group" style="display: inline-block">
                     <label class="control-label" style="width: 120px;">搜索日期</label>
                     <div class="controls ui-time" style="margin-left: 135px;">
                         <input type="text" id="dp11" class="layui-input ui-time-text" name="search_time" value="<?= !empty($_GET['search_time']) ? $_GET['search_time']:'' ?>" kssj="" jssj=""  style="height: 30px;width: 215px;" readonly/>
                     </div>
                 </div>
+                
                 <div class="control-group" style="display: inline-block">
                     <label class="control-label" style="width: 75px;">搜索</label>
                     <div class="controls" style="margin-left: 90px;">
@@ -64,14 +66,18 @@
                                 <th>id</th>
                                 <th>姓名</th>
                                 <th>电话</th>
+                                
                                 <th>ip</th>
+                                
                                 <th>添加来源</th>
                                 <th>搜索引擎</th>
+                                
                                 <th>关键词</th>
+                               
                                 <th>添加时间</th>
-                                @if (getUserRughts() == 1)
+                               
                                     <th >操 作</th>
-                                @endif
+                                
                             </tr>
                             </thead>
                             <tbody>
@@ -84,15 +90,18 @@
                                 <tr>
                                     <td style="display:table-cell; vertical-align:middle">{{$v['id']}}</td>
                                     <td style="display:table-cell; vertical-align:middle">{{$v['client_name']}}</td>
-                                    <td style="display:table-cell; vertical-align:middle">{{ getUserRughts()== 1 ? $v['client_phone']: substr_replace($v['client_phone'],'****',3,4)}}</td>
+                                    <!-- <td style="display:table-cell; vertical-align:middle">{{ getUserRughts()!= 2 ? $v['client_phone']: substr_replace($v['client_phone'],'****',3,4)}}</td> -->
+                                    <td style="display:table-cell; vertical-align:middle">{{$v['client_phone']}}</td>
+                                    
                                     <td style="display:table-cell; vertical-align:middle">{{$v['ip']}}</td>
+                                   
                                     <td style="display:table-cell; vertical-align:middle">
                                         @if(!empty($v['url']))
                                             <?php
                                             $urlInfo = getUrlInfo($v['url'])
                                             ?>
-                                            {{$urlInfo['message']}}
-                                            <br>
+                                            <!-- {{$urlInfo['message']}} -->
+                                            <!-- <br> -->
                                             <a href="http://{{$urlInfo['url']}}">{{$urlInfo['url']}}</a>
                                         @endif
                                     </td>
@@ -101,15 +110,17 @@
                                             {{$v['source']}}
                                         @endif
                                     </td>
+                                    
                                     <td style="display:table-cell; vertical-align:middle" >
                                         @if(!empty($v['keyword']))
                                             {{$v['keyword']}}
                                         @endif
                                     </td>
+                                    
                                     <td style="display:table-cell; vertical-align:middle" >{{ date('Y-m-d H:i:s',$v['add_time'])}}</td>
-                                    @if(getUserRughts() == 1)
+                                    
                                         <td style="display:table-cell; vertical-align:middle"><a href="javascript:void(0)" onclick="del({{$v['id']}})">删除</a></td>
-                                    @endif
+                                    
                                 </tr>
                                 <?php
                                 $the_num++;

@@ -7,7 +7,7 @@
  */
 
 
-//ip接口调用,解析ip地址
+//ip接口调用,解析ip地址获取ip的省和市
 function analysisIp($ip)
 {
     $ipInfo = file_get_contents("http://ip.taobao.com/service/getIpInfo.php?ip=".$ip);
@@ -92,6 +92,7 @@ function getUrlId($url_message)
 }
 //获取关键词
 function getKeyWord($url)
+
 {
     if(!empty($url))
     {
@@ -216,12 +217,18 @@ function handingIp($ip)
     }
 }
 //获取登录用户的权限等级
+//1 超级管理员 2业务员/操作员
+//出现登录bug时的解决(服务器上未传)
 function getUserRughts()
 {
     //var_dump(session('user_id'));
-    $user_id = session('user_id');
-    $userInfo = \App\Admin\User::where('id',$user_id)->first()->toArray();
-    return $userInfo['user_role'];
+    if(!empty(session('user_id'))){
+        $user_id = session('user_id');
+        $userInfo = \App\Admin\User::where('id',$user_id)->first()->toArray();
+        return $userInfo['user_role'];
+    }else{
+        echo "<script>alert('您暂未登入,请登入后重试');window.location.href='/admin/login';</script>";
+    }
 }
 
 //返回路由标志

@@ -1,0 +1,304 @@
+a,
+body,
+button,
+dd,
+div,
+dl,
+dt,
+figure,
+form,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+html,
+iframe,
+img,
+input,
+li,
+ol,
+p,
+select,
+table,
+td,
+textarea,
+th,
+ul {
+  margin: 0;
+  padding: 0;
+  border: none;
+  outline: none;
+}
+ul {
+  list-style: none;
+}
+img {
+  border: 0 none;
+  vertical-align: middle;
+}
+body {
+  -webkit-backface-visibility: hidden;
+  -webkit-touch-callout: none;
+  -webkit-text-size-adjust: none;
+  -moz-text-size-adjust: none;
+  text-size-adjust: none;
+  -webkit-tap-highlight-color: transparent;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  -webkit-overflow-scrolling: touch;
+  -webkit-user-drag: none;
+  background-color: #fff;
+  color: #535353;
+  word-wrap: break-word;
+  margin: 0 auto;
+  padding: 0;
+  font-size: 0.24rem;
+  font-family: Microsoft YaHei, SimHei, Arial, Helvetica, sans-serif;
+  line-height: 1.42857;
+  max-width: 7.5rem;
+}
+body,
+html {
+  height: 100%;
+  overflow: hidden;
+}
+*,
+*:after,
+*:before {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+input {
+  -moz-appearance: none;
+  -o-appearance: none;
+  -webkit-appearance: none;
+  vertical-align: middle;
+}
+.wraptext {
+  height: 100%;
+  display: flex;
+  display: -webkit-flex;
+  flex-direction: column;
+  -webkit-flex-direction: column;
+}
+.wrap {
+  width: 7.5rem;
+  margin: 0 auto;
+  overflow-y: auto;
+  -webkit-flex: 1;
+  flex: 1;
+}
+.wrap img {
+  width: 100%;
+  display: block;
+}
+.header {
+  padding: 0.2rem 0.2rem 0.3rem 0;
+  color: #d0a12e;
+  font-size: 0.36rem;
+  text-align: right;
+  background: #fff8e6;
+}
+.bannerDown {
+  background: url(/images/znhq/jiaoyiImg-2.jpg) no-repeat;
+  background-size: 100% 1.54rem;
+  height: 1.54rem;
+  color: #fff;
+  text-align: center;
+}
+.bannerDown span {
+  display: block;
+  background: #2069dd url(/images/znhq/tradingSystem-icon1.png) no-repeat 0.7rem center;
+  background-size: 0.3rem auto;
+  color: #fff;
+  padding-left: 1.14rem;
+  border-radius: 0.05rem;
+  height: 0.76rem;
+  cursor: pointer;
+  font-size: 0.3rem;
+  line-height: 0.76rem;
+  width: 3.06rem;
+  margin: 0 auto 0.1rem;
+  text-align: left;
+}
+.youshibg {
+  background: url(/images/znhq/jiaoyiImg-5.jpg) no-repeat;
+  background-size: 100% 100%;
+}
+.youshibg .h3-title {
+  text-align: center;
+  font-size: 0.3rem;
+  color: #fff;
+  padding-top: 0.4rem;
+}
+.youshibg .h3-title span {
+  padding-bottom: 0.22rem;
+  display: inline-block;
+  border-bottom: 2px solid #fff;
+}
+.indexEightList {
+  color: #fff;
+  overflow: hidden;
+  padding-left: 0.44rem;
+  padding-bottom: 0.5rem;
+}
+.indexEightList dl {
+  float: left;
+  position: relative;
+  width: 3.2rem;
+  margin-top: 0.24rem;
+  margin-right: 0.2rem;
+}
+.indexEightList dl dt {
+  height: 1.32rem;
+  background: url(/images/znhq/jiaoyiImg-icon.png) no-repeat center 0;
+  background-size: 1.2rem 1.32rem;
+  line-height: 1.5;
+  padding-top: 0.3rem;
+  color: #805b00;
+  text-align: center;
+  position: relative;
+  z-index: 15;
+  font-size: 0.24rem;
+}
+.indexEightList dl dd {
+  padding: 0.78rem 0.2rem 0;
+  background: rgba(128, 91, 0, 0.3);
+  height: 2.16rem;
+  text-align: center;
+  position: relative;
+  margin-top: -0.7rem;
+  border-radius: 0.05rem;
+  font-size: 0.2rem;
+}
+.indexEightList dl:nth-child(2n) {
+  margin-right: 0;
+}
+.footer-text {
+  text-align: center;
+  background: #999999;
+  color: #fff;
+  font-size: 0.18rem;
+  padding: 0.05rem 0;
+}
+.footer-text2 {
+  text-align: center;
+  background: #303034;
+  font-size: 0.18rem;
+  color: #fff;
+  padding: 0.15rem 0;
+}
+.down-fixed {
+  background: #fff8e6;
+  text-align: center;
+  padding: 0.22rem 0;
+  color: #d0a12e;
+  font-size: 0.36rem;
+}
+.winboxbg {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  display: none;
+  font-size: 0.28rem;
+  background: rgba(0, 0, 0, 0.6);
+}
+.winboxbg .winbox {
+  width: 6.5rem;
+  margin: 0 auto;
+  position: relative;
+  top: 20%;
+  height: 6.71rem;
+  background: url(../images/winbg.png) no-repeat;
+  background-size: 100% 6.71rem;
+}
+.winboxbg .winbox .p-close {
+  text-align: right;
+  position: absolute;
+  right: 0.1rem;
+  width: 0.76rem;
+  height: 0.76rem;
+  padding-right: 0.3rem;
+}
+.winboxbg .winbox .ul-listinput {
+  padding: 1.95rem 0 0;
+}
+.winboxbg .winbox .ul-listinput li {
+  overflow: hidden;
+  padding-bottom: 0.24rem;
+  padding-left: 0.4rem;
+  padding-right: 0.4rem;
+}
+.winboxbg .winbox .ul-listinput li input {
+  width: 100%;
+  background: #fff;
+  text-indent: 1.5%;
+  border: 0;
+  font-size: 0.28rem;
+  color: #000;
+  height: 0.724rem;
+  line-height: 0.724rem;
+}
+.winboxbg .winbox .ul-listinput li .p-code {
+  display: -webkit-flex;
+  /* Safari */
+  display: flex;
+}
+.winboxbg .winbox .ul-listinput li .p-code .pInput {
+  width: 2.4208rem;
+}
+.winboxbg .winbox .ul-listinput li .p-code .code-btn {
+  flex: 1;
+  -webkit-box-flex: 1;
+  margin-left: 0.15rem;
+}
+.winboxbg .winbox .ul-listinput li .p-code .code-btn .sms_btn {
+  width: 100%;
+  color: #fff;
+  background: #7b5106;
+  -webkit-box-shadow: 0 2px 4px rgba(123, 81, 6, 0.28);
+  -moz-box-shadow: 0 2px 4px rgba(123, 81, 6, 0.28);
+  box-shadow: 0 2px 4px rgba(123, 81, 6, 0.28);
+  border: 0;
+  font-size: 0.26rem;
+  border-radius: 0.15rem;
+  height: 0.724rem;
+  line-height: 0.724rem;
+}
+.winboxbg .winbox .ul-listinput li .p-code .code-btn .setColor {
+  background: #999;
+  color: #666;
+}
+.winboxbg .winbox .ul-listinput li .submit_btn {
+  width: 100%;
+  color: #f1383a;
+  background: #fff;
+  -webkit-box-shadow: 0 4px 8px rgba(9, 2, 4, 0.28);
+  -moz-box-shadow: 0 4px 8px rgba(9, 2, 4, 0.28);
+  box-shadow: 0 4px 8px rgba(9, 2, 4, 0.28);
+  border: 0;
+  font-size: 0.28rem;
+  text-align: center;
+  padding: 0.3rem 0.15rem;
+  display: block;
+  border-radius: 0.18rem;
+  overflow: hidden;
+}
+.winboxbg .winbox .ul-listinput .colorText {
+  color: #fff;
+  padding: 0;
+  padding-bottom: 0.21rem;
+  padding-left: 0.45rem;
+  font-size: 0.18rem;
+}
+.winboxbg .winbox .ul-listinput .pb01 {
+  padding-bottom: 0.1rem;
+}
+.winboxbg .winbox .ul-listinput .pb03 {
+  padding-bottom: 0.3rem;
+}
+/*# sourceMappingURL=style.css.map */

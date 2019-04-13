@@ -28,15 +28,15 @@
     </div>
     <div class="activeCenter">
         <div class="mianCenter">
-            <p>各位投资朋友大家好，很高兴再次来跟大家来分享炒金经验。上次我写了一篇如何正确把握买卖点的文章，之后的一个月里陆续有很多朋友加我，之后他们觉得我的方法还算有效， 能让他们赚钱，所以建议我要多多分享经验。今天在这里给大家分享的是炒金亏损20万之后通过天行老师（微信号：<span class="weixin">XRL1152</span>）的交易技法找回上百万的经历。想学习的朋友可以加老师微信，朋友圈干货任你拿。</p>
+            <p>各位投资朋友大家好，很高兴再次来跟大家来分享炒金经验。上次我写了一篇如何正确把握买卖点的文章，之后的一个月里陆续有很多朋友加我，之后他们觉得我的方法还算有效， 能让他们赚钱，所以建议我要多多分享经验。今天在这里给大家分享的是炒金亏损20万之后通过天行老师<!-- （微信号：<span class="weixin">XRL1152</span>） -->的交易技法找回上百万的经历。想学习的朋友可以加老师微信，朋友圈干货任你拿。</p>
             <p class="img"><img src="http://img.zengwf.com/images/kuisun/644.jpg" alt=""  style="width: 80%;"></p>
             <p>今年6月份的时候，通过闺蜜的介绍，了解到炒金。我本来就是男孩子性格，敢闯敢拼，很快就对炒金产生了浓厚的兴趣，就在老公那偷偷拿了20万，开了一个黄金账户。毕竟是新手，虽然我的性子大大咧咧，却也不是莽夫，前期就跟闺蜜买，而且买的比较小。或许女人对数字总不是特别敏感，行情倒是每天波动都挺大，却始终把握不到。买到手突然大跌，才卖出去就涨了起来；狠下心多买点的时候大跌，小心谨慎买一丁点的时候又涨。亏多赚少，亏大赚小，虽是女中“豪杰”，时间一长，任谁都难免焦躁，就这样进进出出，一个月的时间20万几乎已经亏损殆尽。由于炒金老亏影响心情的缘故，我那段时间面色枯黄，消瘦许多，最终被老公发现我的“壮举”，大吵了一架也冷战了三天。</p>
-            <p>到了现在这种局面，我很是不甘心，于是在我网上找各种投资赚钱的方法，当时我老公都说我疯魔了一样。终于功夫不负有心人，我在网上跟朋友交流的时候，他们有时候会透露一两句说自己听了什么什么分析师的建议买进卖出，我开始刻意的去跟他们打听，在我不断的再三询问下，一个朋友跟我说，他一直跟着一位投资高手炒金，好几次听了他的建议及时抛出，才避免了亏钱。我跟朋友要了这位投资分析师的微信号：<span class="weixin">XRL1152</span>。但我难免还是有点怀疑：一个分析师有这么牛？能够给我帮助吗？而且还是<span style="color: red; font-weight: bold; font-size: 14px;">免费的</span>。</p>
+            <p>到了现在这种局面，我很是不甘心，于是在我网上找各种投资赚钱的方法，当时我老公都说我疯魔了一样。终于功夫不负有心人，我在网上跟朋友交流的时候，他们有时候会透露一两句说自己听了什么什么分析师的建议买进卖出，我开始刻意的去跟他们打听，在我不断的再三询问下，一个朋友跟我说，他一直跟着一位投资高手炒金，好几次听了他的建议及时抛出，才避免了亏钱。我跟朋友要了这位投资分析师的微信号<!-- ：<span class="weixin">XRL1152</span> -->。但我难免还是有点怀疑：一个分析师有这么牛？能够给我帮助吗？而且还是<span style="color: red; font-weight: bold; font-size: 14px;">免费的</span>。</p>
             <p>加了微信号之后，我始终保持学习的姿态。对老师教的方法、关键点、行情分析和操作建议，我都会密切关注。就这样过了半个多月，我发现天行老师真的是挺厉害的，平时聊天说的都是干货，很稳。这次我和老公商量之后，开始跟着天行老师学习、操作（<span style="color: red; font-weight: bold; font-size: 14px;">反正不要钱</span>），先是小进小出，然后慢慢做大。看着当初亏掉的钱一点点的赚回来，那种成就感让人热泪盈眶。目前我跟老师免费学了有两个多月，虽然中间自己也有过几次小亏，总的来说还是赚了不少。非但收回当初亏的钱，还净赚了不少呢。而最最主要的是两个多月下来，我学到很多专业知识。就以我现在掌握的方法、知识，再也不会像以前那样亏的那么惨，当然也还不会像跟老师那样有把握。 下面一起来看看我最近的战绩:</p>
             <p class="img">
                 <img alt="" src="http://img.zengwf.com/images/kuisun/a2.jpg" style="width: 100%;"><img alt="" src="http://img.zengwf.com/images/kuisun/a3.jpg" style="width: 100%;"></p>
-            <p><span style="color: red; font-weight: bold; font-size: 14px;">非常感谢天行老师，能够教给我技术并带领我们在投资路上走的更好更远，</span><span style="color: #000; font-weight: bold; font-size: 14px;">我也相信要不了半年，我也可以在黄金市场收益过百万！</span>同样非常感谢老公对我的支持和信任。也感谢网友把天行这么好的老师介绍给我认识。在我赚钱之后，我把天行老师也介绍给了我的闺蜜。我也想身边的朋友都能炒金赚到钱。独乐乐，不如众乐乐。看到这里肯定有很多朋友想加上老师的微信学习炒金技巧，想学习炒金技巧的朋友可以加老师微信：<span class="weixin">XRL1152</span>；让你炒金技术一天比一天好。</p>
-            <p class="img"><img src="http://img.zengwf.com/images/wxtg/XRL1152.jpg" alt="" style="width: 50%;"></p>
+            <p><span style="color: red; font-weight: bold; font-size: 14px;">非常感谢天行老师，能够教给我技术并带领我们在投资路上走的更好更远，</span><span style="color: #000; font-weight: bold; font-size: 14px;">我也相信要不了半年，我也可以在黄金市场收益过百万！</span>同样非常感谢老公对我的支持和信任。也感谢网友把天行这么好的老师介绍给我认识。在我赚钱之后，我把天行老师也介绍给了我的闺蜜。我也想身边的朋友都能炒金赚到钱。独乐乐，不如众乐乐。看到这里肯定有很多朋友想加上老师的微信学习炒金技巧，想学习炒金技巧的朋友可以加老师微信<!-- ：<span class="weixin">XRL1152</span>； -->让你炒金技术一天比一天好。</p>
+            <p class="img"><img src="http://p09rldi4k.bkt.clouddn.com/image/wxbh/er2.jpg" alt="" style="width: 50%;"></p>
         </div>
     </div>
     <div class="line"></div>
@@ -203,7 +203,7 @@
 </div>
 <div class="footer">
     <p>投资有风险，入市需谨慎</p>
-    <p>&copy; 版权所有：上海问财互联网金融信息服务有限公司  ICP备案号：沪ICP备16002215号</p>
+    <p>&copy; 版权所有：义乌聚鼎网络科技有限公司</p>
 </div>
 </div>
 <div class="btn_erwei " id="left_btn">领取红包</div>
@@ -211,14 +211,14 @@
 <div id="erweima" style="display: none;">
     <a id="close_erwei">点击关闭</a>
     <h2 class="top_font">恭喜！您获得<font style="color: red;">经纪人特权</font>抢先体检资格</h2>
-    <div align="center"> <img src="http://img.zengwf.com/images/wxtg/XRL1152.jpg" width="200" height="200"></div>
+    <div align="center"> <img src="http://p09rldi4k.bkt.clouddn.com/image/wxbh/er2.jpg" width="200" height="200"></div>
     <div class="erwei_font">
         <p>1.请使用手机截屏或者长按保存本图</p>
         <p>2.在微信中打开右上角“扫一扫” </p>
         <p>3.点击右上角从“相册”选择本图 </p>
     </div>
 </div>
-<div class="f-btm">
+<!-- <div class="f-btm">
     <p style="text-align: center;
 				background-color: #f9415a;
 				color: #fff;
@@ -229,7 +229,7 @@
 				font-size: 4.1rem;">XRL1152<a href="javascript:window.location.href='weixin://'"><span style="margin-left: 15px; background:#e7e7e7; border:1px solid #a1a1a1; padding:0px 5px; margin-right:5px;">打开微信</span></a>
     </p>
     <span style="color:red;font-size: 2.5rem;"><p align="center">长按微信号可以复制，加好友免费咨询投资技巧</p></span>
-</div>
+</div> -->
 <script type="text/javascript">
     $('#close_erwei').click(function(){
         $('#erweima').css({"display":"none"});

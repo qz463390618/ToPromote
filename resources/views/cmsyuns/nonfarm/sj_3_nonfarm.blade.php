@@ -31,7 +31,7 @@
 </div>
 <div class="copyright">
     <h2 style="margin-bottom: 0;">投资有风险,入市需谨慎</h2>
-    <p>&copy; 版权所有：金创互动科技（深圳）有限公司   ICP备案号：粤ICP备16102940号-1</p>
+    <p>&copy; 版权所有：义乌聚鼎网络科技有限公司</p>
 </div>
 {{--写跳转过来的页面--}}
 <input type="hidden" name="referr" value="<?= isset($_SERVER['HTTP_REFERER']) ? $_SERVER['HTTP_REFERER'] :'' ?>">

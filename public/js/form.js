@@ -82,6 +82,7 @@ $(function()
     var btnXz = $('#btn-submit');
     $(btnXz).click(function()
     {
+        // var idx = layer.load();
         $.ajax({
             url:'/addClient',
             type:'post',
@@ -96,6 +97,7 @@ $(function()
             },
             success:function(data)
             {
+                // layer.close(idx);
                 //console.log(data);
                 if(data == 101)
                 {
@@ -112,7 +114,9 @@ $(function()
                 }else if(data == 200)
                 {
                     $(Form).css('display','none');
-                    $(wx).css('display','block');
+                    //扫描二维码的遮罩层 隐藏
+                    // $(wx).css('display','block');
+                    
                     if(browserRedirect())
                     {
                         window.location.href="../file/Samex_setup.exe";
@@ -127,13 +131,16 @@ $(function()
                     }
                     //获取关闭微信按钮
                     var wx_colse = $('.wx_colse');
-                    console.log(wx_colse);
+                    // console.log(wx_colse);
                     $(wx_colse).click(function()
                     {
                         //删除微信元素
                         $(wx).css('display','none');
                         $(mask).css('display','none');
                     });
+                    
+                    //执行（获取关闭微信按钮）
+                    $(wx).find('a.wx_colse').click();
                    /* $(Form).css('display','none');
                     //创建微信号元素
                     //$(mask).css('display','none');

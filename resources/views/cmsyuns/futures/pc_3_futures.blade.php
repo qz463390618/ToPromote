@@ -40,7 +40,7 @@
 </div>
 <div class="footer navbar-fixed-bottom">
     投资有风险,入市需谨慎!<br />
-    Copyright © 2017 金创互动科技（深圳）有限公司   粤ICP备16102940号-1
+    © 版权所有：义乌聚鼎网络科技有限公司
 </div>
 
 {{--写跳转过来的页面--}}
@@ -58,7 +58,7 @@
                 <input type="hidden" name="_token" value="{{csrf_token()}}" id="_token">
                 <div class="form-content">
                     <div class="form-group">
-                        <label for="txtName1" class="form-label">姓&nbsp;&nbsp;&nbsp;&nbsp;名</label>
+                        <label for="txtName1" class="form-label">姓&nbsp;&nbsp;名</label>
                         <div class="form-input">
                             <input type="text" name="txtName1" id="txtName1" aria-required="true">
                         </div>

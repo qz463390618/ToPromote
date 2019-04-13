@@ -6,6 +6,7 @@
     <link rel="stylesheet" href="{{url('css/the_sport/xh.css')}}">
     <link rel="stylesheet" href="{{url('css/form.css')}}">
     <script src="{{url('js/jquery.js')}}"></script>
+    <!-- <script src="{{url('js/layer/layer.js')}}"></script> -->
     <style>
         .copyright{
             width:100%;
@@ -17,6 +18,9 @@
             margin-top: 0;}
         .copyright p{color:#fff;
             text-align: center; }
+        .top{
+            width:100%;
+        }
     </style>
 </head>
 <body>
@@ -76,7 +80,7 @@
     </div>
     <div class="copyright" >
         <h2 style="margin-bottom: 0;">投资有风险,入市需谨慎</h2>
-        <p>&copy; 版权所有：金创互动科技（深圳）有限公司   ICP备案号：粤ICP备16102940号-1</p>
+        <p>&copy; 版权所有：义乌聚鼎网络科技有限公司</p>
     </div>
 </div>
 {{--写跳转过来的页面--}}
@@ -94,7 +98,7 @@
                 <input type="hidden" name="_token" value="{{csrf_token()}}" id="_token">
                 <div class="form-content">
                     <div class="form-group">
-                        <label for="txtName1" class="form-label">姓&nbsp;&nbsp;&nbsp;&nbsp;名</label>
+                        <label for="txtName1" class="form-label">姓&nbsp;&nbsp;名</label>
                         <div class="form-input">
                             <input type="text" name="txtName1" id="txtName1" aria-required="true">
                         </div>
@@ -107,8 +111,6 @@
                         </div>
                         <div class="clear"></div>
                     </div>
-
-
 
                     <div class="form-group">
                         <label for="txtSmsCode1" class="form-label">验证码</label>
@@ -155,5 +157,5 @@
         $(Form).css('display','block');
     });
 </script>
-<script src="{{url('js/form.js')}}"></script>
+<script src="{{url('js/Tform.js')}}"></script>
 </html>

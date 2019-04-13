@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="{{url('css/form.css')}}">
     <link rel="stylesheet" href="{{url('css/touzi/n_pc_touzi.css')}}">
     <script src="{{url('js/jquery.js')}}"></script>
+    <!-- <script src="{{url('js/layer/layer.js')}}"></script> -->
 </head>
 <body>
 <div class="div-1">
@@ -33,7 +34,7 @@
 </div>
 <div class="copyright">
     <h2 style="margin-bottom: 0;">投资有风险,入市需谨慎</h2>
-    <p>&copy; 版权所有：金创互动科技（深圳）有限公司   ICP备案号：粤ICP备16102940号-1</p>
+    <p>&copy; 版权所有：义乌聚鼎网络科技有限公司</p>
 </div>
 <div class="div-5 navbar-fixed-bottom">
     <h3>输入手机号码，免费下载使用：</h3>

@@ -40,10 +40,10 @@
     <a href="#" class="visible-phone"><i class="icon icon-home"></i> 控制台</a>
     <ul>
         <li class=""><a href="{{url('/admin')}}"><i class="icon icon-home"></i> <span>新用户</span></a></li>
-
         <li><a href="{{url('/admin/all')}}"><i class="icon icon-th"></i> <span>所有用户</span></a></li>
-        <li><a href="{{url('admin/message')}}"><i class="icon icon-th"></i> <span>网页标志</span></a></li>
+        <!-- <li><a href="{{getUserRughts() == 1 ?url('admin/message'):url('#')}}"><i class="icon icon-th"></i> <span>网页标志</span></a></li> -->
 
+        <li><a href="{{url('admin/message')}}"><i class="icon icon-th"></i> <span>网页标志</span></a></li>
     </ul>
 
 </div>

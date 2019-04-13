@@ -11,9 +11,9 @@
 <div id="cs_box">
     <span class="cs_title">扫码加微信</span>
     <span class="cs_close">x</span>
-    <div class="cs_img"><img src="http://img.zengwf.com/images/wxtg/HK201855.jpg" style="height: 100px; width: 100px;"></div>
+    <div class="cs_img"><img src="http://p09rldi4k.bkt.clouddn.com/er1.jpg" style="height: 100px; width: 100px;"></div>
     <span class="cs_info">获取每日操作建议</span>
-    <div class="cs_btn">HK201855</div>
+    <!-- <div class="cs_btn">HK201855</div> -->
 </div>
 <div class="main">
     <div id="hd">
@@ -170,17 +170,17 @@
                                         <br>
                                         　　 我大学毕业后，在一家中小型公司从事普通文员工作。诚诚恳恳工作了大约一年时间，每天都重复的相同的工作，钱很少又特别枯燥，直到有一天中午听到同事在议论什么eia,初请，等等一系列的行情，在行情中赚了多少个点，那是我第一次听说期货，不知道什么意思，他们说是期货投资，可以赚钱。然后他们跟我讲，怎么操作期货，怎么玩，听的我云里雾里，感觉像是赌博一样的游戏，我们的主管说，你以前不也是做过股票吗，股票很多战法和压力位支撑位，在期货市场上更容易更轻松的把握，我就是用之前我们一起看那个均线战法视屏老师的炒股技巧做期货的，从而现在大获全胜。<br>
                                         <br>
-                                        　　我的天啊，多懊恼当时自己没认真学习那套均线方法，后面在百度上搜索一下类似什么战法找到了现在带我在期货市场盈利的非常热心的老师。老师的微信号：<a href="javascript:window.location.href='weixin://'" target="_blank" class="ui-link" onclick="_czc.push(['_trackEvent', '广告', '点击', '微信']);"><font style="background: yellow" color="red" size="3">HK201855</font></a>;，那天，我既兴奋又激动，晚上我躺在床上再也睡不着了，因为老师就是用这种均线炒股方式在做期货投资的，和我主管说的方式很相似，虽然我也不懂什么战法，于是我开户后存了10万元钱作为初始资金开始正式期货投资了，由于和我们主管的说法和做单方式都非常吻合，既然什么都不懂就暂且相信专家的分析吧，于是先用一半仓位跟上专家的分析操作，下单成交后那个激动呀，又一个人生的第一次经历，只有过来人才能体会到。老师的方法对的概率非常高，起码有8成以上。我觉得这对我来说是一次机会，一个改变自己命运和人生的机会。 于是到第四天账户就到14万多了，我决定和爱人商量了一下，与其这么辛苦去研究这么多股票，还不如用精一个方法去研究单一的期货产品，决定加多10万资金跟上老师的布局。我的投资经历开始往好的方向慢慢发展。这个专家教会了我怎么看出行情真实的影响因素，数据对行情的真实影响到底怎么判断，最厉害的一点还给出了具体的行情走势分析，而且到现在基本上都是正确的。一直这么做都是大赚小赔，非常满足，甚至超出想象，根本不敢想象，赚钱可以如此轻松的。静静地等着数钱吧，不出所期，一个月账户就翻倍了。 <br>
+                                        　　我的天啊，多懊恼当时自己没认真学习那套均线方法，后面在百度上搜索一下类似什么战法找到了现在带我在期货市场盈利的非常热心的老师。<!-- 老师的微信号：<a href="javascript:window.location.href='weixin://'" target="_blank" class="ui-link" onclick="_czc.push(['_trackEvent', '广告', '点击', '微信']);"><font style="background: yellow" color="red" size="3">HK201855</font></a>;， -->那天，我既兴奋又激动，晚上我躺在床上再也睡不着了，因为老师就是用这种均线炒股方式在做期货投资的，和我主管说的方式很相似，虽然我也不懂什么战法，于是我开户后存了10万元钱作为初始资金开始正式期货投资了，由于和我们主管的说法和做单方式都非常吻合，既然什么都不懂就暂且相信专家的分析吧，于是先用一半仓位跟上专家的分析操作，下单成交后那个激动呀，又一个人生的第一次经历，只有过来人才能体会到。老师的方法对的概率非常高，起码有8成以上。我觉得这对我来说是一次机会，一个改变自己命运和人生的机会。 于是到第四天账户就到14万多了，我决定和爱人商量了一下，与其这么辛苦去研究这么多股票，还不如用精一个方法去研究单一的期货产品，决定加多10万资金跟上老师的布局。我的投资经历开始往好的方向慢慢发展。这个专家教会了我怎么看出行情真实的影响因素，数据对行情的真实影响到底怎么判断，最厉害的一点还给出了具体的行情走势分析，而且到现在基本上都是正确的。一直这么做都是大赚小赔，非常满足，甚至超出想象，根本不敢想象，赚钱可以如此轻松的。静静地等着数钱吧，不出所期，一个月账户就翻倍了。 <br>
                                         <br>
                                         　　
                                         　　今天跟着老师又小赚一笔<br>
                                         <div align="center">
                                             <img src="http://img.zengwf.com/images/lttg/22.jpg" width="700" height="365" align="center"></div><br>
                                         <br>
-                                        　　尝到了第一次甜头，我就继续听取专家的指导， 在后面的指导中，我获利颇丰， 资金也一度上升到100多万，这也算是在投资市场掘到了真正意义上的第一桶金，我买了辆自己梦寐以求的跑车。真心感谢专家的建议，现在朋友们都叫我富婆了呢。 所谓知恩图报， 想在投资市场和我一样赚钱的朋友加专家微信：<a href="javascript:window.location.href='weixin://'" target="_blank" class="ui-link" onclick="_czc.push(['_trackEvent', '广告', '点击', '微信']);"><font style="background: yellow" color="red" size="3">HK201855</font></a>;希望你也能成为下一个人生赢家。<br>
+                                        　　尝到了第一次甜头，我就继续听取专家的指导， 在后面的指导中，我获利颇丰， 资金也一度上升到100多万，这也算是在投资市场掘到了真正意义上的第一桶金，我买了辆自己梦寐以求的跑车。真心感谢专家的建议，现在朋友们都叫我富婆了呢。 所谓知恩图报， 想在投资市场和我一样赚钱的朋友加专家微信希望你也能成为下一个人生赢家。<br>
                                         <br>　　<font style="background: #fff" color="blue">这个是老师的二维码，你们可以打开微信→点击发现→点击扫一扫→扫描下面的二维码添加老师。</font><br>
                                         <div align="center">
-                                            <img src="http://img.zengwf.com/images/wxtg/HK201855.jpg" width="300" height="300" align="center">
+                                            <img src="http://p09rldi4k.bkt.clouddn.com/er1.jpg" width="300" height="300" align="center">
                                         </div><br>
                                     </td></tr>
                                 <tr>
@@ -188,7 +188,7 @@
                                         <div class="po">
                                             <div class="pob cl">
                                                 <p>
-                                                    <a href="http://img.zengwf.com/images/wxtg/HK201855.jpg" onclick="_czc.push(['_trackEvent', '广告', '点击', '微信']);">期货老师微信：HK201855</a>
+                                                    <!-- <a href="http://p09rldi4k.bkt.clouddn.com/er1.jpg" onclick="_czc.push(['_trackEvent', '广告', '点击', '微信']);">期货老师微信：HK201855</a> -->
                                                 </p>
                                             </div>
                                         </div>
@@ -278,7 +278,7 @@
                         <div class="po">
                             <div class="pob cl">
                                 <p>
-                                    <a href="http://img.zengwf.com/images/wxtg/HK201855.jpg">期货老师微信：HK201855</a>
+                                    <a href="http://p09rldi4k.bkt.clouddn.com/er1.jpg">期货老师微信：HK201855</a>
                                 </p>
                             </div>
                         </div>
@@ -337,7 +337,7 @@
                             <div class="pob cl">
                                 <em></em>
                                 <p>
-                                    <a href="http://img.zengwf.com/images/wxtg/HK201855.jpg" onclick="_czc.push(['_trackEvent', '广告', '点击', '微信']);">期货老师微信：HK201855</a>
+                                    <a href="http://p09rldi4k.bkt.clouddn.com/er1.jpg" onclick="_czc.push(['_trackEvent', '广告', '点击', '微信']);">期货老师微信：HK201855</a>
                                 </p>
                             </div>
                         </div>
@@ -601,14 +601,14 @@
         </p>
     </div>
     <br>
-    <div style="text-align:center;  border-top:1px solid #CCC; padding-top:7px;"><p style="font-size: 1px;">投资有风险 投资需谨慎</p><p>&copy; 版权所有：上海问财互联网金融信息服务有限公司  ICP备案号：沪ICP备16002215号
+    <div style="text-align:center;  border-top:1px solid #CCC; padding-top:7px;"><p style="font-size: 1px;">投资有风险 投资需谨慎</p><p>&copy;版权所有：义乌聚鼎网络科技有限公司
         </p>
     </div>
 </div>
 
 </div>
 <div class="fixbox">
-    <img class="wx_pho" style="max-width:100%;" src="http://img.zengwf.com/images/wxtg/HK201855.jpg">
+    <img class="wx_pho" style="max-width:100%;" src="http://p09rldi4k.bkt.clouddn.com/er1.jpg">
     <div class="txt" type="edit" name="t1">
         <div class="tit">
             ← 微信扫一扫二维码并<span>添加好友</span> <b>免费</b>分享炒黄金策略

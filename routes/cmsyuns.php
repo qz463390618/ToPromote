@@ -288,8 +288,16 @@ Route::domain('ww.cmsyuns.cn')->group(function () {
         return view('cmsyuns.wxtg.sj_3_2_wxtg');
     });
 	
-	
-	
+	//微信爆好股
+	Route::get('wxbh',function()
+    {
+        return view('cmsyuns.wxbh.pc_wxbh');
+    });
+    //股票新星
+    Route::get('gpxx',function()
+    {
+        return view('cmsyuns.gpxx.pc_gpxx');
+    });
 	
 	
 	

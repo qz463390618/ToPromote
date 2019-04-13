@@ -70,6 +70,38 @@ class RouteServiceProvider extends ServiceProvider
         Route::middleware('web')
             ->namespace($this->namespace)
             ->group(base_path('routes/cmsyuns.php'));
+        //ww.chuangdc.cn
+        Route::middleware('web')
+            ->namespace($this->namespace)
+            ->group(base_path('routes/chuangdc.php'));
+        //www.zhangzhenzen.xin
+        Route::middleware('web')
+            ->namespace($this->namespace)
+            ->group(base_path('routes/zhangzhenzen.php'));
+        //ww.sxzctec078.cn
+        Route::middleware('web')
+            ->namespace($this->namespace)
+            ->group(base_path('routes/sxzctec078.php'));
+        //ww.sxzctec018.cn
+        Route::middleware('web')
+            ->namespace($this->namespace)
+            ->group(base_path('routes/sxzctec018.php'));
+        //ww.kfxiong.com.cn
+        Route::middleware('web')
+            ->namespace($this->namespace)
+            ->group(base_path('routes/kfxiong.php'));
+        //ww.hctz188.cn
+        Route::middleware('web')
+            ->namespace($this->namespace)
+            ->group(base_path('routes/hctz188.php'));
+        //ww.sxzctec007.cn
+        Route::middleware('web')
+            ->namespace($this->namespace)
+            ->group(base_path('routes/sxzctec007.php'));
+		//'ww.weihuiyuan3.top
+        Route::middleware('web')
+            ->namespace($this->namespace)
+            ->group(base_path('routes/goynch.php'));
     }
 
     /**

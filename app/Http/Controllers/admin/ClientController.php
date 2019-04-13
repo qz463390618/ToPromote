@@ -54,18 +54,49 @@ class ClientController extends Controller
 				$mark = '神马';
 				break;
 		}*/
-		$mark = getMark($host);
-        if($mark == '')
-        {
-            $se_url_id = UrlMessage::select(['id'])->get();
-        }else{
-            $se_url_id = UrlMessage::select(['id'])->where('url_se',$mark)->get();
+        
+        //不分类查询
+		// $mark = getMark($host);
+      //  if($mark == '')
+      //  {
+      //           $se_url_id = UrlMessage::select(['id'])->get();
+      //       }else{
+      //           $se_url_id = UrlMessage::select(['id'])->where('url_se',$mark)->get();
+      //       }
+      //       if(!$se_url_id->isEmpty())
+      //       {
+      //           $se_url_id = $se_url_id ->toArray();
+      //       }
+        
+        // 1.根据url域名区分查询
+        // $host = 'ww.chuangdc.cn';
+        // $se_url_id = UrlMessage::select(['id'])->where('url','like',$host.'%')->get();
+        
+        //2.根据权限来显示页面上的数据 权限为
+        //(1)-显示所有 (2)显示当前所有(打马赛克) 
+        //(3)-除去xsy和sport的当前域名 (4).只显示xsy/sport
+        $role = getUserRughts();
+        if ($role == 1) {
+           $se_url_id = UrlMessage::select(['id'])->get();
+        }elseif ($role == 2) {
+           $se_url_id = UrlMessage::select(['id'])->where('url','like',$host.'%')
+           ->where(function($query){
+                $query->where('url','like','%.cn')
+                ->orwhere('url','like','%mtouzi');
+           })->get();
+        }elseif($role == 3){
+           $se_url_id = UrlMessage::select(['id'])->where('url','like',$host.'%')
+           ->where('url','not like','%.cn')
+           ->where('url','not like','%mtouzi')
+           ->get(); 
         }
+
         if(!$se_url_id->isEmpty())
         {
             $se_url_id = $se_url_id ->toArray();
         }
-		//var_dump($se_url_id);
+
+		// var_dump($se_url_id);
 		if(!empty($request -> search_time) || !empty($request -> search_word) )
         {
 			//当搜索时间不为空时,处理搜索时间
@@ -229,10 +260,5 @@ class ClientController extends Controller
         return $mark;
     }
 }
-
-
-
-
-
 
 ?>
