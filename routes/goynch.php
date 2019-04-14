@@ -1,5 +1,5 @@
 <?php
-Route::domain('ww.weihuiyuan3.top')->group(function () {
+Route::domain('weihuiyuan3.top')->group(function () {
 	//微信论坛推广微信1
     Route::get('lttg',function()
     {
@@ -340,6 +340,11 @@ Route::domain('ww.weihuiyuan3.top')->group(function () {
     Route::get('scjzj',function(){
         return view('cmsyuns.cjzj.sj_cjzj');
     });
+	//股票诊断-pc 
+    Route::get('gpzd',function(){
+    	return view('cmsyuns.gpzd.pc_gpzd');
+    });
+
 	
 	
 	
