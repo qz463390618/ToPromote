@@ -361,7 +361,7 @@
         <p>投资有风险，入市需谨慎 <br>
           从事证券投资或期货交易，请通过合法证券期货经营机构进行。 <br>
           合法机构名单可到中国证监会网站（www.csrc.gov.cn）查询 <br>
-          Copyright 2017 广州速耐商贸有限公司. 版权所有</p>
+          Copyright 2017 浦江合趣网络科技有限公司. 版权所有</p>
       </div>
     </div>
   </div>
@@ -369,7 +369,7 @@
 <!-- <script src="{{url('/js/gpzd/deflu.js')}}"></script><div class="loadBox" id="loadBox"> -->
     <div class="load_content">
         <div class="load_title">
-            <div class="load_discuss">正在从数据库中调取<span class="kindName">诊断</span>报告<span class="spot">...</span></div>
+            <!-- <div class="load_discuss">正在从数据库中调取<span class="kindName">诊断</span>报告<span class="spot">...</span></div> -->
             <div class="load_barbox">
                 <div class="load_barline">
                     <div style="width:0;" class="load_charts"></div>

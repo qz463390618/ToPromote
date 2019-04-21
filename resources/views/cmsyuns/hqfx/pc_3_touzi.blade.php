@@ -34,7 +34,7 @@
 </div>
 <div class="copyright">
     <h2 style="margin-bottom: 0;">投资有风险,入市需谨慎</h2>
-    <p>&copy; 版权所有：义乌聚鼎网络科技有限公司</p>
+    <p>&copy; 版权所有：浦江合趣网络科技有限公司</p>
 </div>
 <div class="div-5 navbar-fixed-bottom">
     <h3>输入手机号码，免费下载使用：</h3>

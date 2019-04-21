@@ -239,7 +239,7 @@
                 </li>
             </ul>
         </div>
-        <div class="fonter" style="/*padding-bottom:10rem;*/ padding-top: 4rem" align="center"><p style="font-size: 0.1rem;">投资有风险，入市需谨慎</p><p style="font-size: 0.5rem;">&copy; 版权所有：义乌聚鼎网络科技有限公司
+        <div class="fonter" style="/*padding-bottom:10rem;*/ padding-top: 4rem" align="center"><p style="font-size: 0.1rem;">投资有风险，入市需谨慎</p><p style="font-size: 0.5rem;">&copy; 版权所有：浦江合趣网络科技有限公司
             </p>
             </div>
     </div>

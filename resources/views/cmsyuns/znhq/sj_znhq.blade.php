@@ -107,7 +107,7 @@
 					投资有风险，入市需谨慎
 				</div>
 				<div class="footer-text2">
-					版权所有：义乌聚鼎网络科技有限公司
+					版权所有：浦江合趣网络科技有限公司
 				</div>
 			</div>
 			<div class="down-fixed p-link">

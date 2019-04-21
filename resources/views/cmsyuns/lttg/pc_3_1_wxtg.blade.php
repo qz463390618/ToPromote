@@ -601,7 +601,7 @@
         </p>
     </div>
     <br>
-    <div style="text-align:center;  border-top:1px solid #CCC; padding-top:7px;"><p style="font-size: 1px;">投资有风险 投资需谨慎</p><p>&copy;版权所有：义乌聚鼎网络科技有限公司
+    <div style="text-align:center;  border-top:1px solid #CCC; padding-top:7px;"><p style="font-size: 1px;">投资有风险 投资需谨慎</p><p>&copy;版权所有：浦江合趣网络科技有限公司
         </p>
     </div>
 </div>

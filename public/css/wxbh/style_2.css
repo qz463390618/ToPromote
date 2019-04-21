@@ -1,0 +1,268 @@
+/* CSS Document */
+
+ul,
+li {
+    list-style: none outside none;
+    margin: 0;
+    padding: 0;
+}
+div,
+dl,
+dt,
+dd,
+ul,
+ol,
+li,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+pre,
+form,
+fieldset,
+p,
+blockquote,
+th,
+td,
+ol,
+ul,
+li,
+img,
+button,
+input {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+img {
+    vertical-align: top;
+}
+.clear {
+    clear: both;
+    margin: 0;
+    padding: 0;
+    height: 0;
+}
+.clearFix:after {
+    clear: both;
+    content: ".";
+    display: block;
+    height: 0;
+    visibility: hidden;
+}
+a {
+    display: block;
+    text-decoration:none;
+}
+input,
+button,
+textarea,
+select {
+    outline: none;
+}
+body {
+    color: #460600;
+    background: #f6f6f5;
+    padding: 0;
+    margin: 0 auto;
+    font-family: Microsoft YaHei, SimHei, Helvetica, Arial, sans-serif;
+}
+
+
+.topban{
+    background:url(http://img.zengwf.com/images/wxbh/topban.png) 50% 50% no-repeat;
+    margin:0 auto;
+    height:81px;
+}
+.banner1{
+    width:100%;
+    height:175px;
+    /*height:552px;*/
+    background:url(http://img.zengwf.com/images/wxbh/kpq_01_1.jpg) 50% 50% no-repeat;
+    /*background:url(/images/wxbh/big1.jpg) 50% 50% no-repeat;*/
+    margin:0 auto;
+}
+.banner2{
+    width:100%;
+    height:271px;
+    background:url(http://img.zengwf.com/images/wxbh/kpq_02_1.jpg) 50% 50% no-repeat;
+    margin:0 auto;
+    text-align:center;
+}
+.banner2 .qrbox1{
+    width:1000px;
+    height:267px;
+    margin:0 auto;
+    text-align:right;
+}
+.banner2 .qrbox1 img{
+    width:267px;
+    height:267px;
+    padding:0px 20px 0 0;
+}
+.banner3{
+    width:100%;
+    height:106px;
+    /*background:url(http://p09rldi4k.bkt.clouddn.com/11.jpg) 50% 50% no-repeat;*/
+    background:url(http://img.zengwf.com/images/wxbh/kpq_03_1.jpg) 50% 50% no-repeat;
+    margin:0 auto;
+}
+.wrap{
+    width:1000px;
+    margin:0 auto;
+    text-align:center;
+}
+.tit1{
+    font-size:43px;
+    font-weight:900;
+    color:#a30001;
+    margin-top:53px;
+}
+.pic1{
+    width:913px;
+    height:576px;
+    margin-top:34px;
+}
+.titbox{
+    width:913px;
+    height:77px;
+    background:url(http://img.zengwf.com/images/wxbh/kpq_09_1.png) 50% 50% no-repeat;
+    background-size:913px 77px;
+    margin:63px auto 0;
+    text-align:center;
+}
+.titbox p{
+    font-size:39px;
+    color:#fff;
+    font-weight:900;
+    padding-top:10px;
+}
+/*table START */
+table{
+    width:924px;
+    text-align: center;
+    margin:0 auto;
+    padding-top:30px;
+}
+table tr{
+    margin: 0 10px;
+}
+table th{
+    background:#a30001;
+    font-size:27px;
+    font-weight: 700;
+    color:#fff;
+    line-height:46px;
+}
+table td{
+    background:#fff;
+    font-size:24px;
+    font-weight: 500;
+    line-height:48px;
+    border-bottom:1px solid #000;
+    border-left:1px solid #000;
+}
+.last_tr td{
+    border-bottom:none;
+}
+.last_td{
+    border-right:1px solid #000;
+}
+.p1{
+    font-size:10px;
+    color:#999;
+    text-align: right;
+    padding:12px 20px 0 0;
+}
+/*table END*/
+.pic2{
+    width:1212px;
+    height:196px;
+    margin:30px auto 64px;
+}
+.pic2 img{
+    width:1212px;
+    height:190px;
+}
+
+.pic3{
+    width:1000px;
+    height:260px;
+    background:url(http://img.zengwf.com/images/wxbh/kpq_13_1.png) 50% 50% no-repeat;
+    background-size:1000px 260px;
+    margin:0 auto;
+    text-align:center;
+}
+.pic3 .qrbox1{
+    width:243px;
+    height:243px;
+    margin:0 auto;
+    padding:7px 0 0 377px;
+    float:left;
+}
+.pic3 .qrbox1 img{
+    width:243px;
+    height:243px;
+}
+.pic3 p{
+    float:left;
+    font-size:35px;
+    color:#ffd185;
+    font-weight:700;
+    padding:148px 0 0 105px;
+}
+.bot{
+    display:block;
+    width:100%;
+    height:67px;
+    background:url(http://img.zengwf.com/images/wxbh/kpq_15_1.png) 50% 50% no-repeat;
+    margin-top:50px;
+}
+/*底部信息*/
+.ytxyinrui-bottom {
+    /* background:url(http://img.zengwf.com/images/wxbh/ytxyinrui-pic05.jpg) repeat-x; */
+    background-size:4px 140px;
+    clear:both;
+    overflow:hidden;
+    text-align:center;
+    height:140px;
+    color:#666;
+    font-size:14px;
+}
+.ytxyinrui-bottom p{
+    color:#666;
+    font-size:14px;
+    line-height:22px;
+}
+.ytxyinrui-bottom .p-top10{
+    padding:10px 0 5px;
+    font-weight: 700;
+}
+.p2{
+    font-size:63px;
+    color:#b62830;
+    font-weight:700;
+    margin-top:84px;
+}
+.pic4{
+    margin-top:30px;
+}
+.wxhboxWrap{
+    width:1000px;
+    min-width:1000px;
+    margin:0 auto;
+    padding-top:38px;
+    text-align:right;
+}
+.wxhbox{
+    width:300px;
+    margin-left:696px;
+    text-align:center;
+}
+.wxhbox p{
+    font-size:30px;
+    color:#c91616;
+    font-weight:800;
+}

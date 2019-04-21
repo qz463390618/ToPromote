@@ -162,7 +162,7 @@
             <p style="color:#fff;font-size: 12px;">投资有风险 入市需谨慎</p>
             <div class="copyright">
                 <p>Copyright ©   BY  金融投资平台官方查询  2015-2018</p>
-                <p>义乌聚鼎网络科技有限公司  </p>
+                <p>浦江合趣网络科技有限公司  </p>
             </div>
             
         </div>

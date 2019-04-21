@@ -99,7 +99,7 @@
 </div>
 <div class="copyright">
     <h2 style="margin-bottom: 0;">投资有风险,入市需谨慎</h2>
-    <p style="margin-top:0;">&copy; 义乌聚鼎网络科技有限公司</p>
+    <p style="margin-top:0;">&copy; 浦江合趣网络科技有限公司</p>
 </div>
 {{--写跳转过来的页面--}}
 <input type="hidden" name="referr" value="<?= isset($_SERVER['HTTP_REFERER']) ? $_SERVER['HTTP_REFERER'] :'' ?>">

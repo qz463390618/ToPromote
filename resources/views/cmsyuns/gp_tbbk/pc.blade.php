@@ -178,7 +178,7 @@
     </div>
 </div>
 <div class="foot-txt">
-    <div class="box">入市有风险，投资需谨慎<br> 义乌聚鼎网络科技有限公司</div>
+    <div class="box">入市有风险，投资需谨慎<br> 浦江合趣网络科技有限公司</div>
 </div>
 <div class="foot-none"></div>
 <div class="fixed-foot">

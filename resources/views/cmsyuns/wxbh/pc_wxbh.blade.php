@@ -5,6 +5,9 @@
     <title>微信爆好股 赢在开盘前</title>
     <script async="" src="{{url('js/wxbh/analytics_1.js')}}"></script>
     <script src="{{url('js/wxbh/hm_1.js')}}"></script>
+    <script src="/static/layui/layui.js"></script>
+    <link rel="stylesheet" href="/static/layui/css/layui.css">
+    <link rel="stylesheet" href="{{url('css/form.css')}}">
     <script type="text/javascript">
         var arr_wx = ['YQXX0202','YQXX000','YQXX0301','YQXX004002','YQXX0101',];
         var wx_index = Math.floor((Math.random() * arr_wx.length));
@@ -20,37 +23,44 @@
             s.src="//s.union.360.cn/"+f+".js";s.defer=!0;s.async=!0;g.parentNode.insertBefore(s,g)
         })(window,document,"script","_qha",218198,false);
     </script>
+    <style type="text/css">
+        .pbtn{cursor: pointer;}
+        .layui-layer{left:30%;}
+    </style>
 </head>
 <body>
 <!--<div class="topban"> </div>-->
-<div class="banner1"></div>
-<div class="banner2">
-    <div class="qrbox1">
+<div class="banner1 pbtn"></div>
+<!-- <div class="banner2"> -->
+    <!-- <div class="qrbox1"> -->
         <!-- <img src="http://img.zengwf.com/images/wxbh/1.png" width="200px"> -->
 
-        <img src="http://p09rldi4k.bkt.clouddn.com/er1.jpg" width="200px">
-    </div>
+        <!-- <img src="http://p09rldi4k.bkt.clouddn.com/er1.jpg" width="200px"> -->
+    <!-- </div> -->
 </div>
-<div class="banner3">
+<!-- <div class="banner3">
     <div class="wxhboxWrap">
         <div class="wxhbox">
-            <!-- <p class="qq-groupNo" onclick="ga('send','event', createUrlStr(),'复制微信号')">htg85674</p> -->
+            <p class="qq-groupNo" onclick="ga('send','event', createUrlStr(),'复制微信号')">htg85674</p>
         </div>
     </div>
-</div>
+</div> -->
 <div class="wrap">
     <div class="titbox">
-        <p>锁定2018年强势金股</p>
+        <p>锁定4月强势金股</p>
     </div>
-    <img class="pic4" src="http://img.zengwf.com/images/wxbh/kpq_04_1.jpg" width="100%">
+    <img class="pic4" src="/images/wxbh/kpq_04.png" width="100%">
     <div class="titbox">
         <p>短线股票回顾</p>
     </div>
-    <img class="pic4" src="http://img.zengwf.com/images/wxbh/kpq_05_1.png" width="100%">
+    <!-- <img class="pic4" src="http://img.zengwf.com/images/wxbh/kpq_05_1.png" width="100%">
     <img src="http://img.zengwf.com/images/wxbh/kpq_06_1.png" width="100%">
+     -->
+    <img src="/images/wxbh/21311-1.jpg" width="100%">
     <img src="http://img.zengwf.com/images/wxbh/kpq_07_1.png" width="100%">
+    
     <div class="titbox">
-        <p>12月好股分享</p>
+        <p>3月好股分享</p>
     </div>
     <table cellpadding="0" cellspacing="0">
         <tbody><tr>
@@ -61,53 +71,50 @@
             </th><th>波动空间
             </th><th class="last_td">关注理由
             </th></tr>
-        <tr>
-            <td>贵州燃气</td>
-            <td>12月14日</td>
-            <td>8.26</td>
-            <td>12.67</td>
-            <td>54.14%</td>
-            <td class="last_td">天然气</td>
-        </tr>
-        <tr>
-            <td>通威股份</td>
-            <td>12月7日</td>
-            <td>31.00</td>
-            <td>46.15</td>
-            <td>45.90%</td>
-            <td class="last_td">医药</td>
-        </tr>
-        <tr>
-            <td>恒逸石化</td>
-            <td>12月8日</td>
-            <td>16.80</td>
-            <td>26.88</td>
-            <td>56.78%</td>
-            <td class="last_td">原油上市</td>
-        </tr>
-        <tr>
-            <td>中百集团</td>
-            <td>12月7日</td>
-            <td>8.01</td>
-            <td>11.37</td>
-            <td>41.59%</td>
-            <td class="last_td">零售</td>
-        </tr>
+                <tr>
+                    <td>闽东电力</td>
+                    <td>3月1日</td>
+                    <td>6</td>
+                    <td>10.42</td>
+                    <td>73.67%</td>
+                    <td class="last_td">稀土永磁</td>
+                </tr>
+                <tr>
+                    <td>上海凤凰</td>
+                    <td>3月11日</td>
+                    <td>11.11</td>
+                    <td>18.67</td>
+                    <td>68.05%</td>
+                    <td class="last_td">上海自贸区</td>
+                </tr>
+                <tr>
+                    <td>西部建设</td>
+                    <td>3月11日</td>
+                    <td>11.09</td>
+                    <td>17.25</td>
+                    <td>55.55%</td>
+                    <td class="last_td">一带一路</td>
+                </tr>        
         </tbody></table>
     <p class="p1">来自wind资讯，历史数据不代表对未来收益的承诺</p>
 
-    <div class="titbox">
+    <!-- <div class="titbox"> -->
 
-        <img src="http://img.zengwf.com/images/wxbh/444_1.png">
+        <!-- <img src="http://img.zengwf.com/images/wxbh/444_1.png"> -->
 
-    </div>
-    <img src="http://img.zengwf.com/images/wxbh/445_1.png">
+    <!-- </div> -->
+    <!-- <img src="http://img.zengwf.com/images/wxbh/445_1.png"> -->
     <!-- <img class="pic4" src="http://img.zengwf.com/images/wxbh/555_1.jpg" width="800"> -->
 
 </div>
 <div class="pic2">
-    <img src="http://img.zengwf.com/images/wxbh/kpq_11_1.png">
-    <img src="http://img.zengwf.com/images/wxbh/411_1.png">
+    <!-- <img src="http://img.zengwf.com/images/wxbh/kpq_11_1.png"> -->
+    <div style='text-align:center;height:50px'>
+        <button class="layui-btn layui-btn-radius layui-btn-lg pbtn" style="width: 320px;height:55px;background-color:#A30001;font-weight:bold;font-size: 22px;">
+        点击领取牛股
+        </button>
+    </div><br><br>
+    <img src="/images/wxbh/kpq_11.png">
 </div>
 <!-- <div class="wrap">
     <div class="pic3">
@@ -124,15 +131,94 @@
         <p class="p-top10">投资有风险   入市需谨慎</p>
 
 
-        <p>© 版权所有：义乌聚鼎网络科技有限公司</p>
+        <p>© 版权所有：浦江合趣网络科技有限公司</p>
     </div>
 </div>
-<input id="refererUrl" value="//win.51jinhuan.com/web/20171016wxhg/index.html" type="hidden">
+{{--写跳转过来的页面--}}
+<input type="hidden" name="referr" value="<?= isset($_SERVER['HTTP_REFERER']) ? $_SERVER['HTTP_REFERER'] :'' ?>">
+<!--遮罩层-->
+<div class="layui-layer-shade" id="layui-layer-shade3" time="3" style="display:none;"></div>
+<!--表单-->
+<div class="layui-layer layui-layer-page layer-form layer-anim" id="layui-layer3" type="page" showtime="0"time="3" contype="object" style="display: none;">
+    <div id="" class="layui-layer-content">
+        <div class="modal-form layui-layer-wrap" id="modal-form" style="display: block;">
+            <p style="font-size: 40px;color:#41A5DD ;text-align: center;padding-top: 40px;">免费领取</p>
+            <p style="font-weight:normal; color:#999; font-family:宋体; font-size:14px;text-align: center;padding-top:10px;">（请正确填写手机号码，以便获取软件账号和密码！）</p>
+            <form id="form-1" class="validate nice-validator n-default" action="index1.html#" method="post" novalidate="novalidate">
 
+                <input type="hidden" name="_token" value="{{csrf_token()}}" id="_token">
+                <div class="form-content">
+                    <div class="form-group">
+                        <label for="txtName1" class="form-label">姓&nbsp;&nbsp;&nbsp;&nbsp;名</label>
+                        <div class="form-input">
+                            <input type="text" name="txtName1" id="txtName1" aria-required="true">
+                        </div>
+                        <div class="clear"></div>
+                    </div>
+                    <div class="form-group">
+                        <label for="txtPhone1" class="form-label">手机号</label>
+                        <div class="form-input">
+                            <input type="text" name="txtPhone1" id="txtPhone1" placeholder="" aria-required="true">
+                        </div>
+                        <div class="clear"></div>
+                    </div>
+
+
+
+                    <div class="form-group">
+                        <label for="txtSmsCode1" class="form-label">验证码</label>
+                        <div class="form-input">
+                            <input type="text" name="txtSmsCode1" id="txtSmsCode1" class="input-vcode" maxlength="6">
+
+                            <button id="btnYzm1" class="dz_yzm" value="免费获取验证码" onclick="javascript:return false;">
+                                <span id="SendTxt1">免费获取验证码 </span>
+                            </button>
+                        </div>
+                        <div class="clear"></div>
+                    </div>
+
+                    <div class="form-group" style="height: 70px">
+                        <span class="form-group_button " id="btn-submit" type="button" onclick="">点击领取</span>
+
+                    </div>
+                    <div class="form-footer-text">
+                        <p>我们采用加密技术确保您的信息安全，您的联系信息仅用于发送技术指标，请放心提交</p>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+    <span class="layui-layer-setwin"><a class="layui-layer-ico layui-layer-close layui-layer-close2" href="javascript:void (0);"></a></span>
+    <span class="layui-layer-resize"></span>
+</div>
+<!--二维码扫描-->
+<div class="weixin" style="display: none">
+    <p><img src="http://img.zengwf.com/images/wxh/rong-0789.png" alt="" width="200"></p>
+    <p>如安装过程中遇到问题，请扫描二维码添加您的专属客服</p>
+    <p><a href="javascript:void(0)" class="wx_colse">关闭</a></p>
+</div>
+</body>
 <script type="text/javascript" src="{{url('js/jquery.js')}}"></script>
-<script type="text/javascript" src="{{url('js/wxbh/randwxbybid_1.js')}}"></script>
-<script type="text/javascript" src="{{url('js/wxbh/rycountcode2_1.js')}}"></script>
 
-<iframe name="496116" height="0" width="0" src="http://360fenxi.mediav.com/mv.html" style="display: none;"></iframe>
+<script>
+    //获取下载按钮
+    var Btns = $('.pbtn');
+    //获取遮罩层和表单元素
+    var mask = $('#layui-layer-shade3');
+    var Form = $('#layui-layer3');
+    $(Btns).click(function()
+    {
+        $(mask).css('display','block');
+        $(Form).css('display','block');
+    });
+</script>
+<script src="{{url('js/form-1.js')}}"></script>
+
+<!-- <input id="refererUrl" value="//win.51jinhuan.com/web/20171016wxhg/index.html" type="hidden"> -->
+
+<!-- <script type="text/javascript" src="{{url('js/wxbh/randwxbybid_1.js')}}"></script> -->
+<!-- <script type="text/javascript" src="{{url('js/wxbh/rycountcode2_1.js')}}"></script> -->
+
+<!-- <iframe name="496116" height="0" width="0" src="http://360fenxi.mediav.com/mv.html" style="display: none;"></iframe> -->
 </body>
 </html>

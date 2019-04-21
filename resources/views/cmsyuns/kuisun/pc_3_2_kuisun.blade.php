@@ -252,7 +252,7 @@
     </div>
     <div class="footer">
         <p>投资有风险，入市需谨慎</p>
-        <p>&copy;  版权所有：义乌聚鼎网络科技有限公司</p>
+        <p>&copy;  版权所有：浦江合趣网络科技有限公司</p>
     </div>
 </div>
 <div class="rightweixin">

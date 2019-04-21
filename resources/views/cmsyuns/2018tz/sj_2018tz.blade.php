@@ -28,7 +28,7 @@
     <div class="s s10"><img src="http://p09rldi4k.bkt.clouddn.com/images/2018tzs10.jpg" alt="" width="100%"></div>
     <div class="buttom">
       <p>投资有风险,入市需谨慎</p>
-      <span>©版权所有：义乌聚鼎网络科技有限公司
+      <span>©版权所有：浦江合趣网络科技有限公司
         </span>
     </div>
 

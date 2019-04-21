@@ -694,7 +694,7 @@ create_pc_media_set_pic('layer542A611DE77836C5338C15E5F80AD27F',false);
 
 <div class="botton">
 		<p>投资有风险,入市需谨慎</p>
-		<span>© 版权所有：义乌聚鼎网络科技有限公司</span>
+		<span>© 版权所有：浦江合趣网络科技有限公司</span>
 
 </div>
 </div>

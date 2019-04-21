@@ -107,7 +107,7 @@
     </div>
     <div class="footer">
         <h2 style="margin-bottom: 0;font-size: 0.1rem;">投资有风险,入市需谨慎</h2>
-        <p>&copy; 版权所有：义乌聚鼎网络科技有限公司</p>
+        <p>&copy; 版权所有：浦江合趣网络科技有限公司</p>
     </div>
 </div>
 {{--写跳转过来的页面--}}

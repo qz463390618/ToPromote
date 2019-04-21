@@ -50,7 +50,6 @@
 
         })
     }else{
-        console.log("璇疯緭鍏ユ纭殑bid");
         return;
     }
 

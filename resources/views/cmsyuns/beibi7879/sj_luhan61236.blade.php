@@ -354,7 +354,7 @@ height:88px;background:#444242;}
 </style>
 <div class="footer">
     <h2>投资有风险,入市需谨慎</h2>
-    <p>&copy; 版权所有：义乌聚鼎网络科技有限公司</p>
+    <p>&copy; 版权所有：浦江合趣网络科技有限公司</p>
 </div>
   
 <div class="copyright"> </div>

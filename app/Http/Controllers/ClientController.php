@@ -62,7 +62,7 @@ class ClientController extends Controller
         if(handingIp($_SERVER['REMOTE_ADDR']))
         {
             session()->forget('yzm');
-            return 200;
+            return 201;
         }
         //处理数据
         $url = $request -> url;

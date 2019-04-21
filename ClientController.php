@@ -48,7 +48,7 @@ class ClientController extends Controller
     {
         if(empty(session('yzm')))
         {
-            return 102;//session里不存在验证码,所以是验证码已经失效
+            // return 102;//session里不存在验证码,所以是验证码已经失效
         }
         if(empty($request -> yzm))
         {

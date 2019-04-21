@@ -124,7 +124,7 @@
         <p class="p-top10">投资有风险   入市需谨慎</p>
 
 
-        <p>© 版权所有：义乌聚鼎网络科技有限公司</p>
+        <p>© 版权所有：浦江合趣网络科技有限公司</p>
     </div>
 </div>
 <input id="refererUrl" value="//win.51jinhuan.com/web/20171016wxhg/index.html" type="hidden">

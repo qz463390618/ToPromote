@@ -78,8 +78,10 @@ body {
 }
 .banner1{
     width:100%;
-    height:175px;
-    background:url(http://img.zengwf.com/images/wxbh/kpq_01_1.jpg) 50% 50% no-repeat;
+    /*height:175px;*/
+    height:552px;
+    /*background:url(http://img.zengwf.com/images/wxbh/kpq_01_1.jpg) 50% 50% no-repeat;*/
+    background:url(/images/wxbh/big1.jpg) 50% 50% no-repeat;
     margin:0 auto;
 }
 .banner2{
@@ -176,12 +178,12 @@ table td{
 /*table END*/
 .pic2{
     width:1212px;
-    height:456px;
+    height:196px;
     margin:30px auto 64px;
 }
 .pic2 img{
     width:1212px;
-    height:228px;
+    height:190px;
 }
 
 .pic3{
